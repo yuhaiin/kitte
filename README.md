@@ -1,7 +1,7 @@
 # kitte
 
 default:  
-https://raw.githubusercontent.com/yuhaiin/kitte/yuhaiin/yuhaiin.conf
+https://raw.githubusercontent.com/yuhaiin/kitte/main/yuhaiin/yuhaiin.conf
 
 contain
 
