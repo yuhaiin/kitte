@@ -6,6 +6,7 @@ cd cn
 cd ..
 
 cd yuhaiin
+. ./get.sh
 . ./update.sh
 cd ..
 
