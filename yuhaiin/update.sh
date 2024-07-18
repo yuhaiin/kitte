@@ -22,8 +22,8 @@ cat apple.china.conf | sed 's/$/ DIRECT/g' >> yuhaiin.conf
 cat ../cn/cn.acl | sed 's/$/ DIRECT,tag=CN/g' >> yuhaiin.conf
 cat ../common/lan.acl | sed 's/$/ DIRECT,tag=LAN/g' >> yuhaiin.conf
 cat abroad_ip.conf | sed 's/$/ PROXY/g' >> yuhaiin.conf
-cat google.conf >> yuhaiin.conf
-cat stream.conf >> yuhaiin.conf
+cat google.conf | sed 's/$/ PROXY,tag=google/g' >> yuhaiin.conf
+cat stream.conf | sed 's/$/ PROXY,tag=stream/g' >> yuhaiin.conf
 cat bt.conf >> yuhaiin.conf
 
 # AD

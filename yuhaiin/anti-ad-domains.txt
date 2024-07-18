@@ -18742,6 +18742,12 @@
 *.boostog.net
 *.share.boostorder.com
 *.polhvf.bootbarn.com
+*.bootcdn.cn
+*.www.bootcdn.cn
+*.bootcdn.net
+*.www.bootcdn.net
+*.bootcss.com
+*.www.bootcss.com
 *.bootharchie.com
 *.smetrics.boothehvac.com
 *.bootstrap-framework.org
@@ -88955,6 +88961,10 @@
 *.static-cnt.bid
 *.static-sb.com
 *.static-srv.com
+*.staticfile.net
+*.www.staticfile.net
+*.staticfile.org
+*.www.staticfile.org
 *.px.staticfiles.at
 *.staticiv.com
 *.staticjs.cn
