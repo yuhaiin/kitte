@@ -14,4 +14,3 @@ curl ${APPLE_CHINA_DOMAIN} | sed $'s/\r$//' | sed 's/server=\///g' | sed 's/\/11
 curl "${ANTI_AD_DOMAINS}" | sed $'s/\r$//' | sed '/^#/d' | sed 's/#.*$//g' | sed 's/# /*\./g' | sed '/^ *$/d' | sed 's/^/*./g' > anti-ad-domains.txt
 curl "${PGLYOYO}" | sed $'s/\r$//' | sed '/ *[Adblock] */d' > pglyoyo.txt
 curl ${AD_WARS_HOSTS} | sed $'s/\r$//' | sed 's/127.0.0.1 //g' | sed '/^#.*$/'d | sed '1,2d' | sed '/^ *$/d' > ad_wars_hosts
-
