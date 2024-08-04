@@ -36,6 +36,8 @@ megapu.sh
 mpstat.us
 *.mxptint.net
 mxptint.net
+*.mystat-in.net
+mystat-in.net
 *.ns1p.net
 ns1p.net
 *.p.nag.ru
