@@ -40,8 +40,6 @@ mxptint.net
 mystat-in.net
 *.ns1p.net
 ns1p.net
-*.p.nag.ru
-p.nag.ru
 *.prf.hn
 prf.hn
 *.primetime.net
