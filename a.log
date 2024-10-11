@@ -1,0 +1,138 @@
+(gnome-network-displays:3226622): GLib-GIO-DEBUG: 23:49:55.289: Using cross-namespace EXTERNAL authentication (this will deadlock if server is GDBus < 2.73.3)
+(gnome-network-displays:3226622): GLib-GIO-DEBUG: 23:49:55.291: _g_io_module_get_default: Found default implementation dconf (DConfSettingsBackend) for ‘gsettings-backend’
+(gnome-network-displays:3226622): dconf-DEBUG: 23:49:55.291: watch_fast: "/org/gnome/desktop/interface/" (establishing: 0, active: 0)
+(gnome-network-displays:3226622): dconf-DEBUG: 23:49:55.292: watch_fast: "/org/gnome/desktop/peripherals/mouse/" (establishing: 0, active: 0)
+(gnome-network-displays:3226622): dconf-DEBUG: 23:49:55.292: watch_fast: "/org/gnome/desktop/sound/" (establishing: 0, active: 0)
+(gnome-network-displays:3226622): dconf-DEBUG: 23:49:55.292: watch_fast: "/org/gnome/desktop/privacy/" (establishing: 0, active: 0)
+(gnome-network-displays:3226622): dconf-DEBUG: 23:49:55.292: watch_fast: "/org/gnome/desktop/wm/preferences/" (establishing: 0, active: 0)
+(gnome-network-displays:3226622): dconf-DEBUG: 23:49:55.292: watch_fast: "/org/gnome/desktop/a11y/" (establishing: 0, active: 0)
+(gnome-network-displays:3226622): dconf-DEBUG: 23:49:55.292: watch_fast: "/org/gnome/desktop/a11y/interface/" (establishing: 0, active: 0)
+(gnome-network-displays:3226622): dconf-DEBUG: 23:49:55.292: watch_established: "/org/gnome/desktop/interface/" (establishing: 1)
+(gnome-network-displays:3226622): dconf-DEBUG: 23:49:55.292: watch_established: "/org/gnome/desktop/peripherals/mouse/" (establishing: 1)
+(gnome-network-displays:3226622): dconf-DEBUG: 23:49:55.292: watch_established: "/org/gnome/desktop/sound/" (establishing: 1)
+(gnome-network-displays:3226622): dconf-DEBUG: 23:49:55.292: watch_established: "/org/gnome/desktop/privacy/" (establishing: 1)
+(gnome-network-displays:3226622): dconf-DEBUG: 23:49:55.292: watch_established: "/org/gnome/desktop/wm/preferences/" (establishing: 1)
+(gnome-network-displays:3226622): dconf-DEBUG: 23:49:55.292: watch_established: "/org/gnome/desktop/a11y/" (establishing: 1)
+(gnome-network-displays:3226622): dconf-DEBUG: 23:49:55.292: watch_established: "/org/gnome/desktop/a11y/interface/" (establishing: 1)
+(gnome-network-displays:3226622): Gtk-DEBUG: 23:49:55.297: Connecting to session manager
+(gnome-network-displays:3226622): Gtk-DEBUG: 23:49:55.297: Failed to get the GNOME session proxy: The name org.gnome.SessionManager is not owned
+(gnome-network-displays:3226622): Gtk-DEBUG: 23:49:55.297: Failed to get the Xfce session proxy: The name org.xfce.SessionManager is not owned
+(gnome-network-displays:3226622): GLib-GIO-DEBUG: 23:49:55.298: _g_io_module_get_default: Found default implementation local (GLocalVfs) for ‘gio-vfs’
+(gnome-network-displays:3226622): Adwaita-DEBUG: 23:49:55.330: Setting org.freedesktop.appearance.contrast of type u not found
+(gnome-network-displays:3226622): GLib-GIO-DEBUG: 23:49:55.354: Using cross-namespace EXTERNAL authentication (this will deadlock if server is GDBus < 2.73.3)
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:55.355: NdWindow: Got avahi client
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:55.355: NdWindow: Got avahi browser
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message: linux_read_sorted_physical_devices:
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message:      Original order:
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message:            [0] AMD Radeon Graphics (RADV RENOIR)
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message:      Sorted order:
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message:            [0] AMD Radeon Graphics (RADV RENOIR)  
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message: linux_read_sorted_physical_devices:
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message:      Original order:
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message:            [0] AMD Radeon Graphics (RADV RENOIR)
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message:      Sorted order:
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message:            [0] AMD Radeon Graphics (RADV RENOIR)  
+(gnome-network-displays:3226622): Gdk-DEBUG: 23:49:55.400: Vulkan: Loader Message: Copying old device 0 into new device 0
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message: linux_read_sorted_physical_devices:
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message:      Original order:
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message:            [0] AMD Radeon Graphics (RADV RENOIR)
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message:      Sorted order:
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message:            [0] AMD Radeon Graphics (RADV RENOIR)  
+(gnome-network-displays:3226622): Gdk-DEBUG: 23:49:55.400: Vulkan: Loader Message: Copying old device 0 into new device 0
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message: linux_read_sorted_physical_devices:
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message:      Original order:
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message:            [0] AMD Radeon Graphics (RADV RENOIR)
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message:      Sorted order:
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message:            [0] AMD Radeon Graphics (RADV RENOIR)  
+(gnome-network-displays:3226622): Gdk-DEBUG: 23:49:55.400: Vulkan: Loader Message: Copying old device 0 into new device 0
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message: Failed to find vkGetDeviceProcAddr in layer "/usr/lib/amdvlk64.so"
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message: vkCreateDevice layer callstack setup to:
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message:    <Application>
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message:      ||
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message:    <Loader>
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message:      ||
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message:    <Device>
+Gdk-INFO: 23:49:55.400: Vulkan: Loader Message:        Using "AMD Radeon Graphics (RADV RENOIR)" with driver: "/usr/lib/libvulkan_radeon.so"
+(gnome-network-displays:3226622): Gtk-DEBUG: 23:49:55.479: snapshot symbolic icon using mask
+(gnome-network-displays:3226622): Gtk-DEBUG: 23:49:55.480: snapshot symbolic icon using mask
+(gnome-network-displays:3226622): Gtk-DEBUG: 23:49:55.480: snapshot symbolic icon using mask
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:55.488: NdPulseaudio: Querying sink info by name
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:55.488: NdCCProvider: Found sink AS-SMX510[Cast] - AirScreen at 95e82b13-56b6-4162-890c-429193a8b4ce.local:8009 on interface 6
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:55.488: NdCCProvider: Resolved 95e82b13-56b6-4162-890c-429193a8b4ce.local to 192.168.2.232
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:55.488: NdCCSink: Adding IP 192.168.2.232 to match list
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:55.488: MetaSink: Priority sink updated. Priority: 50
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:55.488: SinkList: Adding a sink
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:55.490: NdNMDeviceRegistry: Got NMClient
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:55.491: NdPulseaudio: Error querying sink info
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:55.491: NdPulseaudio: Got a sink info for the expected name
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:57.385: Created screencast session
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.124: CcMediaFactory: Checking profile 0
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.124: CcMediaFactory: Found vaapih264enc gst element.
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.124: CcMediaFactory: Found opusenc gst element.
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.124: CcMediaFactory: Found matroskamux gst element.
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.124: CcMediaFactory: Selected media profile PROFILE_HIGH_H264. Set factory profile to 5
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.124: NdCCSink: Attempting connection to Chromecast AS-SMX510[Cast] - AirScreen at IP 192.168.2.232
+(gnome-network-displays:3226622): GLib-GIO-DEBUG: 23:49:59.136: _g_io_module_get_default: Found default implementation gnutls (GTlsBackendGnutls) for ‘gio-tls-backend’
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.165: CcComm: Connecting to: 192.168.2.232
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.165: CcComm: Local address: 192.168.2.245
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.165: Got state change notification from streaming sink to state ND_SINK_STATE_WAIT_SOCKET
+(gnome-network-displays:3226622): Gtk-DEBUG: 23:49:59.173: snapshot symbolic icon using mask
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.180: CcComm: Sending message:
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.180: {"source_id":"sender-gnd949","destination_id":"receiver-0","namespace":"urn:x-cast:com.google.cast.tp.connection","payload_utf8":{"type":"CONNECT","userAgent":"GND/0.93.0 (Wayland; Linux x86_64)","connType":0,"origin":{},"senderInfo":{"sdkType":2,"version":"Wayland; Linux x86_64","browserVersion":"Wayland; Linux x86_64","platform":6,"connectionType":1}}}
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.180: CcComm: Sending message:
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.180: {"source_id":"sender-gnd949","destination_id":"receiver-0","namespace":"urn:x-cast:com.google.cast.receiver","payload_utf8":{"type":"GET_STATUS","requestId":0}}
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.259: CcComm: Received message size: 95
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.259: CcComm: Received message:
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.259: {"source_id":"receiver-0","destination_id":"sender-gnd949","namespace":"urn:x-cast:com.google.cast.tp.connection","payload_utf8":{"type":"CONNECTED"}}
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.259: CcCtrl: Unknown message type
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.303: CcComm: Received message size: 561
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.303: CcComm: Received message:
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.303: {"source_id":"receiver-0","destination_id":"sender-gnd949","namespace":"urn:x-cast:com.google.cast.receiver","payload_utf8":{"type":"RECEIVER_STATUS","requestId":0,"status":{"applications":[{"appId":"E8C28D3C","displayName":"Backdrop","isIdleScreen":true,"namespaces":[{"name":"urn:x-cast:com.google.cast.debugoverlay"},{"name":"urn:x-cast:com.google.cast.cac"},{"name":"urn:x-cast:com.google.cast.sse"}],"sessionId":"9bdf5c17-1eed-4c8b-ad70-c004f83bf947","statusText":"","transportId":"9bdf5c17-1eed-4c8b-ad70-c004f83bf947"}],"volume":{"controlType":"attenuation","level":0.34000000000000002,"muted":false,"stepInterval":0.050000000000000003}}}}
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.303: CcCtrl: Session id for app E8C28D3C: 9bdf5c17-1eed-4c8b-ad70-c004f83bf947
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.303: CcComm: Sending message:
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.303: {"source_id":"sender-gnd949","destination_id":"receiver-0","namespace":"urn:x-cast:com.google.cast.receiver","payload_utf8":{"type":"GET_APP_AVAILABILITY","appId":["CC1AD845"],"requestId":1}}
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.364: CcComm: Received message size: 167
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.364: CcComm: Received message:
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.364: {"source_id":"receiver-0","destination_id":"sender-gnd949","namespace":"urn:x-cast:com.google.cast.receiver","payload_utf8":{"responseType":"GET_APP_AVAILABILITY","requestId":1,"availability":{"CC1AD845":"APP_AVAILABLE"}}}
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.364: CcComm: Sending message:
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:49:59.364: {"source_id":"sender-gnd949","destination_id":"receiver-0","namespace":"urn:x-cast:com.google.cast.receiver","payload_utf8":{"type":"LAUNCH","launguage":"en-US","appId":"CC1AD845","requestId":2}}
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.518: CcComm: Received message size: 623
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.518: CcComm: Received message:
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.518: {"source_id":"receiver-0","destination_id":"sender-gnd949","namespace":"urn:x-cast:com.google.cast.receiver","payload_utf8":{"requestId":2,"status":{"applications":[{"appId":"CC1AD845","displayName":"Default Media Receiver","isIdleScreen":false,"namespaces":[{"name":"urn:x-cast:com.google.cast.debugoverlay"},{"name":"urn:x-cast:com.google.cast.cac"},{"name":"urn:x-cast:com.google.cast.media"},{"name":"urn:x-cast:com.google.cast.inject"}],"sessionId":"3d7abe77-5544-4aa9-a8c0-5e40bf50b7be","statusText":"","transportId":"3d7abe77-5544-4aa9-a8c0-5e40bf50b7be"}],"volume":{"controlType":"attenuation","level":0.34000000000000002,"muted":false,"stepInterval":0.050000000000000003}},"type":"RECEIVER_STATUS"}}
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.518: CcCtrl: Session id for app CC1AD845: 3d7abe77-5544-4aa9-a8c0-5e40bf50b7be
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.518: CcCtrl: App is open
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.518: CcComm: Sending message:
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.518: {"source_id":"sender-gnd949","destination_id":"3d7abe77-5544-4aa9-a8c0-5e40bf50b7be","namespace":"urn:x-cast:com.google.cast.tp.connection","payload_utf8":{"type":"CONNECT","userAgent":"GND/0.93.0 (Wayland; Linux x86_64)","connType":0,"origin":{},"senderInfo":{"sdkType":2,"version":"Wayland; Linux x86_64","browserVersion":"Wayland; Linux x86_64","platform":6,"connectionType":1}}}
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.518: use x11: 0
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.518: Got a stream with node ID: 105
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.518: Got a stream of type: 4
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.524: NdCCSink: Create source signal emitted
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.570: NdCCSink: Create audio source signal emitted
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.579: CcMediaFactory: Successfully created the media pipeline
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.597: CcHttpServer: Listening on port 44251
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.597: CcComm: Sending message:
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.597: {"source_id":"sender-gnd949","destination_id":"3d7abe77-5544-4aa9-a8c0-5e40bf50b7be","namespace":"urn:x-cast:com.google.cast.media","payload_utf8":{"type":"LOAD","media":{"contentUrl":"http://192.168.2.245:44251/","streamType":"LIVE","contentType":"video/x-matroska"},"requestId":3}}
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.598: CcMediaFactory: State changed: from NULL to READY
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.620: CcComm: Received message size: 121
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.620: CcComm: Received message:
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.620: {"source_id":"3d7abe77-5544-4aa9-a8c0-5e40bf50b7be","destination_id":"sender-gnd949","namespace":"urn:x-cast:com.google.cast.tp.connection","payload_utf8":{"type":"CONNECTED"}}
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.620: CcCtrl: Unknown message type
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.822: CcComm: Received message size: 658
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.822: CcComm: Received message:
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.822: {"source_id":"3d7abe77-5544-4aa9-a8c0-5e40bf50b7be","destination_id":"sender-gnd949","namespace":"urn:x-cast:com.google.cast.media","payload_utf8":{"type":"MEDIA_STATUS","status":[{"mediaSessionId":1,"playbackRate":1,"playerState":"IDLE","currentTime":0,"supportedMediaCommands":274447,"volume":{"level":1,"muted":false},"media":{"contentUrl":"http://192.168.2.245:44251/","streamType":"LIVE","contentType":"video/x-matroska","mediaCategory":"VIDEO"},"currentItemId":1,"extendedStatus":{"playerState":"LOADING","media":{"contentUrl":"http://192.168.2.245:44251/","streamType":"LIVE","contentType":"video/x-matroska","mediaCategory":"VIDEO"},"mediaSessionId":1},"repeatMode":"REPEAT_OFF"}],"requestId":0}}
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.825: CcComm: Received message size: 164
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.825: CcComm: Received message:
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.825: {"source_id":"3d7abe77-5544-4aa9-a8c0-5e40bf50b7be","destination_id":"sender-gnd949","namespace":"urn:x-cast:com.google.cast.media","payload_utf8":{"requestId":3,"type":"LOAD_FAILED","detailedErrorCode":104,"itemId":1}}
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.825: NdCCSink: Error received: Media load failed
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.825: CcCtrl: Finishing
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.825: CcComm: Sending message:
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.825: {"source_id":"sender-gnd949","destination_id":"receiver-0","namespace":"urn:x-cast:com.google.cast.receiver","payload_utf8":{"type":"STOP","sessionId":"3d7abe77-5544-4aa9-a8c0-5e40bf50b7be","requestId":4}}
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.825: CcComm: Sending message:
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.825: {"source_id":"sender-gnd949","destination_id":"receiver-0","namespace":"urn:x-cast:com.google.cast.tp.connection","payload_utf8":{"type":"CLOSE"}}
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.825: CcComm: Finishing
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.825: CcHttpServer: Finalizing
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.825: CcMediaFactory: Finalizing
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:01.833: Got state change notification from streaming sink to state ND_SINK_STATE_DISCONNECTED
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:04.780: CcMediaFactory: Checking profile 0
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:04.780: CcMediaFactory: Selected media profile PROFILE_HIGH_H264. Set factory profile to 5
+(gnome-network-displays:3226622): Gnd-DEBUG: 23:50:04.780: NdCCSink: Attempting connection to Chromecast AS-SMX510[Cast] - AirScreen at IP 192.168.2.232
