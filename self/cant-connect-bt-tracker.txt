@@ -54,8 +54,10 @@ tracker.prq.to
 tracker.publicbt.com
 t-115.rhcloud.com
 
-# 2024.10.11 test, can connect
-# share.camoe.cn:8080
+# registered torrents, alia of http://t.acg.rip:6699/announce
+share.camoe.cn
+# registered torrents,  duplicate of http://tracker.acgnx.se:80/announce
+opentracker.acgnx.com
 
 ## can't resolve
 tracker.publicbt.com
