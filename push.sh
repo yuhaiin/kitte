@@ -10,6 +10,6 @@ cd yuhaiin
 . ./update.sh
 cd ..
 
-git add .
-git commit -m "update"
-git push -u origin main
+# git add .
+# git commit -m "update"
+# git push -u origin main
