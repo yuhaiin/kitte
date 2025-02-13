@@ -1,0 +1,48 @@
+name: updater
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-$${{ github.head_ref || github.run_id }}
+  cancel-in-progress: true
+
+jobs:
+  licenses-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v3
+
+      - name: Set up Go
+        uses: actions/setup-go@v3
+        with:
+          go-version-file: go.mod
+
+      - name: Get access token
+        uses: actions/create-github-app-token@v1
+        id: generate-token
+        with:
+          app-id: ${{ vars.APP_ID }}
+          private-key: ${{ secrets.PRIVATE_KEY }}
+          owner: ${{ github.repository_owner }}
+
+      - name: Run update
+        run: |
+          bash push.sh
+
+      - name: Send pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ steps.generate-token.outputs.token }}
+          author: Kitte Updater <noreply+kitte-updater@github.com>
+          committer: Kitte Updater <noreply+kitte-updater@github.com>
+          branch: auto-update
+          commit-message: "auto update"
+          title: "auto update"
+          body: update kitte rules
+          delete-branch: true
+          signoff: true
