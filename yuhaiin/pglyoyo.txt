@@ -28,8 +28,6 @@ imp.i312864.net
 m2.ai
 *.m6r.eu
 m6r.eu
-*.maximiser.net
-maximiser.net
 *.megapu.sh
 megapu.sh
 *.mpstat.us
