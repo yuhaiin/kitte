@@ -8,6 +8,7 @@ go generate ./geoip/...
 cd yuhaiin
 . ./get.sh
 . ./update.sh
+. ./tailscale.sh
 cd ..
 
 # git add .
