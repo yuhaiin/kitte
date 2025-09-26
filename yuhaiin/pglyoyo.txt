@@ -28,6 +28,8 @@ imp.i312864.net
 m2.ai
 *.m6r.eu
 m6r.eu
+*.maximiser.net
+maximiser.net
 *.megapu.sh
 megapu.sh
 *.mpstat.us
@@ -52,8 +54,6 @@ shinystat.it
 smartstream.tv
 *.stat24.meta.ua
 stat24.meta.ua
-*.stats.x14.eu
-stats.x14.eu
 *.statserv.net
 statserv.net
 *.tatsumi-sys.jp
