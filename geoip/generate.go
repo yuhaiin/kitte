@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/oschwald/maxminddb-golang"
+	"github.com/oschwald/maxminddb-golang/v2"
 )
 
 func main() {
@@ -25,11 +25,10 @@ func main() {
 		} `maxminddb:"country"`
 	}{}
 
-	nets := mdb.Networks(maxminddb.SkipAliasedNetworks)
+	nets := mdb.Networks()
 
-	for nets.Next() {
-		subnet, err := nets.Network(&record)
-		if err != nil {
+	for subnet := range nets {
+		if err = subnet.Decode(&record); err != nil {
 			continue
 		}
 
@@ -37,7 +36,7 @@ func main() {
 
 		f := getFiles(name)
 
-		fmt.Fprintln(f, subnet)
+		fmt.Fprintln(f, subnet.Prefix().String())
 	}
 
 	for _, f := range fm {
