@@ -35,7 +35,7 @@ jobs:
           bash push.sh
 
       - name: Send pull request
-        uses: peter-evans/create-pull-request@v7
+        uses: peter-evans/create-pull-request@v8
         with:
           token: ${{ steps.generate-token.outputs.token }}
           author: Kitte Updater <noreply+kitte-updater@github.com>
