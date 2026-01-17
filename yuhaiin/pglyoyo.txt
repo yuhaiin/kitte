@@ -30,8 +30,6 @@ m2.ai
 m6r.eu
 *.maximiser.net
 maximiser.net
-*.megapu.sh
-megapu.sh
 *.mpstat.us
 mpstat.us
 *.mxptint.net
