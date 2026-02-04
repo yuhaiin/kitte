@@ -11,3 +11,4 @@ contain
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts)
 - [serverlist](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext)
 - [gfwlist](https://github.com/gfwlist/gfwlist)
+- [geosite](https://github.com/Loyalsoldier/v2ray-rules-dat)
