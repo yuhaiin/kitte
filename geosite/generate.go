@@ -56,6 +56,13 @@ func main() {
 		filenames = append(filenames, filename)
 
 		for _, domain := range site.Domain {
+			switch domain.Type {
+			case routercommon.Domain_Regex:
+				continue
+			case routercommon.Domain_RootDomain:
+
+				domain.Value = "*." + domain.Value
+			}
 			// We only write the domain value.
 			// Types like Regex, Plain, Domain, Full are collapsed into just the string.
 			if domain.Value != "" {
