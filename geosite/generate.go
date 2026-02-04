@@ -5,6 +5,7 @@ package main
 import (
 	"fmt"
 	"os"
+	"sort"
 	"strings"
 
 	"github.com/v2fly/v2ray-core/v5/app/router/routercommon"
@@ -35,6 +36,8 @@ func main() {
 		os.Exit(1)
 	}
 
+	var filenames []string
+
 	// Iterate over each GeoSite entry
 	for _, site := range siteList.Entry {
 		countryCode := strings.ToLower(site.CountryCode)
@@ -42,12 +45,15 @@ func main() {
 			continue
 		}
 
-		filename := fmt.Sprintf("%s/%s.conf", outputDir, countryCode)
-		f, err := os.Create(filename)
+		filename := fmt.Sprintf("%s.conf", countryCode)
+		filePath := fmt.Sprintf("%s/%s", outputDir, filename)
+		f, err := os.Create(filePath)
 		if err != nil {
-			fmt.Printf("Failed to create file %s: %v\n", filename, err)
+			fmt.Printf("Failed to create file %s: %v\n", filePath, err)
 			continue
 		}
+
+		filenames = append(filenames, filename)
 
 		for _, domain := range site.Domain {
 			// We only write the domain value.
@@ -57,5 +63,29 @@ func main() {
 			}
 		}
 		f.Close()
+	}
+
+	generateReadme(outputDir, filenames)
+}
+
+func generateReadme(outputDir string, filenames []string) {
+	sort.Strings(filenames)
+
+	f, err := os.Create(fmt.Sprintf("%s/README.md", outputDir))
+	if err != nil {
+		fmt.Printf("Failed to create README.md: %v\n", err)
+		return
+	}
+	defer f.Close()
+
+	fmt.Fprintln(f, "# Geosite")
+	fmt.Fprintln(f)
+	fmt.Fprintln(f, "| File | Raw Link |")
+	fmt.Fprintln(f, "| --- | --- |")
+
+	baseURL := "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite"
+
+	for _, filename := range filenames {
+		fmt.Fprintf(f, "| %s | [%s](%s/%s) |\n", filename, filename, baseURL, filename)
 	}
 }
