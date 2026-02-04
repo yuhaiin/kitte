@@ -71,7 +71,7 @@ func main() {
 func generateReadme(outputDir string, filenames []string) {
 	sort.Strings(filenames)
 
-	f, err := os.Create(fmt.Sprintf("%s/README.md", outputDir))
+	f, err := os.Create("README.md")
 	if err != nil {
 		fmt.Printf("Failed to create README.md: %v\n", err)
 		return
