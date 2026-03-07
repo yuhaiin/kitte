@@ -8,6 +8,8 @@ amung.us
 e-m.fr
 *.evyy.net
 evyy.net
+*.figurehunter.net
+figurehunter.net
 *.freestats.tv
 freestats.tv
 *.gamesites100.net
@@ -30,8 +32,6 @@ m2.ai
 m6r.eu
 *.maximiser.net
 maximiser.net
-*.megapu.sh
-megapu.sh
 *.mpstat.us
 mpstat.us
 *.mxptint.net
