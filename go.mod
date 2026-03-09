@@ -4,7 +4,7 @@ go 1.25.5
 
 require (
 	github.com/oschwald/maxminddb-golang/v2 v2.1.1
-	github.com/v2fly/v2ray-core/v5 v5.46.0
+	github.com/v2fly/v2ray-core/v5 v5.47.0
 )
 
 require (
