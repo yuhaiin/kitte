@@ -8,6 +8,7 @@
 | 17zuoye.conf | [17zuoye.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/17zuoye.conf) |
 | 18comic.conf | [18comic.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/18comic.conf) |
 | 2ch.conf | [2ch.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/2ch.conf) |
+| 2gis.conf | [2gis.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/2gis.conf) |
 | 2kgames.conf | [2kgames.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/2kgames.conf) |
 | 36kr.conf | [36kr.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/36kr.conf) |
 | 4399.conf | [4399.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/4399.conf) |
@@ -30,7 +31,6 @@
 | abema.conf | [abema.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/abema.conf) |
 | accuweather.conf | [accuweather.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/accuweather.conf) |
 | acer.conf | [acer.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/acer.conf) |
-| acfun-ads.conf | [acfun-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/acfun-ads.conf) |
 | acfun.conf | [acfun.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/acfun.conf) |
 | acplay.conf | [acplay.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/acplay.conf) |
 | actalis.conf | [actalis.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/actalis.conf) |
@@ -42,7 +42,6 @@
 | adidas.conf | [adidas.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/adidas.conf) |
 | adjust.conf | [adjust.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/adjust.conf) |
 | adobe-activation.conf | [adobe-activation.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/adobe-activation.conf) |
-| adobe-ads.conf | [adobe-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/adobe-ads.conf) |
 | adobe.conf | [adobe.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/adobe.conf) |
 | aerogard.conf | [aerogard.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/aerogard.conf) |
 | afdian.conf | [afdian.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/afdian.conf) |
@@ -50,21 +49,19 @@
 | agilebits.conf | [agilebits.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/agilebits.conf) |
 | agora.conf | [agora.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/agora.conf) |
 | aiqicha.conf | [aiqicha.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/aiqicha.conf) |
+| airbnb.conf | [airbnb.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/airbnb.conf) |
 | airchina.conf | [airchina.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/airchina.conf) |
 | airwick.conf | [airwick.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/airwick.conf) |
 | aisiku.conf | [aisiku.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/aisiku.conf) |
 | aixcoder.conf | [aixcoder.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/aixcoder.conf) |
 | akamai.conf | [akamai.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/akamai.conf) |
 | akiko.conf | [akiko.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/akiko.conf) |
-| alibaba-ads.conf | [alibaba-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/alibaba-ads.conf) |
 | alibaba.conf | [alibaba.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/alibaba.conf) |
 | alibabacloud.conf | [alibabacloud.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/alibabacloud.conf) |
 | aliyun-drive.conf | [aliyun-drive.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/aliyun-drive.conf) |
 | aliyun.conf | [aliyun.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/aliyun.conf) |
 | aljazeera.conf | [aljazeera.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/aljazeera.conf) |
-| amap-ads.conf | [amap-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/amap-ads.conf) |
 | amap.conf | [amap.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/amap.conf) |
-| amazon-ads.conf | [amazon-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/amazon-ads.conf) |
 | amazon.conf | [amazon.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/amazon.conf) |
 | amazontrust.conf | [amazontrust.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/amazontrust.conf) |
 | amc.conf | [amc.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/amc.conf) |
@@ -75,6 +72,7 @@
 | android.conf | [android.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/android.conf) |
 | anexia.conf | [anexia.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/anexia.conf) |
 | anime.conf | [anime.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/anime.conf) |
+| anker.conf | [anker.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/anker.conf) |
 | annas-archive.conf | [annas-archive.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/annas-archive.conf) |
 | anon-v.conf | [anon-v.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/anon-v.conf) |
 | anthropic.conf | [anthropic.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/anthropic.conf) |
@@ -86,7 +84,6 @@
 | apkcombo.conf | [apkcombo.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/apkcombo.conf) |
 | apkmirror.conf | [apkmirror.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/apkmirror.conf) |
 | apkpure.conf | [apkpure.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/apkpure.conf) |
-| apple-ads.conf | [apple-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/apple-ads.conf) |
 | apple-cn.conf | [apple-cn.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/apple-cn.conf) |
 | apple-dev.conf | [apple-dev.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/apple-dev.conf) |
 | apple-intelligence.conf | [apple-intelligence.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/apple-intelligence.conf) |
@@ -113,6 +110,7 @@
 | attwatchtv.conf | [attwatchtv.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/attwatchtv.conf) |
 | autodesk.conf | [autodesk.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/autodesk.conf) |
 | avaxhome.conf | [avaxhome.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/avaxhome.conf) |
+| aviasales.conf | [aviasales.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/aviasales.conf) |
 | avito.conf | [avito.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/avito.conf) |
 | avmoo.conf | [avmoo.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/avmoo.conf) |
 | awempire.conf | [awempire.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/awempire.conf) |
@@ -121,7 +119,6 @@
 | azure.conf | [azure.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/azure.conf) |
 | b3log.conf | [b3log.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/b3log.conf) |
 | bahamut.conf | [bahamut.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/bahamut.conf) |
-| baidu-ads.conf | [baidu-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/baidu-ads.conf) |
 | baidu.conf | [baidu.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/baidu.conf) |
 | baishancloud.conf | [baishancloud.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/baishancloud.conf) |
 | baltamatica.conf | [baltamatica.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/baltamatica.conf) |
@@ -186,7 +183,6 @@
 | buymeacoffee.conf | [buymeacoffee.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/buymeacoffee.conf) |
 | buypass.conf | [buypass.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/buypass.conf) |
 | bybit.conf | [bybit.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/bybit.conf) |
-| bytedance-ads.conf | [bytedance-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/bytedance-ads.conf) |
 | bytedance-ai-!cn.conf | [bytedance-ai-!cn.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/bytedance-ai-!cn.conf) |
 | bytedance.conf | [bytedance.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/bytedance.conf) |
 | c-span.conf | [c-span.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/c-span.conf) |
@@ -217,6 +213,7 @@
 | category-bank-ir.conf | [category-bank-ir.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-bank-ir.conf) |
 | category-bank-jp.conf | [category-bank-jp.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-bank-jp.conf) |
 | category-bank-mm.conf | [category-bank-mm.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-bank-mm.conf) |
+| category-bank-ru.conf | [category-bank-ru.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-bank-ru.conf) |
 | category-blog-cn.conf | [category-blog-cn.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-blog-cn.conf) |
 | category-bourse-ir.conf | [category-bourse-ir.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-bourse-ir.conf) |
 | category-browser-!cn.conf | [category-browser-!cn.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-browser-!cn.conf) |
@@ -266,6 +263,7 @@
 | category-media-ir.conf | [category-media-ir.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-media-ir.conf) |
 | category-media-ru.conf | [category-media-ru.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-media-ru.conf) |
 | category-media.conf | [category-media.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-media.conf) |
+| category-medicine-ru.conf | [category-medicine-ru.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-medicine-ru.conf) |
 | category-mobile-repair.conf | [category-mobile-repair.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-mobile-repair.conf) |
 | category-mooc-cn.conf | [category-mooc-cn.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-mooc-cn.conf) |
 | category-netdisk-cn.conf | [category-netdisk-cn.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-netdisk-cn.conf) |
@@ -302,6 +300,8 @@
 | category-tech-media.conf | [category-tech-media.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-tech-media.conf) |
 | category-tm.conf | [category-tm.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-tm.conf) |
 | category-travel-ir.conf | [category-travel-ir.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-travel-ir.conf) |
+| category-travel-ru.conf | [category-travel-ru.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-travel-ru.conf) |
+| category-urlshortner.conf | [category-urlshortner.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-urlshortner.conf) |
 | category-voip.conf | [category-voip.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-voip.conf) |
 | category-vpnservices.conf | [category-vpnservices.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-vpnservices.conf) |
 | category-web-archive.conf | [category-web-archive.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-web-archive.conf) |
@@ -400,6 +400,7 @@
 | dart.conf | [dart.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/dart.conf) |
 | dazn.conf | [dazn.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/dazn.conf) |
 | dcard.conf | [dcard.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/dcard.conf) |
+| ddmaicai.conf | [ddmaicai.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/ddmaicai.conf) |
 | debian.conf | [debian.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/debian.conf) |
 | decryptipastore.conf | [decryptipastore.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/decryptipastore.conf) |
 | dedao.conf | [dedao.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/dedao.conf) |
@@ -429,12 +430,9 @@
 | dlercloud.conf | [dlercloud.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/dlercloud.conf) |
 | dlsite.conf | [dlsite.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/dlsite.conf) |
 | dmit.conf | [dmit.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/dmit.conf) |
-| dmm-ads.conf | [dmm-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/dmm-ads.conf) |
 | dmm-porn.conf | [dmm-porn.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/dmm-porn.conf) |
 | dmm.conf | [dmm.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/dmm.conf) |
 | dnspod.conf | [dnspod.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/dnspod.conf) |
-| doc88.conf | [doc88.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/doc88.conf) |
-| docin.conf | [docin.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/docin.conf) |
 | docker.conf | [docker.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/docker.conf) |
 | doi.conf | [doi.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/doi.conf) |
 | dola.conf | [dola.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/dola.conf) |
@@ -451,7 +449,6 @@
 | dslreports.conf | [dslreports.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/dslreports.conf) |
 | duckduckgo.conf | [duckduckgo.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/duckduckgo.conf) |
 | duitang.conf | [duitang.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/duitang.conf) |
-| duolingo-ads.conf | [duolingo-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/duolingo-ads.conf) |
 | duolingo.conf | [duolingo.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/duolingo.conf) |
 | duowan.conf | [duowan.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/duowan.conf) |
 | durex.conf | [durex.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/durex.conf) |
@@ -495,7 +492,6 @@
 | everbright.conf | [everbright.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/everbright.conf) |
 | evernote.conf | [evernote.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/evernote.conf) |
 | f-droid.conf | [f-droid.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/f-droid.conf) |
-| facebook-ads.conf | [facebook-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/facebook-ads.conf) |
 | facebook-dev.conf | [facebook-dev.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/facebook-dev.conf) |
 | facebook.conf | [facebook.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/facebook.conf) |
 | faceit.conf | [faceit.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/faceit.conf) |
@@ -535,7 +531,6 @@
 | forbes.conf | [forbes.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/forbes.conf) |
 | forza.conf | [forza.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/forza.conf) |
 | fox.conf | [fox.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/fox.conf) |
-| fqnovel-ads.conf | [fqnovel-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/fqnovel-ads.conf) |
 | fqnovel.conf | [fqnovel.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/fqnovel.conf) |
 | framer.conf | [framer.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/framer.conf) |
 | freecodecamp.conf | [freecodecamp.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/freecodecamp.conf) |
@@ -544,6 +539,7 @@
 | ftv.conf | [ftv.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/ftv.conf) |
 | futu.conf | [futu.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/futu.conf) |
 | fzdm.conf | [fzdm.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/fzdm.conf) |
+| gaijin.conf | [gaijin.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/gaijin.conf) |
 | gamersky.conf | [gamersky.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/gamersky.conf) |
 | gandi.conf | [gandi.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/gandi.conf) |
 | ganji.conf | [ganji.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/ganji.conf) |
@@ -564,20 +560,21 @@
 | gimy.conf | [gimy.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/gimy.conf) |
 | gitbook.conf | [gitbook.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/gitbook.conf) |
 | gitee.conf | [gitee.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/gitee.conf) |
-| github-ads.conf | [github-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/github-ads.conf) |
+| github-copilot.conf | [github-copilot.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/github-copilot.conf) |
 | github.conf | [github.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/github.conf) |
 | github1s.conf | [github1s.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/github1s.conf) |
 | gitlab.conf | [gitlab.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/gitlab.conf) |
 | gitv.conf | [gitv.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/gitv.conf) |
 | globalsign.conf | [globalsign.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/globalsign.conf) |
 | globalvoices.conf | [globalvoices.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/globalvoices.conf) |
+| globo.conf | [globo.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/globo.conf) |
 | glyphs.conf | [glyphs.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/glyphs.conf) |
+| gmo-internet.conf | [gmo-internet.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/gmo-internet.conf) |
 | godaddy.conf | [godaddy.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/godaddy.conf) |
 | gofundme.conf | [gofundme.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/gofundme.conf) |
 | gog.conf | [gog.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/gog.conf) |
 | golang.conf | [golang.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/golang.conf) |
 | goodreads.conf | [goodreads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/goodreads.conf) |
-| google-ads.conf | [google-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/google-ads.conf) |
 | google-cn.conf | [google-cn.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/google-cn.conf) |
 | google-deepmind.conf | [google-deepmind.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/google-deepmind.conf) |
 | google-gemini.conf | [google-gemini.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/google-gemini.conf) |
@@ -590,10 +587,12 @@
 | googlefcm.conf | [googlefcm.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/googlefcm.conf) |
 | goproxy.conf | [goproxy.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/goproxy.conf) |
 | gracg.conf | [gracg.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/gracg.conf) |
+| grapheneos.conf | [grapheneos.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/grapheneos.conf) |
 | gravatar.conf | [gravatar.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/gravatar.conf) |
 | greatfire.conf | [greatfire.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/greatfire.conf) |
 | gree.conf | [gree.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/gree.conf) |
 | groq.conf | [groq.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/groq.conf) |
+| growingio.conf | [growingio.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/growingio.conf) |
 | gucci.conf | [gucci.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/gucci.conf) |
 | guo.conf | [guo.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/guo.conf) |
 | guokr.conf | [guokr.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/guokr.conf) |
@@ -609,6 +608,7 @@
 | haveibeenpwned.conf | [haveibeenpwned.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/haveibeenpwned.conf) |
 | hbo.conf | [hbo.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/hbo.conf) |
 | hcaptcha.conf | [hcaptcha.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/hcaptcha.conf) |
+| hdrezka.conf | [hdrezka.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/hdrezka.conf) |
 | hentaichen.conf | [hentaichen.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/hentaichen.conf) |
 | hentaivn.conf | [hentaivn.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/hentaivn.conf) |
 | herogame.conf | [herogame.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/herogame.conf) |
@@ -647,7 +647,6 @@
 | huggingface.conf | [huggingface.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/huggingface.conf) |
 | hujiang.conf | [hujiang.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/hujiang.conf) |
 | hulu.conf | [hulu.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/hulu.conf) |
-| hunantv-ads.conf | [hunantv-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/hunantv-ads.conf) |
 | hunantv.conf | [hunantv.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/hunantv.conf) |
 | huobi.conf | [huobi.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/huobi.conf) |
 | hupu.conf | [hupu.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/hupu.conf) |
@@ -669,6 +668,7 @@
 | ihuman.conf | [ihuman.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/ihuman.conf) |
 | iina.conf | [iina.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/iina.conf) |
 | ikea.conf | [ikea.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/ikea.conf) |
+| illgames.conf | [illgames.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/illgames.conf) |
 | illusion-nonofficial.conf | [illusion-nonofficial.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/illusion-nonofficial.conf) |
 | illusion.conf | [illusion.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/illusion.conf) |
 | imagebam.conf | [imagebam.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/imagebam.conf) |
@@ -685,7 +685,6 @@
 | inoreader.conf | [inoreader.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/inoreader.conf) |
 | inshot.conf | [inshot.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/inshot.conf) |
 | insider.conf | [insider.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/insider.conf) |
-| instagram-ads.conf | [instagram-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/instagram-ads.conf) |
 | instagram.conf | [instagram.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/instagram.conf) |
 | intel-dev.conf | [intel-dev.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/intel-dev.conf) |
 | intel.conf | [intel.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/intel.conf) |
@@ -694,7 +693,6 @@
 | intsig.conf | [intsig.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/intsig.conf) |
 | intuit.conf | [intuit.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/intuit.conf) |
 | ipip.conf | [ipip.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/ipip.conf) |
-| iqiyi-ads.conf | [iqiyi-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/iqiyi-ads.conf) |
 | iqiyi.conf | [iqiyi.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/iqiyi.conf) |
 | isgd.conf | [isgd.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/isgd.conf) |
 | ishumei.conf | [ishumei.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/ishumei.conf) |
@@ -710,7 +708,6 @@
 | javcc.conf | [javcc.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/javcc.conf) |
 | javdb.conf | [javdb.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/javdb.conf) |
 | javwide.conf | [javwide.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/javwide.conf) |
-| jd-ads.conf | [jd-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/jd-ads.conf) |
 | jd.conf | [jd.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/jd.conf) |
 | jetbrains-ai.conf | [jetbrains-ai.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/jetbrains-ai.conf) |
 | jetbrains.conf | [jetbrains.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/jetbrains.conf) |
@@ -747,24 +744,23 @@
 | kindle4rss.conf | [kindle4rss.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/kindle4rss.conf) |
 | kingkonglive.conf | [kingkonglive.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/kingkonglive.conf) |
 | kingsoft.conf | [kingsoft.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/kingsoft.conf) |
+| kinopoisk.conf | [kinopoisk.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/kinopoisk.conf) |
 | kinopub.conf | [kinopub.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/kinopub.conf) |
 | kkbox.conf | [kkbox.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/kkbox.conf) |
 | kktv.conf | [kktv.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/kktv.conf) |
-| knovel.conf | [knovel.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/knovel.conf) |
 | kodi.conf | [kodi.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/kodi.conf) |
+| kodik.conf | [kodik.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/kodik.conf) |
 | konachan.conf | [konachan.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/konachan.conf) |
 | koolearn.conf | [koolearn.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/koolearn.conf) |
 | kraken.conf | [kraken.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/kraken.conf) |
 | ku6.conf | [ku6.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/ku6.conf) |
 | kuaidi100.conf | [kuaidi100.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/kuaidi100.conf) |
 | kuaikan.conf | [kuaikan.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/kuaikan.conf) |
-| kuaishou-ads.conf | [kuaishou-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/kuaishou-ads.conf) |
 | kuaishou.conf | [kuaishou.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/kuaishou.conf) |
 | kuaiyikeji.conf | [kuaiyikeji.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/kuaiyikeji.conf) |
 | kubakuba.conf | [kubakuba.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/kubakuba.conf) |
 | kubernetes.conf | [kubernetes.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/kubernetes.conf) |
 | kucoin.conf | [kucoin.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/kucoin.conf) |
-| kugou-ads.conf | [kugou-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/kugou-ads.conf) |
 | kugou.conf | [kugou.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/kugou.conf) |
 | kurogames.conf | [kurogames.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/kurogames.conf) |
 | kuwo.conf | [kuwo.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/kuwo.conf) |
@@ -784,7 +780,6 @@
 | lenovo.conf | [lenovo.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/lenovo.conf) |
 | lethalhardcore.conf | [lethalhardcore.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/lethalhardcore.conf) |
 | letsencrypt.conf | [letsencrypt.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/letsencrypt.conf) |
-| letv-ads.conf | [letv-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/letv-ads.conf) |
 | lg.conf | [lg.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/lg.conf) |
 | lianjia.conf | [lianjia.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/lianjia.conf) |
 | liberapay.conf | [liberapay.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/liberapay.conf) |
@@ -824,6 +819,7 @@
 | manhuagui.conf | [manhuagui.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/manhuagui.conf) |
 | manorama.conf | [manorama.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/manorama.conf) |
 | manoto.conf | [manoto.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/manoto.conf) |
+| manus.conf | [manus.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/manus.conf) |
 | maocloud.conf | [maocloud.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/maocloud.conf) |
 | mapbox.conf | [mapbox.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/mapbox.conf) |
 | marvel.conf | [marvel.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/marvel.conf) |
@@ -843,18 +839,15 @@
 | meituan.conf | [meituan.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/meituan.conf) |
 | meizu.conf | [meizu.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/meizu.conf) |
 | messenger.conf | [messenger.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/messenger.conf) |
-| meta-ads.conf | [meta-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/meta-ads.conf) |
 | meta.conf | [meta.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/meta.conf) |
 | metabrainz.conf | [metabrainz.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/metabrainz.conf) |
 | metacritic.conf | [metacritic.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/metacritic.conf) |
 | metart.conf | [metart.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/metart.conf) |
 | miaomiaozhe.conf | [miaomiaozhe.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/miaomiaozhe.conf) |
-| microsoft-ads.conf | [microsoft-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/microsoft-ads.conf) |
 | microsoft-dev.conf | [microsoft-dev.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/microsoft-dev.conf) |
 | microsoft-pki.conf | [microsoft-pki.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/microsoft-pki.conf) |
 | microsoft.conf | [microsoft.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/microsoft.conf) |
 | midea.conf | [midea.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/midea.conf) |
-| mihoyo-ads.conf | [mihoyo-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/mihoyo-ads.conf) |
 | mihoyo-cn.conf | [mihoyo-cn.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/mihoyo-cn.conf) |
 | mihoyo.conf | [mihoyo.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/mihoyo.conf) |
 | mikrotik.conf | [mikrotik.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/mikrotik.conf) |
@@ -867,6 +860,7 @@
 | misskey-universe.conf | [misskey-universe.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/misskey-universe.conf) |
 | misskey.conf | [misskey.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/misskey.conf) |
 | mit.conf | [mit.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/mit.conf) |
+| mixi.conf | [mixi.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/mixi.conf) |
 | mobile01.conf | [mobile01.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/mobile01.conf) |
 | mocha.conf | [mocha.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/mocha.conf) |
 | modrinth.conf | [modrinth.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/modrinth.conf) |
@@ -904,7 +898,6 @@
 | nbcuniversal.conf | [nbcuniversal.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/nbcuniversal.conf) |
 | neowin.conf | [neowin.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/neowin.conf) |
 | netcup.conf | [netcup.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/netcup.conf) |
-| netease-ads.conf | [netease-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/netease-ads.conf) |
 | netease.conf | [netease.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/netease.conf) |
 | netflav.conf | [netflav.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/netflav.conf) |
 | netflix.conf | [netflix.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/netflix.conf) |
@@ -926,7 +919,6 @@
 | nikkei.conf | [nikkei.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/nikkei.conf) |
 | nintendo.conf | [nintendo.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/nintendo.conf) |
 | nist.conf | [nist.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/nist.conf) |
-| nixos.conf | [nixos.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/nixos.conf) |
 | nodejs.conf | [nodejs.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/nodejs.conf) |
 | nodeseek.conf | [nodeseek.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/nodeseek.conf) |
 | noip.conf | [noip.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/noip.conf) |
@@ -954,12 +946,12 @@
 | onedrive.conf | [onedrive.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/onedrive.conf) |
 | onekey.conf | [onekey.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/onekey.conf) |
 | oneplus.conf | [oneplus.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/oneplus.conf) |
-| ookla-speedtest-ads.conf | [ookla-speedtest-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/ookla-speedtest-ads.conf) |
 | ookla-speedtest.conf | [ookla-speedtest.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/ookla-speedtest.conf) |
 | op.conf | [op.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/op.conf) |
 | openai.conf | [openai.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/openai.conf) |
 | opencollective.conf | [opencollective.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/opencollective.conf) |
 | openjsfoundation.conf | [openjsfoundation.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/openjsfoundation.conf) |
+| openrec.conf | [openrec.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/openrec.conf) |
 | opensourceinsights.conf | [opensourceinsights.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/opensourceinsights.conf) |
 | openspeedtest.conf | [openspeedtest.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/openspeedtest.conf) |
 | openstreetmap.conf | [openstreetmap.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/openstreetmap.conf) |
@@ -972,7 +964,6 @@
 | organicmaps.conf | [organicmaps.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/organicmaps.conf) |
 | origin.conf | [origin.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/origin.conf) |
 | oschina.conf | [oschina.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/oschina.conf) |
-| osdn.conf | [osdn.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/osdn.conf) |
 | osu.conf | [osu.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/osu.conf) |
 | oup.conf | [oup.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/oup.conf) |
 | ozon.conf | [ozon.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/ozon.conf) |
@@ -1011,6 +1002,7 @@
 | playboy.conf | [playboy.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/playboy.conf) |
 | playcover.conf | [playcover.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/playcover.conf) |
 | playstation.conf | [playstation.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/playstation.conf) |
+| plex.conf | [plex.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/plex.conf) |
 | plutotv.conf | [plutotv.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/plutotv.conf) |
 | pocketcasts.conf | [pocketcasts.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/pocketcasts.conf) |
 | poe.conf | [poe.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/poe.conf) |
@@ -1033,11 +1025,9 @@
 | pubmatic.conf | [pubmatic.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/pubmatic.conf) |
 | pugpig.conf | [pugpig.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/pugpig.conf) |
 | purikonejp.conf | [purikonejp.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/purikonejp.conf) |
-| python-community.conf | [python-community.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/python-community.conf) |
 | python.conf | [python.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/python.conf) |
 | qcc.conf | [qcc.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/qcc.conf) |
 | qcloud.conf | [qcloud.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/qcloud.conf) |
-| qihoo360-ads.conf | [qihoo360-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/qihoo360-ads.conf) |
 | qihoo360.conf | [qihoo360.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/qihoo360.conf) |
 | qimao.conf | [qimao.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/qimao.conf) |
 | qingcloud.conf | [qingcloud.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/qingcloud.conf) |
@@ -1052,6 +1042,7 @@
 | quora.conf | [quora.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/quora.conf) |
 | qwant.conf | [qwant.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/qwant.conf) |
 | qweather.conf | [qweather.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/qweather.conf) |
+| radiko.conf | [radiko.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/radiko.conf) |
 | rakuten.conf | [rakuten.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/rakuten.conf) |
 | rarbg.conf | [rarbg.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/rarbg.conf) |
 | razer.conf | [razer.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/razer.conf) |
@@ -1068,7 +1059,6 @@
 | redis.conf | [redis.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/redis.conf) |
 | redotpay.conf | [redotpay.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/redotpay.conf) |
 | redtube.conf | [redtube.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/redtube.conf) |
-| remirepo.conf | [remirepo.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/remirepo.conf) |
 | renren.conf | [renren.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/renren.conf) |
 | reurl.conf | [reurl.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/reurl.conf) |
 | reuters.conf | [reuters.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/reuters.conf) |
@@ -1123,7 +1113,6 @@
 | shorturl.conf | [shorturl.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/shorturl.conf) |
 | showtimeanytime.conf | [showtimeanytime.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/showtimeanytime.conf) |
 | signal.conf | [signal.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/signal.conf) |
-| sina-ads.conf | [sina-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/sina-ads.conf) |
 | sina.conf | [sina.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/sina.conf) |
 | singtaonewscorp.conf | [singtaonewscorp.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/singtaonewscorp.conf) |
 | sinopec.conf | [sinopec.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/sinopec.conf) |
@@ -1145,7 +1134,6 @@
 | softbank.conf | [softbank.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/softbank.conf) |
 | softether.conf | [softether.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/softether.conf) |
 | sogou.conf | [sogou.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/sogou.conf) |
-| sohu-ads.conf | [sohu-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/sohu-ads.conf) |
 | sohu.conf | [sohu.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/sohu.conf) |
 | sony.conf | [sony.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/sony.conf) |
 | sonypictures.conf | [sonypictures.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/sonypictures.conf) |
@@ -1160,7 +1148,6 @@
 | spankbang.conf | [spankbang.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/spankbang.conf) |
 | speedtest.conf | [speedtest.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/speedtest.conf) |
 | spiceworks.conf | [spiceworks.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/spiceworks.conf) |
-| spotify-ads.conf | [spotify-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/spotify-ads.conf) |
 | spotify.conf | [spotify.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/spotify.conf) |
 | springer.conf | [springer.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/springer.conf) |
 | squareup.conf | [squareup.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/squareup.conf) |
@@ -1207,6 +1194,7 @@
 | taboola.conf | [taboola.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/taboola.conf) |
 | taikang.conf | [taikang.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/taikang.conf) |
 | tailscale.conf | [tailscale.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/tailscale.conf) |
+| take-two.conf | [take-two.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/take-two.conf) |
 | talkatone.conf | [talkatone.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/talkatone.conf) |
 | taomee.conf | [taomee.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/taomee.conf) |
 | taptap.conf | [taptap.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/taptap.conf) |
@@ -1221,9 +1209,7 @@
 | ted.conf | [ted.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/ted.conf) |
 | telegram.conf | [telegram.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/telegram.conf) |
 | telekom.conf | [telekom.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/telekom.conf) |
-| television-ads.conf | [television-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/television-ads.conf) |
 | temp-mail.conf | [temp-mail.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/temp-mail.conf) |
-| tencent-ads.conf | [tencent-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/tencent-ads.conf) |
 | tencent-dev.conf | [tencent-dev.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/tencent-dev.conf) |
 | tencent-games.conf | [tencent-games.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/tencent-games.conf) |
 | tencent.conf | [tencent.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/tencent.conf) |
@@ -1251,10 +1237,12 @@
 | tidal.conf | [tidal.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/tidal.conf) |
 | tidelift.conf | [tidelift.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/tidelift.conf) |
 | tiktok.conf | [tiktok.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/tiktok.conf) |
+| tilda.conf | [tilda.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/tilda.conf) |
 | tinyurl.conf | [tinyurl.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/tinyurl.conf) |
 | tld-!cn.conf | [tld-!cn.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/tld-!cn.conf) |
 | tld-cn.conf | [tld-cn.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/tld-cn.conf) |
 | tld-opennic.conf | [tld-opennic.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/tld-opennic.conf) |
+| tld-ru.conf | [tld-ru.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/tld-ru.conf) |
 | tmdb.conf | [tmdb.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/tmdb.conf) |
 | tmtpost.conf | [tmtpost.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/tmtpost.conf) |
 | tokyo-sports.conf | [tokyo-sports.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/tokyo-sports.conf) |
@@ -1262,7 +1250,6 @@
 | tonec.conf | [tonec.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/tonec.conf) |
 | tongcheng.conf | [tongcheng.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/tongcheng.conf) |
 | tongfang.conf | [tongfang.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/tongfang.conf) |
-| topcoder.conf | [topcoder.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/topcoder.conf) |
 | tor.conf | [tor.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/tor.conf) |
 | torproject.conf | [torproject.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/torproject.conf) |
 | trackernetwork.conf | [trackernetwork.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/trackernetwork.conf) |
@@ -1297,7 +1284,6 @@
 | udacity.conf | [udacity.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/udacity.conf) |
 | udemy.conf | [udemy.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/udemy.conf) |
 | udn.conf | [udn.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/udn.conf) |
-| umeng-ads.conf | [umeng-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/umeng-ads.conf) |
 | umeng.conf | [umeng.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/umeng.conf) |
 | unionpay.conf | [unionpay.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/unionpay.conf) |
 | unity.conf | [unity.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/unity.conf) |
@@ -1318,7 +1304,6 @@
 | vgtime.conf | [vgtime.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/vgtime.conf) |
 | viber.conf | [viber.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/viber.conf) |
 | vilavpn.conf | [vilavpn.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/vilavpn.conf) |
-| vim.conf | [vim.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/vim.conf) |
 | vimeo.conf | [vimeo.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/vimeo.conf) |
 | visa.conf | [visa.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/visa.conf) |
 | visualarts.conf | [visualarts.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/visualarts.conf) |
@@ -1343,6 +1328,7 @@
 | wanfang.conf | [wanfang.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/wanfang.conf) |
 | wangsu.conf | [wangsu.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/wangsu.conf) |
 | wantmedia.conf | [wantmedia.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/wantmedia.conf) |
+| wargaming.conf | [wargaming.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/wargaming.conf) |
 | wasu.conf | [wasu.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/wasu.conf) |
 | watchout.conf | [watchout.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/watchout.conf) |
 | wbgames.conf | [wbgames.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/wbgames.conf) |
@@ -1353,7 +1339,6 @@
 | weiphone.conf | [weiphone.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/weiphone.conf) |
 | wenshushu.conf | [wenshushu.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/wenshushu.conf) |
 | westerndigital.conf | [westerndigital.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/westerndigital.conf) |
-| whatsapp-ads.conf | [whatsapp-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/whatsapp-ads.conf) |
 | whatsapp.conf | [whatsapp.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/whatsapp.conf) |
 | wholefoodsmarket.conf | [wholefoodsmarket.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/wholefoodsmarket.conf) |
 | wikidot.conf | [wikidot.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/wikidot.conf) |
@@ -1363,6 +1348,7 @@
 | win-extra.conf | [win-extra.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/win-extra.conf) |
 | win-spy.conf | [win-spy.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/win-spy.conf) |
 | win-update.conf | [win-update.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/win-update.conf) |
+| windsurf.conf | [windsurf.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/windsurf.conf) |
 | windy.conf | [windy.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/windy.conf) |
 | wink.conf | [wink.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/wink.conf) |
 | wise.conf | [wise.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/wise.conf) |
@@ -1387,16 +1373,13 @@
 | xda.conf | [xda.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/xda.conf) |
 | xdty.conf | [xdty.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/xdty.conf) |
 | xedge.conf | [xedge.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/xedge.conf) |
-| xhamster-ads.conf | [xhamster-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/xhamster-ads.conf) |
 | xhamster.conf | [xhamster.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/xhamster.conf) |
 | xiaoheihe.conf | [xiaoheihe.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/xiaoheihe.conf) |
 | xiaohongshu.conf | [xiaohongshu.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/xiaohongshu.conf) |
-| xiaomi-ads.conf | [xiaomi-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/xiaomi-ads.conf) |
 | xiaomi-ai.conf | [xiaomi-ai.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/xiaomi-ai.conf) |
 | xiaomi-iot.conf | [xiaomi-iot.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/xiaomi-iot.conf) |
 | xiaomi.conf | [xiaomi.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/xiaomi.conf) |
 | xiaoyuzhou.conf | [xiaoyuzhou.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/xiaoyuzhou.conf) |
-| ximalaya-ads.conf | [ximalaya-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/ximalaya-ads.conf) |
 | ximalaya.conf | [ximalaya.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/ximalaya.conf) |
 | xingkongwuxianmedia.conf | [xingkongwuxianmedia.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/xingkongwuxianmedia.conf) |
 | xingrz.conf | [xingrz.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/xingrz.conf) |
@@ -1405,7 +1388,6 @@
 | xueqiu.conf | [xueqiu.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/xueqiu.conf) |
 | xunlei.conf | [xunlei.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/xunlei.conf) |
 | xvideos.conf | [xvideos.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/xvideos.conf) |
-| yahoo-ads.conf | [yahoo-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/yahoo-ads.conf) |
 | yahoo.conf | [yahoo.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/yahoo.conf) |
 | yandex.conf | [yandex.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/yandex.conf) |
 | ycombinator.conf | [ycombinator.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/ycombinator.conf) |
@@ -1414,8 +1396,8 @@
 | ynoproject.conf | [ynoproject.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/ynoproject.conf) |
 | yokaverse.conf | [yokaverse.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/yokaverse.conf) |
 | yomiuri.conf | [yomiuri.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/yomiuri.conf) |
+| yostar.conf | [yostar.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/yostar.conf) |
 | youjizz.conf | [youjizz.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/youjizz.conf) |
-| youku-ads.conf | [youku-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/youku-ads.conf) |
 | youku.conf | [youku.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/youku.conf) |
 | youmind.conf | [youmind.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/youmind.conf) |
 | youporn.conf | [youporn.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/youporn.conf) |
@@ -1448,7 +1430,8 @@
 | zoho.conf | [zoho.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/zoho.conf) |
 | zoom.conf | [zoom.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/zoom.conf) |
 | zotero.conf | [zotero.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/zotero.conf) |
+| zscaler.conf | [zscaler.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/zscaler.conf) |
 | zte.conf | [zte.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/zte.conf) |
 | zto-express.conf | [zto-express.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/zto-express.conf) |
-| zuoyebang-ads.conf | [zuoyebang-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/zuoyebang-ads.conf) |
 | zuoyebang.conf | [zuoyebang.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/zuoyebang.conf) |
+| zynga.conf | [zynga.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/zynga.conf) |
