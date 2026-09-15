@@ -8,6 +8,8 @@ amung.us
 e-m.fr
 *.evyy.net
 evyy.net
+*.figurehunter.net
+figurehunter.net
 *.freestats.tv
 freestats.tv
 *.gamesites100.net
@@ -30,8 +32,6 @@ m2.ai
 m6r.eu
 *.maximiser.net
 maximiser.net
-*.megapu.sh
-megapu.sh
 *.mpstat.us
 mpstat.us
 *.mxptint.net
@@ -46,6 +46,8 @@ prf.hn
 primetime.net
 *.rate.ru
 rate.ru
+*.rev.iq
+rev.iq
 *.rs6.net
 rs6.net
 *.shinystat.it
@@ -54,6 +56,8 @@ shinystat.it
 smartstream.tv
 *.stat24.meta.ua
 stat24.meta.ua
+*.stats.in.th
+stats.in.th
 *.statserv.net
 statserv.net
 *.tatsumi-sys.jp
@@ -64,6 +68,8 @@ truehits.net
 truehits1.gits.net.th
 *.truehits2.gits.net.th
 truehits2.gits.net.th
+*.twisty.net
+twisty.net
 *.wt-eu02.net
 wt-eu02.net
 *.xq1.net
