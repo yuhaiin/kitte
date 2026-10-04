@@ -6,12 +6,13 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: ${{ github.workflow }}-$${{ github.head_ref || github.run_id }}
+  group: kitte-updater
   cancel-in-progress: true
 
 jobs:
-  licenses-update:
+  update:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
 
     steps:
       - name: Check out code
@@ -22,6 +23,9 @@ jobs:
         with:
           go-version-file: go.mod
 
+      - name: Test updater
+        run: go test ./...
+
       - name: Get access token
         uses: actions/create-github-app-token@v3
         id: generate-token
@@ -30,9 +34,8 @@ jobs:
           private-key: ${{ secrets.PRIVATE_KEY }}
           owner: ${{ github.repository_owner }}
 
-      - name: Run update
-        run: |
-          bash push.sh
+      - name: Update rules
+        run: go run ./cmd/kitte update
 
       - name: Send pull request
         uses: peter-evans/create-pull-request@v8
