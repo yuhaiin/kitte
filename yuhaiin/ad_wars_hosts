@@ -1,6 +1,6 @@
-livew.l.qq.com #-> 腾讯视频
-t7z.cupid.iqiyi.com #-> 爱奇艺
-wxsnsdy.wxs.qq.com #-> 微信
+livew.l.qq.com
+t7z.cupid.iqiyi.com
+wxsnsdy.wxs.qq.com
 is.snssdk.com
 adsmind.gdtimg.com
 pv.sohu.com
@@ -193,7 +193,6 @@ sltint.adv.ott.cibntv.net
 topapi.cp12.ott.cibntv.net
 ad.video.51togic.com
 ssp.cibn.starschina.com
-clickc.admaster.com.cn
 vpptv.admaster.com.cn
 pptv.m.cn.miaozhen.com
 ads.aplus.pptv.com
@@ -483,7 +482,6 @@ yt-adv.bn.netease.com
 mydisplay.ctfile.com
 dns.m.sm.cn
 log.m.sm.cn
-mydisplay.ctfile.com
 mobds.pthejzb.com
 sdk.mobad.ijinshan.com
 ad.51wnl-cq.com
@@ -684,7 +682,6 @@ uapi.ads.heytapmobi.com
 b1-data.ads.heytapmobi.com
 adx.ads.heytapmobi.com
 b2-data.ads.heytapmobi.com
-stg-data.ads.heytapmobi.com
 hw.zuimeitianqi.com
 adsfs-sdkconfig.heytapimage.com
 optimus-ads.amap.com
@@ -885,7 +882,6 @@ as.adfonic.net
 media.mobpartner.mobi
 ads2.mediaarmor.com
 cdn.nearbyad.com
-ads.flurry.com
 gemini.yahoo.com
 d3oltyb66oj2v8.cloudfront.net
 a.vserv.mobi
@@ -1011,13 +1007,10 @@ securepubads.g.doubleclick.net
 static.doubleclick.net
 doubleclick.ctfile.com
 ad-g.doubleclick.net
-ad.doubleclick.net
 ad.mo.doubleclick.net
 doubleclick.net
 ad-apac.doubleclick.net
 4171764.fls.doubleclick.net
-ad-apac.doubleclick.net
-ad.jp.doubleclick.net
 adclick.g.doublecklick.net
 adclick.g.doubleclick.net
 bid.g.doubleclick.net
@@ -1025,9 +1018,7 @@ pagead46.l.doubleclick.net
 stats.g.doubleclick.net
 afs.googlesyndication.com
 video-ad-stats.googlesyndication.com
-s0.2mdn.net
 s1.2mdn.net
-media.admob.com
 ssl.google-analytics.com
 adm.baidu.com
 ad.player.baidu.com
@@ -1064,7 +1055,6 @@ cb.baidu.com
 hdj.baidu.com
 mssp.baidu.com
 nlog.baidu.com
-ad.player.baidu.com
 sestat.baidu.com
 stat.v.baidu.com
 videopush.baidu.com
@@ -1080,7 +1070,6 @@ browserkernel.baidu.com
 hijack.baidu.com
 hpd.baidu.com
 hm.baidu.com
-tcbox.baidu.com
 ecma.bdimg.com
 ecmb.bdimg.com
 cdn-haokanapk.baidu.com
@@ -1113,23 +1102,10 @@ adsview2.qq.com
 adv.app.qq.com
 adver.qq.com
 adfilter.imtt.qq.com
-adping.qq.com
-adpm.app.qq.com
 ad.qq.com
 adsense.html5.qq.com
-adsfile.qq.com
-adsgroup.qq.com
-adshmct.qq.com
-adshmmsg.qq.com
-adslvfile.qq.com
-adslvseed.qq.com
 adsolution.imtt.qq.com
 adsrich.qq.com
-adstextview.qq.com
-adsview2.qq.com
-adsview.qq.com
-adv.app.qq.com
-adver.qq.com
 d3g.qq.com
 jqmt.qq.com
 jsqmt.qq.com
@@ -1155,7 +1131,6 @@ raddus.bayescom.com
 mtt.eve.mdt.qq.com
 push.pgl.qq.com
 rmpad.imtt.qq.com
-dp3.qq.com
 tangram.e.qq.com
 mig.str.mdt.qq.com
 pms.mb.qq.com
@@ -1192,7 +1167,6 @@ adashxgc.ut.taobao.com
 adashx.m.taobao.com
 c-adash.m.taobao.com
 m-adash.m.taobao.com
-adashbc.m.taobao.com
 adash.m.taobao.com
 h-adashx.ut.taobao.com
 tunion-api.m.taobao.com
@@ -1253,8 +1227,6 @@ otf.msn.com
 umeng.com
 alog.umeng.com
 alog.umengcloud.com
-alog.umeng.com
-alog.umengcloud.com
 alogus.umeng.com
 alogsus.umeng.com
 ulogs.umeng.com
@@ -1269,7 +1241,6 @@ msg.umengcloud.com
 udash.umengcloud.com
 upoll.umengcloud.com
 utop.umengcloud.com
-api.wsq.umeng.com
 ar.umeng.com
 oc.umeng.com
 errlog.umeng.com
@@ -1339,7 +1310,6 @@ letv.axp.admaster.com.cn
 pptv.adx.admaster.com.cn
 rtb.admaster.com.cn
 smt.admaster.com.cn
-v.admaster.com.cn
 vbaof.admaster.com.cn
 vhunantv.admaster.com.cn
 view.admaster.com.cn
@@ -1375,7 +1345,6 @@ conde.adsame.com
 corebug.adsame.com
 dcci.adsame.com
 demo.adsame.com
-dspimg.adsame.com
 eagleasp.adsame.com
 easynews.adsame.com
 hnb2c.adsame.com
@@ -1416,8 +1385,6 @@ my.adsmogo.com
 www.adsmogo.com
 adfill.adview.cn
 adview.cn
-bid.adview.cn
-config.adview.cn
 report.adview.cn
 rtb.adview.cn
 test2014.adview.cn
@@ -1470,12 +1437,10 @@ sohutv.m.cn.miaozhen.com
 stm-cdn.cn.miaozhen.com
 stm-collect.cn.miaozhen.com
 survey.miaozhen.com
-tencent-dtv.m.cn.miaozhen.com
 tyaqy.m.cn.miaozhen.com
 tytx.m.cn.miaozhen.com
 xiangchaokankan.m.cn.miaozhen.com
 yktd.m.cn.miaozhen.com
-youku-dtv.m.cn.miaozhen.com
 api.exc.mob.com
 api.share.mob.com
 api.fd.mob.com
@@ -1492,13 +1457,8 @@ a.img.static.youmi.net
 a1.img.static.youmi.net
 a2.img.static.youmi.net
 a3.img.static.youmi.net
-aos.wall.youmi.net
-au.youmi.net
 cf8d.stat.gw.youmi.net
 notifiter.youmi.net
-r.youmi.net
-s.youmi.net
-stat.gw.youmi.net
 static.youmi.net
 t.youmi.net
 youmi.net
@@ -1506,7 +1466,6 @@ www.youmi.net
 api.youxiaoad.com
 source.youxiaoad.com
 ssp.youxiaoad.com
-ads.admarvel.com
 admedia.com
 b.admedia.com
 g.admedia.com
@@ -1518,12 +1477,10 @@ sdkm.w.inmobi.cn
 api.w.inmobi.com
 apptv.w.inmobi.com
 au.w.inmobi.com
-c.w.inmobi.com
 cf.cdn.inmobi.com
 config-ltvp.inmobi.com
 config.inmobi.com
 et.w.inmobi.com
-i.w.inmobi.com
 sdkm.w.inmobi.com
 www.inmobi.com
 ad1.greedland.net
@@ -1538,22 +1495,17 @@ ad4.sina.com.cn
 ad4.udn.com
 ad.adhouyi.cn
 adadvisor.net
-ad.adwo.com
 adapi.lenovogame.com
 ad.api.moji.com
 adapi.shouji.360.cn
 adasad.myweb.hinet.net
-ad-bg.adwo.com
 ad.caiyunapp.com
 adcast.deviantart.com
 adcore.lenovomm.com
-ad-count.adwo.com
 ad-delivery.net
 ad.dev.360.cn
 ad.duapps.com
 adeventtracker.spotify.com
-adfill.adview.cn
-ad.flurry.com
 adfuture.cn
 ad.gamebox.360.cn
 adgeo.163.com
@@ -1565,7 +1517,6 @@ adimg.mobile.sina.cn
 adimg.uve.weibo.com
 adinfo.ra1.xlmc.sec.miui.com
 adlaunch.moji.com
-adlog.flurry.com
 ad.mail.sohu.com
 admd.yam.com
 admeld.adnxs.com
@@ -1574,7 +1525,6 @@ adm.leju.sina.com.cn
 ad.netowl.jp
 adn.insight.ucweb.com
 a.dounanhuahui.com
-adpro.pro.cn
 adpublish.ydstatic.com
 adres.myaora.net
 ads1.msads.net
@@ -1594,11 +1544,8 @@ adserver-us.adtech.advertising.com
 adserver.xpanama.net
 adserver.yahoo.com
 ads.eu.msn.com
-ads.flurry.com
-adsfs.oppomobile.com
 ads.gionee.com
 ads.gmodules.com
-adsmogo.com
 ads.msn.com
 ads.ninemsn.com.au
 ad.sohu.com
@@ -1617,22 +1564,14 @@ ads.yam.com
 ads.yimg.com
 adsyndication.msn.com
 ads.youtube.com
-adtest.adwo.com
 adtrack.ucweb.com
 adui.tg.meitu.com
-adview.cn
 ad.wang502.com
 ad.winrar.com.cn
 ad.wretch.cc
-adx.ads.oppomobile.com
-adx.pro.cn
 adx-static.ksosoft.com
 adx.xiaodutv.com
 ad.gtbrowser.com
-ad-delivery.net
-adadvisor.net
-ads.creative-serving.com
-adserver.adtech.de
 www.admarket.mobi
 z.sora.yoyi.com.cn
 03.lzzncm.com
@@ -1666,7 +1605,6 @@ z7.cnzz.com
 z8.cnzz.com
 z9.cnzz.com
 z10.cnzz.com
-z11.cnzz.com
 z12.cnzz.com
 zs10.cnzz.com
 zs11.cnzz.com
