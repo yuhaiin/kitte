@@ -139,8 +139,7 @@ func generateManifest(root string) error {
 	if err != nil {
 		return fmt.Errorf("encode manifest: %w", err)
 	}
-	data = append(data, '
-')
+	data = append(data, '\n')
 
 	if err := writeFileAtomic(filepath.Join(root, "manifest.json"), data, 0o644); err != nil {
 		return fmt.Errorf("write manifest.json: %w", err)
