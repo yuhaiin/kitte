@@ -49,6 +49,11 @@ func Run(ctx context.Context, root string) error {
 		return err
 	}
 
+	log.Printf("generate manifest")
+	if err := generateManifest(root); err != nil {
+		return err
+	}
+
 	log.Printf("update complete")
 	return nil
 }
