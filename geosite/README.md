@@ -214,6 +214,7 @@ Generated from `geosite.dat` by `go run ./cmd/kitte update`.
 | `catchplay.conf` | [catchplay.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/catchplay.conf) |
 | `category-acg.conf` | [category-acg.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-acg.conf) |
 | `category-ads-all.conf` | [category-ads-all.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-ads-all.conf) |
+| `category-ads-and-telemetry.conf` | [category-ads-and-telemetry.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-ads-and-telemetry.conf) |
 | `category-ads-ir.conf` | [category-ads-ir.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-ads-ir.conf) |
 | `category-ads.conf` | [category-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-ads.conf) |
 | `category-ai-!cn.conf` | [category-ai-!cn.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-ai-!cn.conf) |
@@ -322,6 +323,7 @@ Generated from `geosite.dat` by `go run ./cmd/kitte update`.
 | `category-tech-ir.conf` | [category-tech-ir.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-tech-ir.conf) |
 | `category-tech-media-ru.conf` | [category-tech-media-ru.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-tech-media-ru.conf) |
 | `category-tech-media.conf` | [category-tech-media.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-tech-media.conf) |
+| `category-telemetry.conf` | [category-telemetry.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-telemetry.conf) |
 | `category-tm.conf` | [category-tm.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-tm.conf) |
 | `category-travel-ir.conf` | [category-travel-ir.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-travel-ir.conf) |
 | `category-travel-ru.conf` | [category-travel-ru.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-travel-ru.conf) |
@@ -1179,6 +1181,7 @@ Generated from `geosite.dat` by `go run ./cmd/kitte update`.
 | `sankei.conf` | [sankei.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/sankei.conf) |
 | `sb.conf` | [sb.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/sb.conf) |
 | `sber.conf` | [sber.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/sber.conf) |
+| `sberbank.conf` | [sberbank.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/sberbank.conf) |
 | `scala.conf` | [scala.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/scala.conf) |
 | `scaleflex.conf` | [scaleflex.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/scaleflex.conf) |
 | `scenesource.conf` | [scenesource.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/scenesource.conf) |
