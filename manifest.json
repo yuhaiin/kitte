@@ -14,8 +14,8 @@
       "path": "geoip/Country.mmdb",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/Country.mmdb",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 7665601,
-      "sha256": "b13f10cdb414b8db78a64c432d6cd511668415760ee0fb2d17ac9f42de5aba08",
+      "size": 7647361,
+      "sha256": "64809d264be87ecfb7ac3ad19b7678893b6275038a7d4bf9eec72464a6c4f9fe",
       "selectable": true
     },
     {
@@ -29,8 +29,8 @@
       "path": "geoip/geoip/AD.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/AD.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 3418,
-      "sha256": "9759ec002321edba142e23d175d31477848c4e3c57c61c21ca132074c271a5f6",
+      "size": 3397,
+      "sha256": "93eaea15ab1d498929584c281762b57dd75c6a1009e66b5ec25becddac826120",
       "selectable": true
     },
     {
@@ -44,8 +44,8 @@
       "path": "geoip/geoip/AE.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/AE.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 92176,
-      "sha256": "9dc12df31c260120c10e2741e01ba9c3bebccb5508d199239e3e7d5435deb447",
+      "size": 93028,
+      "sha256": "53b5707b20d6b631617cac25c0c298d47bc04d55d388a1b1454ea6775e0189f6",
       "selectable": true
     },
     {
@@ -59,8 +59,8 @@
       "path": "geoip/geoip/AF.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/AF.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 12027,
-      "sha256": "e1e13f4d4f953fc128c4c473727dbf8fbdc5c0170d69c014d0f377f528f56d9e",
+      "size": 12006,
+      "sha256": "3100daa57f004eb406d8c7aa8178ec11f866cd9ae14e7f4fe1ae072c5f95f385",
       "selectable": true
     },
     {
@@ -74,8 +74,8 @@
       "path": "geoip/geoip/AG.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/AG.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 3814,
-      "sha256": "24e3121c2614a249ca69fbf26b5d020301ed20a5c390d72a6870b1e3ab03f72c",
+      "size": 3783,
+      "sha256": "979a61a69e78f802110a2c01829af8afbbf4cd215772daf19b753f2285508cde",
       "selectable": true
     },
     {
@@ -89,8 +89,8 @@
       "path": "geoip/geoip/AI.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/AI.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1644,
-      "sha256": "3fcf8435aa8c75a58302a7155f9294462f6326456e28fac03b36194ff8550cb7",
+      "size": 1650,
+      "sha256": "c860d2cbc8b73767de510d60874cfa2db25f82a1def1d52da24beb0ca738c83a",
       "selectable": true
     },
     {
@@ -104,8 +104,8 @@
       "path": "geoip/geoip/AL.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/AL.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 24320,
-      "sha256": "38fc912f4ad2c1da4555945bc2865cafd4cf821b67f6168982271fa22aef8cd3",
+      "size": 22986,
+      "sha256": "e4c75b0380b5f8a6b6b84635cb4cdbc94d0ecad7e17326d3e0ef9d0b529520c6",
       "selectable": true
     },
     {
@@ -119,8 +119,8 @@
       "path": "geoip/geoip/AM.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/AM.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 12626,
-      "sha256": "d20910e6b732fd57278a2972a2fd23ee6928c0ecb8e4afd3501aadee24838577",
+      "size": 12163,
+      "sha256": "d8e45c8c9dfe49082da70ff4ccc7b43d340a5b41bccf80af43bd8de3d964e548",
       "selectable": true
     },
     {
@@ -134,8 +134,8 @@
       "path": "geoip/geoip/AO.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/AO.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 8577,
-      "sha256": "3cfff98a6b498680f155d1ead5967111f9043d0ec37f500ab709bd4d295116dd",
+      "size": 8555,
+      "sha256": "5679ce6d2d290bac30948159ac5e4777243516d135c6b225daf3eb69e681bc35",
       "selectable": true
     },
     {
@@ -149,8 +149,8 @@
       "path": "geoip/geoip/AQ.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/AQ.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 15708,
-      "sha256": "d6f9241c69c45e1523cce3dc1bf5d40046431b674f250e07b1bcf5eb835a8559",
+      "size": 15686,
+      "sha256": "b8944e4f2435d37919e33e85d9c5b1664d3127669a6bbcc236e4b100c0138cc6",
       "selectable": true
     },
     {
@@ -164,8 +164,8 @@
       "path": "geoip/geoip/AR.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/AR.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 80517,
-      "sha256": "6bc38ccc9b00b80bbb184e37fadb0e85c6c1e06e6f556a28f0311cbc8a54b29a",
+      "size": 80096,
+      "sha256": "a7ca0a36a5d3db80abf4dd137e055f38153447e6216d0ea7f8532c579b2e658c",
       "selectable": true
     },
     {
@@ -179,8 +179,8 @@
       "path": "geoip/geoip/AS.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/AS.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 7561,
-      "sha256": "472921b0089f5c53203af6e7a61a5e273a5d57ff7062468f1830647a1713ac8f",
+      "size": 7509,
+      "sha256": "d216ce4b2612ab62f09fed67b3c0810d9b04c893932a354b41c77056e14be57e",
       "selectable": true
     },
     {
@@ -194,8 +194,8 @@
       "path": "geoip/geoip/AT.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/AT.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 112678,
-      "sha256": "ce225fd1e8c3bdd98cc8bdcbeecbced1cdd17185430874b2c43454270723b93d",
+      "size": 111052,
+      "sha256": "b7566aabef9a1f15f37b58b0548aa22bfaac9b53a8f97cd0e96780f5b8a2121f",
       "selectable": true
     },
     {
@@ -209,8 +209,8 @@
       "path": "geoip/geoip/AU.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/AU.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 265157,
-      "sha256": "18418cebfb9494f6f9b64b5f8627ab614a3185d9780cbeed0586bda597f1c124",
+      "size": 261742,
+      "sha256": "8a504c8fd1a3a0ad6f4d9d987e70bcf1a63b82bde3deaf64889d54617d169b55",
       "selectable": true
     },
     {
@@ -224,8 +224,8 @@
       "path": "geoip/geoip/AW.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/AW.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1892,
-      "sha256": "20a3558c7d16eeb63dc286c8db0a72eedc2de6d8aa9561ea71af61507160f0dd",
+      "size": 1870,
+      "sha256": "51eb7be273e2355a16d0c25bb583a7261fc51da36344ec1f50307c05df203d55",
       "selectable": true
     },
     {
@@ -239,8 +239,8 @@
       "path": "geoip/geoip/AX.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/AX.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2336,
-      "sha256": "8595428f103ba4484f565c65f68c3cf3166b84083d8ee1ad1ad3039353289a38",
+      "size": 2314,
+      "sha256": "bdd5ec27480beb377c1d6cbc33a7c2b8e982e84c49e192f1eddeaaff20be67e4",
       "selectable": true
     },
     {
@@ -254,8 +254,8 @@
       "path": "geoip/geoip/AZ.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/AZ.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 9326,
-      "sha256": "0934b74f737f629737142c1f93cdc7ab5f152e36120b6ad359e740b9342b243a",
+      "size": 9448,
+      "sha256": "a9671e2775eddf26b29b9c505baef2255c15984d92f21efdaca7ed427b525f61",
       "selectable": true
     },
     {
@@ -269,8 +269,8 @@
       "path": "geoip/geoip/BA.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/BA.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 6394,
-      "sha256": "7cad2132ae8cd9f2b2ada5ef302171c830d651b54b2650ae29070b80276457c9",
+      "size": 6262,
+      "sha256": "7d56bc44335ec45609504b3cd86b99f0594b2034969b1f25e4f30c66f1bbc4aa",
       "selectable": true
     },
     {
@@ -284,8 +284,8 @@
       "path": "geoip/geoip/BB.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/BB.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 3547,
-      "sha256": "b208b7d6730facafa82f975e67989fc42ae6ebd89b819e00ad912ffcb273d85b",
+      "size": 3542,
+      "sha256": "bc4ec412e6f7e17ad665c23c955ed1cbd62692834d3312ef104cd9b33c04ad6e",
       "selectable": true
     },
     {
@@ -299,8 +299,8 @@
       "path": "geoip/geoip/BD.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/BD.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 73297,
-      "sha256": "f44a698f9376d37d6119d8a34d84ff38f0965b0c5a29a788b4dc960bd76440ea",
+      "size": 73394,
+      "sha256": "cdfba2f4e14838e77ec0fe178c35abcbe2d4c9b6ef6ea4ab6dc68dc4e30c5f83",
       "selectable": true
     },
     {
@@ -314,8 +314,8 @@
       "path": "geoip/geoip/BE.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/BE.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 107925,
-      "sha256": "fc13858ec2bfee6487bcecc3656c93dd899755566731d3034f8f86bfa9bd31ba",
+      "size": 111933,
+      "sha256": "f6407bcbbc9a54186c5158329789f7646de112ccd55b650871ecdc83826d9d1d",
       "selectable": true
     },
     {
@@ -329,8 +329,8 @@
       "path": "geoip/geoip/BF.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/BF.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 3111,
-      "sha256": "0dfc0325dd20b14352afbb5cf5efd0df5fd12e38555f6effdcfe2272542e8c44",
+      "size": 3089,
+      "sha256": "f348b0dda58c5c746d9176201e86de5e954efa5717a12217d530698e013ba07a",
       "selectable": true
     },
     {
@@ -344,8 +344,8 @@
       "path": "geoip/geoip/BG.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/BG.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 49561,
-      "sha256": "a4ba4aafb7c477e6b402f1e8f7effd5c336a131fbc8415dcc5487d45735b0702",
+      "size": 49375,
+      "sha256": "1ab99fe7b92248529c2750aea74fb1419f80a3f7e3dc498e5b7f495adb404b12",
       "selectable": true
     },
     {
@@ -359,8 +359,8 @@
       "path": "geoip/geoip/BH.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/BH.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 6117,
-      "sha256": "07cbd3a020598df61e21ac101cbf5d108e69149541aa8472137d5414386dace4",
+      "size": 6095,
+      "sha256": "b824620fcf1ab5b6ebad70e8f5c07c1c1f070d49f647d185105c38709532dc14",
       "selectable": true
     },
     {
@@ -374,8 +374,8 @@
       "path": "geoip/geoip/BI.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/BI.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1267,
-      "sha256": "80d9cbdace4e2a1f505bc035683c155f1776a03ebc3458701fdcab5f304e31a6",
+      "size": 1260,
+      "sha256": "999d170daa8a9e439562aede6fb028f34fea22e2e4d4d9852c801956e6402050",
       "selectable": true
     },
     {
@@ -389,8 +389,8 @@
       "path": "geoip/geoip/BJ.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/BJ.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2295,
-      "sha256": "ad55f87e433a461e60682932762559279187d1575fe7f69719b3f2c2b7512c84",
+      "size": 2273,
+      "sha256": "3052dcf96efdce046bbc746397ea88061d75c94de08f8ce27112e6bd296ae162",
       "selectable": true
     },
     {
@@ -404,8 +404,8 @@
       "path": "geoip/geoip/BL.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/BL.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1054,
-      "sha256": "7cb12a6eb07a385f4e7686f3014c9658d4f260c6b214ed0e148699b0697179cf",
+      "size": 1032,
+      "sha256": "e8788f296126e0fc301842ef918bb81acef6d71034071197ab25b5fd5ed38d25",
       "selectable": true
     },
     {
@@ -419,8 +419,8 @@
       "path": "geoip/geoip/BM.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/BM.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 6321,
-      "sha256": "ee5cee5cfa18aa0640ab075e9fc3445077e41739ca8213e635e84339006fe490",
+      "size": 6282,
+      "sha256": "895848af876b4db79a0e4157ff43de4b92db4d89338b1fe254daa2f92961100e",
       "selectable": true
     },
     {
@@ -434,8 +434,8 @@
       "path": "geoip/geoip/BN.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/BN.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2145,
-      "sha256": "39e6ac32fec80a0c90462e86413036a436279e4809e180d74026d667cd2c407c",
+      "size": 2172,
+      "sha256": "c262315c5288fb6080ebe215b86a5b5e39ad655ffd2d572a5d5704704b136c56",
       "selectable": true
     },
     {
@@ -449,8 +449,8 @@
       "path": "geoip/geoip/BO.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/BO.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 6569,
-      "sha256": "3764686b5c95e593d40258d7e1c74c0b12543c2dcb147e17116ce829ad981079",
+      "size": 6526,
+      "sha256": "cd88cf7477924f6dcffdb061df0fbaded69d4a42ff7f5d3b823d32b69c822ba2",
       "selectable": true
     },
     {
@@ -464,8 +464,8 @@
       "path": "geoip/geoip/BQ.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/BQ.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1209,
-      "sha256": "a16075ee615d004bd0db3becc66aa964f76e6ca2b044609bca5db7f5e2a69d64",
+      "size": 1187,
+      "sha256": "41e19b8cd32093a2059831ae1d281954eaac6b27ed840755e674288395c812cb",
       "selectable": true
     },
     {
@@ -479,8 +479,8 @@
       "path": "geoip/geoip/BR.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/BR.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 333732,
-      "sha256": "b4941b1a7a817a1eb7371a8e15c730c68568c1c30f93ba48202daa8df80e450b",
+      "size": 332812,
+      "sha256": "6b5ef47af7b97ebadcc69ab4c0ef9034f4a7379c686f40d38133121a6392e5a5",
       "selectable": true
     },
     {
@@ -494,8 +494,8 @@
       "path": "geoip/geoip/BS.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/BS.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 3717,
-      "sha256": "277397597cd834e5bf8491e389ecb9a766e59dbdfaa7082b3fc12bb30ff3545b",
+      "size": 3671,
+      "sha256": "0be2aba12c8be8864610ec43774f46d46a52ab115b6e6039967ce2cf01aceea2",
       "selectable": true
     },
     {
@@ -509,8 +509,8 @@
       "path": "geoip/geoip/BT.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/BT.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 3304,
-      "sha256": "2536e4596fb55231012bb945eb2390e06a712a716a5dd601a17fec54036c8586",
+      "size": 3320,
+      "sha256": "249c72a498845694351fa1da570f9f0e78873c0046d27cc31a0159a1282a5d19",
       "selectable": true
     },
     {
@@ -524,8 +524,8 @@
       "path": "geoip/geoip/BV.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/BV.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 351,
-      "sha256": "25c3b4583b905c14c1926b44c5010bac5e9966570106c4e0e03694e4144f970b",
+      "size": 329,
+      "sha256": "149384afc7c4a0f1cdf77254ab16abe4bebf2edcc5a5f59f97dc42d51c211ffe",
       "selectable": true
     },
     {
@@ -539,8 +539,8 @@
       "path": "geoip/geoip/BW.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/BW.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2668,
-      "sha256": "31602ff00a87313fd60a70a2796dbe90275983740a9e7940538fce0fbe04557e",
+      "size": 2677,
+      "sha256": "82baaf28230dcd5717470202699ace35658d23377919fd53a857b3bd249b47db",
       "selectable": true
     },
     {
@@ -554,8 +554,8 @@
       "path": "geoip/geoip/BY.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/BY.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 10860,
-      "sha256": "1e8a75fcf94d7c37ddf0c1dc5bb4cf23da0d4316ae85c966096eab9ffec5c88a",
+      "size": 10884,
+      "sha256": "ae3b83b4e2d809503b792fe090c53c1effabcc598f236fd67fb4b9c5944c6893",
       "selectable": true
     },
     {
@@ -569,8 +569,8 @@
       "path": "geoip/geoip/BZ.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/BZ.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 4140,
-      "sha256": "104889d94768329684371961abc9bc7b87124c724d5f72d3532882b0a702d1fe",
+      "size": 4211,
+      "sha256": "09cdf9a86a14251cdee39a299538d1c90bf43b0f296c0ab2c4dbc4bfc010accb",
       "selectable": true
     },
     {
@@ -584,8 +584,8 @@
       "path": "geoip/geoip/CA.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/CA.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 418902,
-      "sha256": "05c57b31aa328753c45902af02ee12adf5875e16126ea427c4b406bf09fe4242",
+      "size": 415929,
+      "sha256": "6af7de3273a168cf3fd7f042edb365a509194a495ccdf6c583b087fc654b1522",
       "selectable": true
     },
     {
@@ -599,8 +599,8 @@
       "path": "geoip/geoip/CC.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/CC.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 280,
-      "sha256": "367f6795520457ca677bb18c88f9b524dfc06e582c1fc35400372332a538f9bc",
+      "size": 258,
+      "sha256": "353572c125ba6a551e39fe91a68695eb7017e5f395b35a772690406628b36c07",
       "selectable": true
     },
     {
@@ -614,8 +614,8 @@
       "path": "geoip/geoip/CD.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/CD.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 4686,
-      "sha256": "2a9bbffc9e872a7eb52be282a66d13074e175fe02412f91bbcb0e500c33be823",
+      "size": 4715,
+      "sha256": "ff1de5749874ce4901cd05fd41fc7d8d09bd573868d5c9905b45a6402d0f7b83",
       "selectable": true
     },
     {
@@ -629,8 +629,8 @@
       "path": "geoip/geoip/CF.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/CF.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1109,
-      "sha256": "d47aeebf4e8b4e7b7f5bbe758d3087613314bf2f03612910459706300d271744",
+      "size": 1087,
+      "sha256": "507075e912956feda9bd7b95eb4810072cad273f7ca47c1e9c04b51c62359e08",
       "selectable": true
     },
     {
@@ -644,8 +644,8 @@
       "path": "geoip/geoip/CG.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/CG.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2042,
-      "sha256": "3acab2cc2951fb69185a2a074d9753de32fe7d5ab7fdb1ea977bd7a0ec584bc7",
+      "size": 2020,
+      "sha256": "658fdbc5aa023139fe444db679d86656b094ad60870ec8cd983eab05c2603fd6",
       "selectable": true
     },
     {
@@ -659,8 +659,8 @@
       "path": "geoip/geoip/CH.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/CH.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 191179,
-      "sha256": "9623f3e253d4061a4fbbf58dd5e05a880f25cde4be3a615dc4c83b11b2774e8f",
+      "size": 189838,
+      "sha256": "116cd657cd62a4f6abf1a3cc0eedf1a0a8d2d6b3da15ae9e06a6499afa0f2c5c",
       "selectable": true
     },
     {
@@ -674,8 +674,8 @@
       "path": "geoip/geoip/CI.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/CI.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 6271,
-      "sha256": "c86b35b6c72c9f7ca21ac14ddf1f1e1cb959c56bca6818649678418af92b98a3",
+      "size": 6160,
+      "sha256": "55f45d21c4964f3b0604a2dce449cff16901002bb14928c06635bf7c4acb0877",
       "selectable": true
     },
     {
@@ -689,8 +689,8 @@
       "path": "geoip/geoip/CK.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/CK.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1112,
-      "sha256": "9db9221b48be4af2df5d0cb24a068387edff7fe18fab4748446ecb5c6bae1153",
+      "size": 1090,
+      "sha256": "c2d0a9a635a55dd357c45b7d1e231465283210e25c61573fdd9396c52652a097",
       "selectable": true
     },
     {
@@ -704,8 +704,8 @@
       "path": "geoip/geoip/CL.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/CL.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 39765,
-      "sha256": "924477862649818244189899e76113b3f74ba68a9a77e153ac08cb8686de60ea",
+      "size": 39858,
+      "sha256": "479cc7bdae599ee5194e4d5fdbcea8c3dcbcf772b9ef89321543e4db318ca136",
       "selectable": true
     },
     {
@@ -719,8 +719,8 @@
       "path": "geoip/geoip/CLOUDFLARE.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/CLOUDFLARE.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 11698,
-      "sha256": "eb5ae000236c09323375e0bd8ba51b5befc6b7a214974e24fe0e359ff83e9950",
+      "size": 13655,
+      "sha256": "ce9815287fb885ee826c01b9824ac135ec97598f38fa1684d62c280c8275e110",
       "selectable": true
     },
     {
@@ -734,8 +734,8 @@
       "path": "geoip/geoip/CLOUDFRONT.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/CLOUDFRONT.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 3443,
-      "sha256": "d972b188ae1e81c957f1d77b2bb449eddcc3a70d575d7381dd15503247b01c48",
+      "size": 3488,
+      "sha256": "c979a117543c2a9ca5fce49d02bf6a848ec125555b051d0db4a8c53784182081",
       "selectable": true
     },
     {
@@ -749,8 +749,8 @@
       "path": "geoip/geoip/CM.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/CM.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 3298,
-      "sha256": "8650194104b61dcf5f8d1159d4ec88aba1485e0f1d868f78f717a2fa5598c2cc",
+      "size": 3292,
+      "sha256": "0ca73952272b648550278728d54d5cec812905a8309f31c3e583a9468b43d63c",
       "selectable": true
     },
     {
@@ -764,8 +764,8 @@
       "path": "geoip/geoip/CN.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/CN.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 157097,
-      "sha256": "ff8a51bfac5555d986cc9f35628f41b0b3bd820a0f54778d22bbe454dd6cc797",
+      "size": 162560,
+      "sha256": "28de57ceeebf6f5b3f9dcb438b4d1e01085df31b4302572b2acf362c7993734a",
       "selectable": true
     },
     {
@@ -779,8 +779,8 @@
       "path": "geoip/geoip/CO.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/CO.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 51884,
-      "sha256": "d7ae6acd8a5880e9655b8a3d14be2ccf4be0d1ebd4d245e6ec727b87df37a5fc",
+      "size": 51651,
+      "sha256": "9f1827a107b56ce05805d753d31865ada6a124faab0de9e1eb3950a44425a8de",
       "selectable": true
     },
     {
@@ -794,8 +794,8 @@
       "path": "geoip/geoip/CR.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/CR.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 12992,
-      "sha256": "2839d770379c45b8d0250d43e66706b8f448afef2cf05032b4a35a27366603e2",
+      "size": 12881,
+      "sha256": "6055a158714cd626c5625b3d98c2130ae4b5dfb193d62b06d4ca7b3edaecc62f",
       "selectable": true
     },
     {
@@ -809,8 +809,8 @@
       "path": "geoip/geoip/CU.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/CU.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1753,
-      "sha256": "9cd61d3ca420ab35486e9602b209827505f22c8d626fdfe1cd614e85a08e628a",
+      "size": 1731,
+      "sha256": "47ff402e2cdf0732de25f67c754cd3ec75f48756fdda70e2ee72852becec5dc5",
       "selectable": true
     },
     {
@@ -824,8 +824,8 @@
       "path": "geoip/geoip/CV.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/CV.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2032,
-      "sha256": "4bbd19dfd604f5c4f1984696e32915a5d4a3b5e3371963b81bdf5109106bba66",
+      "size": 2010,
+      "sha256": "cdd083915e8d8f48dd19f0271aa9fee69f5186abe32b92e57d1f0497eb0cabcb",
       "selectable": true
     },
     {
@@ -839,8 +839,8 @@
       "path": "geoip/geoip/CW.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/CW.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2576,
-      "sha256": "0fbaf73a32f3707868db0132aaeebbddffb0b3885fd3b3f1fb5d6652eb5e3610",
+      "size": 2520,
+      "sha256": "727fbe6c3193f8f2c3a55c570abe2df0d66b643fb592833a216d02fab3c284cb",
       "selectable": true
     },
     {
@@ -854,8 +854,8 @@
       "path": "geoip/geoip/CX.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/CX.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 954,
-      "sha256": "5df53770f3186e927b01c9619a8cdff2e83c893a5b46a946d8af17075dbc9352",
+      "size": 932,
+      "sha256": "f53c07342c7eb96190ed0337db80f3c48b9da092d1f216a1e42b8a7f09b71cc2",
       "selectable": true
     },
     {
@@ -869,8 +869,8 @@
       "path": "geoip/geoip/CY.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/CY.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 22722,
-      "sha256": "491a49655dc3ac7d87e0d05ea2dc17a31009b299f652acee05dda83376862795",
+      "size": 21721,
+      "sha256": "581ef7c7307ee4f9eaf9f99e3d612af7d8a61c7d877fa00ff5f91cdec2ffbd4f",
       "selectable": true
     },
     {
@@ -884,8 +884,8 @@
       "path": "geoip/geoip/CZ.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/CZ.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 86538,
-      "sha256": "8a5a717e90aba2189d504934cea367c34262ca4a0709966cf671acfc458ad174",
+      "size": 87310,
+      "sha256": "141fde599b278db468a000aa990a285fafd085659ef1bfb62f68ff81b2c60346",
       "selectable": true
     },
     {
@@ -899,8 +899,8 @@
       "path": "geoip/geoip/DE.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/DE.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1340814,
-      "sha256": "502e08121187c49009e65a21267bab2630b48611dc33f1f8fa3240c3c5d856cd",
+      "size": 1337933,
+      "sha256": "c03d07c47f304992bf2dc7eba2754caa96976df66d75dd4489f89da80a27844a",
       "selectable": true
     },
     {
@@ -914,8 +914,8 @@
       "path": "geoip/geoip/DJ.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/DJ.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1678,
-      "sha256": "edb5287cb6db86194ce5a0561bd63d2eba10282e44a1faf7979d6996dc47e877",
+      "size": 1656,
+      "sha256": "cfef90e9446a59da1ca05f5079aac178d08cf197a202494e08aa88512533385b",
       "selectable": true
     },
     {
@@ -929,8 +929,8 @@
       "path": "geoip/geoip/DK.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/DK.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 78494,
-      "sha256": "25c888587ede50c2e35c91d764fa70cec2c0a3e17a7c3082ef41679e56812b53",
+      "size": 78244,
+      "sha256": "caf3ec1a29244cc3f4c9fa2a9b1889bf3f1ae696645a41aa4e2a6b87ab526dc8",
       "selectable": true
     },
     {
@@ -944,8 +944,8 @@
       "path": "geoip/geoip/DM.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/DM.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1959,
-      "sha256": "1b5a09a3d4250964e1ba22e0201e008afea906f91762c2e37e817de63bcd3690",
+      "size": 1906,
+      "sha256": "7141e331521f9c80a54e14c7e414430b968353af0723715ffe3684a4d737bf83",
       "selectable": true
     },
     {
@@ -959,8 +959,8 @@
       "path": "geoip/geoip/DO.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/DO.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 15261,
-      "sha256": "9ce89b219ee03aaaba0bcf941372035b3796bc3f4dd2e9b48828abf95ebbab92",
+      "size": 15457,
+      "sha256": "f5e8afac0cc2117b27e8d55cefce3de25290512c5376adc3c7dc48897442fc54",
       "selectable": true
     },
     {
@@ -974,8 +974,8 @@
       "path": "geoip/geoip/DZ.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/DZ.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 4708,
-      "sha256": "25461fb957ceb00028ef228a94faa3d424954c17093bddac4fc03dc2edc2633d",
+      "size": 4717,
+      "sha256": "095f6e02c3a711c1fb42f69f5fae9358b6e1ae236b5846de47a6410c941f852d",
       "selectable": true
     },
     {
@@ -989,8 +989,8 @@
       "path": "geoip/geoip/EC.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/EC.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 17349,
-      "sha256": "f9f1311e091fdd835d215ed58108080659d2f5e8f121ad53d4fce8d0bf019eb5",
+      "size": 17577,
+      "sha256": "9c35deaaab673de990adaac638bb3ec211968af5473055fcaed8faa9faa8082d",
       "selectable": true
     },
     {
@@ -1004,8 +1004,8 @@
       "path": "geoip/geoip/EE.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/EE.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 26726,
-      "sha256": "2ff5860c11dc9715d5512c553f5bca9eac2935d51dfaee3b2bc6257c2a1266ff",
+      "size": 26782,
+      "sha256": "2a421e4a6286538687e2703a3a08e11f6ae23c37619d0d000054bbdbb9e3c372",
       "selectable": true
     },
     {
@@ -1019,8 +1019,8 @@
       "path": "geoip/geoip/EG.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/EG.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 11349,
-      "sha256": "b4ae9d362732130f82771f379504beab0381f46dd7015a4f5fdba71f7d8652c6",
+      "size": 11432,
+      "sha256": "c5a633f0cfc275bd34359e6c384fdc1104e23409fccf522cbbb7890c8de80e93",
       "selectable": true
     },
     {
@@ -1034,8 +1034,8 @@
       "path": "geoip/geoip/EH.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/EH.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 382,
-      "sha256": "31d7802e47b10f9bc7adb129cb14b34e9d2c4fb405e065a7d098fb5b8178786e",
+      "size": 360,
+      "sha256": "f498a67ab47c412c90a001b73514195cbd8a413cd30dc325c8ff68fbadc61cc2",
       "selectable": true
     },
     {
@@ -1049,8 +1049,8 @@
       "path": "geoip/geoip/ER.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/ER.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1168,
-      "sha256": "820246b0f7d45c8b7d0c7ec0a376a7192f49d623080117c286fbb49573edd100",
+      "size": 1146,
+      "sha256": "4879ca6b2e1a69ec3161169f912cecb065f91797123a24b705e1fda022952747",
       "selectable": true
     },
     {
@@ -1064,8 +1064,8 @@
       "path": "geoip/geoip/ES.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/ES.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 217555,
-      "sha256": "922c858c48fd61afd4e4c7ac2b033d6d32539ece04c3b6f54006e170a5c205ee",
+      "size": 220250,
+      "sha256": "ac7ee3c911a9851c9ba87c4985fac600576b76e6d57a04ee2b827b276bc3cacd",
       "selectable": true
     },
     {
@@ -1079,8 +1079,8 @@
       "path": "geoip/geoip/ET.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/ET.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1888,
-      "sha256": "9be9f69e372e0c0dc777bb416594bdfaffea16772228287f535c65665ac84fd1",
+      "size": 1866,
+      "sha256": "9619dad612250a241721bbdddc55b68a10d1fc52374709a2d48a358d538f3174",
       "selectable": true
     },
     {
@@ -1094,8 +1094,8 @@
       "path": "geoip/geoip/FACEBOOK.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/FACEBOOK.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2068,
-      "sha256": "632f7e6a5f197150ddd49f636fdf72cdd9a640df38b3b7c8c2335bbfa57f34c4",
+      "size": 2054,
+      "sha256": "bbe315d3b26140d7d9ea8f3942ff08d5c1234d7c3dffa6b68a5833912d94a3c0",
       "selectable": true
     },
     {
@@ -1109,8 +1109,8 @@
       "path": "geoip/geoip/FASTLY.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/FASTLY.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1535,
-      "sha256": "132864ff7a2607b572ff51050838b4ce065f750b28ef738755e8b64a9be0c864",
+      "size": 1518,
+      "sha256": "539bc1abd5e4207a9a091cea0cca3473e61c246de1e092f8695e817afa226422",
       "selectable": true
     },
     {
@@ -1124,8 +1124,8 @@
       "path": "geoip/geoip/FI.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/FI.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1024188,
-      "sha256": "eed68715aeaa37426248c0c3dd71cf5fa74d043f6fc56917aa657ad72adae89a",
+      "size": 1012779,
+      "sha256": "31c6646147516c6028d2f962ea7e2a077af99752973f0ce0b1f47fe21da7d219",
       "selectable": true
     },
     {
@@ -1139,8 +1139,8 @@
       "path": "geoip/geoip/FJ.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/FJ.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2491,
-      "sha256": "82d4610bd276add28e2825fd5a8847c398d30da317f11a46627f5b669dad6cb6",
+      "size": 2469,
+      "sha256": "22f1dc6aae76a7f0600c06d38cb31b5711269da262837996ee64ad3915bdef8c",
       "selectable": true
     },
     {
@@ -1154,8 +1154,8 @@
       "path": "geoip/geoip/FK.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/FK.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 671,
-      "sha256": "8ae666d817e1b7e432a16f1b6d5769d3dc556a5cd1b6ce9d62c554728070bc47",
+      "size": 649,
+      "sha256": "dee063b281719b7bacff1535af46e520d73df83f09a394de4c01ce94dbd06b08",
       "selectable": true
     },
     {
@@ -1169,8 +1169,8 @@
       "path": "geoip/geoip/FM.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/FM.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1271,
-      "sha256": "b013b044bbc45db39754593351ba1b51575e638d3d8936a16389f7fdcd38263a",
+      "size": 1249,
+      "sha256": "d6419a067173215e1ab062c7e838cd134f7ded545cc82eb45613fc403548631a",
       "selectable": true
     },
     {
@@ -1184,8 +1184,8 @@
       "path": "geoip/geoip/FO.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/FO.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 883,
-      "sha256": "2f2ca3c2cf4f1c9c6fcb85f88db73ec723b727d569935d0f9e0a80ad4d978f13",
+      "size": 886,
+      "sha256": "a002168bd546de24301654f7b37fa90acca7da2671e0ed34597c888ffb84df12",
       "selectable": true
     },
     {
@@ -1199,8 +1199,8 @@
       "path": "geoip/geoip/FR.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/FR.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 629979,
-      "sha256": "208f8e666f9f851403362749a8e9584236b5db1296db47eadddee8d761d82576",
+      "size": 630421,
+      "sha256": "b50b7398f2c6d88703a00c3eba5d4a81df964201b810d7ee3aded22fef12397d",
       "selectable": true
     },
     {
@@ -1214,8 +1214,8 @@
       "path": "geoip/geoip/GA.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/GA.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1595,
-      "sha256": "4b13f34b77198f3f4802d2ddc43bd14d36c357fbf7662763291e97934e414852",
+      "size": 1573,
+      "sha256": "ab3e1c9765bf34a5c5b5bab37e8de1ae4052d30402885a74930f377cb87dacd7",
       "selectable": true
     },
     {
@@ -1229,8 +1229,8 @@
       "path": "geoip/geoip/GB.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/GB.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 807140,
-      "sha256": "a9275133347e826b6b03f2aa78782b980ed36eb79c4ce216bd28a041449e71e3",
+      "size": 810924,
+      "sha256": "c1c0b1b266281173298a1f39684bd264923a9817c45a4a5253b471f18477710b",
       "selectable": true
     },
     {
@@ -1244,8 +1244,8 @@
       "path": "geoip/geoip/GD.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/GD.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2165,
-      "sha256": "91c790ed37fea25b9cc4bae7b5574b68d25f6a82802f7c1425c2477c6d56a08c",
+      "size": 2119,
+      "sha256": "c240fb30bf8cdf9ca5b6ed53f01352824bc5b8ec22b028beca20f9b13ad59ccb",
       "selectable": true
     },
     {
@@ -1260,7 +1260,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/GE.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
       "size": 10919,
-      "sha256": "4633ca451ca183e93fc14c79825011b7fbf2502ac75eafbbb58e7df3757894e8",
+      "sha256": "84976bd36842d136f458d1d20328abf20aaa987f18a553473e867018e7468f96",
       "selectable": true
     },
     {
@@ -1274,8 +1274,8 @@
       "path": "geoip/geoip/GF.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/GF.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2125,
-      "sha256": "81200fedf093232b0a62576a739d89663d8420b2f2ae315583de5a42023bad6f",
+      "size": 2039,
+      "sha256": "099cb84c5208ec2353be84cc41717ae2433a60b78b613cdf30993b78e365445a",
       "selectable": true
     },
     {
@@ -1289,8 +1289,8 @@
       "path": "geoip/geoip/GG.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/GG.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2083,
-      "sha256": "4a88af28e7aca9aba382c7b69d9b26d4f03d5de681f8cdea98ea60e039215507",
+      "size": 2178,
+      "sha256": "d922eb5294603b668876cd6f3f3c64bf66f2f5691be2c0a0d91af0bee35c6da5",
       "selectable": true
     },
     {
@@ -1304,8 +1304,8 @@
       "path": "geoip/geoip/GH.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/GH.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 7157,
-      "sha256": "c57ef69476ad8e95242b91bbdf9d28d11874c76011aed35c315390d121a16815",
+      "size": 7266,
+      "sha256": "8704f0f4b062d17d146fee448dffefc78da3c5902ca296c3ec4ef8104e1bc858",
       "selectable": true
     },
     {
@@ -1319,8 +1319,8 @@
       "path": "geoip/geoip/GI.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/GI.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2818,
-      "sha256": "328df6d843a2450f4a9437020a78c8f2053723de0d32424feb79da44f9b31714",
+      "size": 2796,
+      "sha256": "747eae1b1aa058b3dd8594c5f7788d9112a1ace80436ff605cea285f797c8fbc",
       "selectable": true
     },
     {
@@ -1334,8 +1334,8 @@
       "path": "geoip/geoip/GL.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/GL.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2837,
-      "sha256": "36ef9c599df2396b3c5b3051f5c2e005ddc301d644e80e4bec0e0279f3e18a4b",
+      "size": 2815,
+      "sha256": "3655bad19708699ab5dce74f00abc24895f4e3bdc697a726ce57516ef220ba3c",
       "selectable": true
     },
     {
@@ -1349,8 +1349,8 @@
       "path": "geoip/geoip/GM.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/GM.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1800,
-      "sha256": "fd8f6c20bd119ca27983a663b27c9fc827e4b35c7b503af2db938ade47978b27",
+      "size": 1778,
+      "sha256": "a315e9a22050df4408a958c25373ba9447908017fd159a489483e2a42babc82d",
       "selectable": true
     },
     {
@@ -1364,8 +1364,8 @@
       "path": "geoip/geoip/GN.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/GN.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1677,
-      "sha256": "f1f61acf0c719fd28a664dbd9f10cec3e10093a6a8e52413400bd4d066e23548",
+      "size": 1671,
+      "sha256": "77b16ccfa250aeeb7b86164e5133c7f9a93af4dc439802f1eee00252262d1557",
       "selectable": true
     },
     {
@@ -1379,8 +1379,8 @@
       "path": "geoip/geoip/GOOGLE.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/GOOGLE.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 179891,
-      "sha256": "61fed8e8d8ae9a394738a0e49bfb4b95458f99f725bf3d5df8a2f737419fa165",
+      "size": 181853,
+      "sha256": "7cac2ad08335541d38fb61be47d4725e8f9da8db7be78c725cd22dad59fc4602",
       "selectable": true
     },
     {
@@ -1394,8 +1394,8 @@
       "path": "geoip/geoip/GP.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/GP.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 3926,
-      "sha256": "47476a4ba05d58ae50bd4dd355af7fc5d78ad049b24ceafe7afcfa0a73d24f5f",
+      "size": 4351,
+      "sha256": "156e2a481792c4950ff9e04d13a8dd8e73cf7d4841537ea28c534dec7bbed2ec",
       "selectable": true
     },
     {
@@ -1409,8 +1409,8 @@
       "path": "geoip/geoip/GQ.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/GQ.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1201,
-      "sha256": "063c566ac4bf6af598ce0105857796b81123ebdc757153645facf4581bb17cc1",
+      "size": 1179,
+      "sha256": "a3a865cd4947602709d9cab996fda21fc51cb2b82d6a015bcc1bcb2795f261a8",
       "selectable": true
     },
     {
@@ -1424,8 +1424,8 @@
       "path": "geoip/geoip/GR.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/GR.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 27175,
-      "sha256": "57150b68cc83be3e7f3365c9c62605b5a19ab301d9486af0afdff192ed6c9156",
+      "size": 27297,
+      "sha256": "3e23b6f0e37d36c88f2cd7b72f63ada53e15b96b9f9fcfdc41f0401c9ab01264",
       "selectable": true
     },
     {
@@ -1439,8 +1439,8 @@
       "path": "geoip/geoip/GS.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/GS.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 195,
-      "sha256": "3805cc26d4200b96723e7d5abc7c665c0485bd0072433b16770a4dac8a93b510",
+      "size": 173,
+      "sha256": "1a05c22cac47c031a33bed5dcb1c3f673f91089ad01a3522719e9bc158b0375c",
       "selectable": true
     },
     {
@@ -1454,8 +1454,8 @@
       "path": "geoip/geoip/GT.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/GT.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 9945,
-      "sha256": "74c15f3a0b52e68c9fd933070042a81192d40064b2d8dcf22b9c958f7b0fa7b4",
+      "size": 9906,
+      "sha256": "c103666cd4e52fb6594118dd6f50e39c3e877711b2e2955082fe6ab77efc5382",
       "selectable": true
     },
     {
@@ -1469,8 +1469,8 @@
       "path": "geoip/geoip/GU.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/GU.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 5277,
-      "sha256": "2367210f9d65d35dca9f7e7a8ad6cdb34d1c77157c4dd115f0db4430006bdaef",
+      "size": 3551,
+      "sha256": "fcdf8793035a9d544d34ea483f897152cdd776c82464290aa04eb2f58d2f2698",
       "selectable": true
     },
     {
@@ -1484,8 +1484,8 @@
       "path": "geoip/geoip/GW.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/GW.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1311,
-      "sha256": "416bae981e5e2d1bae6a3de27f20cd91546f29036afd0c8beef1f0ff2644fc1f",
+      "size": 1289,
+      "sha256": "04322b6771bfc39f4b4e4c825908c123d6de583c6d9476e56bcacfe7444e20e9",
       "selectable": true
     },
     {
@@ -1499,8 +1499,8 @@
       "path": "geoip/geoip/GY.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/GY.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1575,
-      "sha256": "a3945826402d625f44f08b29b0628c3c90ce5a43d9c15b999564a0ab6e7cd908",
+      "size": 1521,
+      "sha256": "c5eaf32659b99c20c07defdb1cfc6010f1f86af7ddeb97a9d58ae50416dd1e43",
       "selectable": true
     },
     {
@@ -1514,8 +1514,8 @@
       "path": "geoip/geoip/HK.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/HK.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 264823,
-      "sha256": "2d1cb5ca3baf8c1c8cabecc1ea229a30f36eef21a21b7ca9b6d9ef7f89b60725",
+      "size": 261192,
+      "sha256": "1f412b09fe3beb5f8aa62ef70166c745db64e347b2e2decf1f7639df27fdc9bb",
       "selectable": true
     },
     {
@@ -1529,8 +1529,8 @@
       "path": "geoip/geoip/HM.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/HM.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 320,
-      "sha256": "3c66322150b3a333bcd4fa1a6cfbc7c1f5e013f8e6d1af2963144ba284b0dbe3",
+      "size": 298,
+      "sha256": "34d05f0522d9c127429281d7059895f197d7c90353443d792e03f7e062f7b65a",
       "selectable": true
     },
     {
@@ -1544,8 +1544,8 @@
       "path": "geoip/geoip/HN.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/HN.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 8000,
-      "sha256": "7e2a3516f03846ed71aae6a184edd1cea30450ae79dd2ade84e4f4ebc0c41e6f",
+      "size": 7919,
+      "sha256": "72ae2af63d4a576488b0456c2e87404da512b4597ec60b3e25cb3a10bc687df6",
       "selectable": true
     },
     {
@@ -1559,8 +1559,8 @@
       "path": "geoip/geoip/HR.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/HR.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 14292,
-      "sha256": "650733f598675b7f738f6281ee9e740c8a88c806c1fa52ec5de9de7fe8cabd11",
+      "size": 14716,
+      "sha256": "4b69e9e851563293529c7fdcf90b83fac333b39f0458180ff4601057a5f2559e",
       "selectable": true
     },
     {
@@ -1574,8 +1574,8 @@
       "path": "geoip/geoip/HT.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/HT.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2588,
-      "sha256": "f212d2d1f01d95df177d143a727f048bdd42729e21f391af583412ecde0f51bd",
+      "size": 2616,
+      "sha256": "e54fbc0c389f4659938447d364ec50c22803ec17b3c145d94849b16612f54f0e",
       "selectable": true
     },
     {
@@ -1589,8 +1589,8 @@
       "path": "geoip/geoip/HU.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/HU.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 44110,
-      "sha256": "e76748fe278d67aef8bb8ddb658caa925c12f8074fdcf63fc51a24139f9e8e0c",
+      "size": 44438,
+      "sha256": "fdbe1f007a0f370c636fa368ad6e53829aea1fb38414fbbc7e79ae94584ecd56",
       "selectable": true
     },
     {
@@ -1604,8 +1604,8 @@
       "path": "geoip/geoip/ID.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/ID.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 176607,
-      "sha256": "5751a8f9dc12a334d56268c51487f151b20369ef956280dfca926317c0f50ab9",
+      "size": 177571,
+      "sha256": "abad6a05e9be7ccf73231e889d0bd5fd0a68585154f66293ae463d61b19163f1",
       "selectable": true
     },
     {
@@ -1619,8 +1619,8 @@
       "path": "geoip/geoip/IE.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/IE.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 140992,
-      "sha256": "99049de4c5a0e6019ba3b70da6858ab81a9ef0ef939e10387dd27de6655ccaa1",
+      "size": 141310,
+      "sha256": "13803d0fb01ba615093eabf51a5ecc06013a82a8c00abf3659ec2d747073d049",
       "selectable": true
     },
     {
@@ -1634,8 +1634,8 @@
       "path": "geoip/geoip/IL.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/IL.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 65163,
-      "sha256": "979aa269743655494305fe88ee7f8b0be4165e79cec70bbe207885a539d48ce5",
+      "size": 67077,
+      "sha256": "ba75ac629161ead0519971432b2deaf2aa6669c30189a89c75b1fdbb3d8ea5ca",
       "selectable": true
     },
     {
@@ -1649,8 +1649,8 @@
       "path": "geoip/geoip/IM.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/IM.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 4867,
-      "sha256": "225aca31cb4533dc358f95a7c8f42ef5c35dbfe13ab158aa62160a0983a10b68",
+      "size": 4897,
+      "sha256": "22a6e397750a9789993a56b8c6ba33656e3a7e596214ebaec46c29cbd23b1f53",
       "selectable": true
     },
     {
@@ -1664,8 +1664,8 @@
       "path": "geoip/geoip/IN.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/IN.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 302923,
-      "sha256": "50d28c89b14bcc2ff97b6c84f5156cf7a22a33b177e8c947347371a3eeb577ec",
+      "size": 303773,
+      "sha256": "82e81f7d72fe4743a2e023dde125674de74ba13acba7be2f1190bb1a352c854c",
       "selectable": true
     },
     {
@@ -1679,8 +1679,8 @@
       "path": "geoip/geoip/IO.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/IO.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 960,
-      "sha256": "7ef5b08760ce41e4295f90b58bd3e53028f38a662fe49d6b64898ba4db1aa4cf",
+      "size": 938,
+      "sha256": "3635a9f65320cc34f99576a55aa70d8855290fe446e4973cc5cfdf1a4849cf41",
       "selectable": true
     },
     {
@@ -1694,8 +1694,8 @@
       "path": "geoip/geoip/IQ.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/IQ.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 23416,
-      "sha256": "a4f8cf6fe30a92d4111768deea16483a6caa403f272a61db1591bdc75a32943e",
+      "size": 23425,
+      "sha256": "4ea941a1aa2d859d252d126b0a583d167a4ad87556b94e4adc8c7387689ba708",
       "selectable": true
     },
     {
@@ -1709,8 +1709,8 @@
       "path": "geoip/geoip/IR.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/IR.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 42594,
-      "sha256": "816c3180f54b6d4d05dca192dbb45eec7d29f8a322e5aedea5ccc8c002544a94",
+      "size": 42588,
+      "sha256": "ec431ca980fac78c0a4ca56c4d11429db7e5fb4fe35555511da11f2ad1ee909a",
       "selectable": true
     },
     {
@@ -1724,8 +1724,8 @@
       "path": "geoip/geoip/IS.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/IS.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 13509,
-      "sha256": "6f1e31110b4f0f415f71c788a8591bc3f105d5ccc424e31212338a85f5047d20",
+      "size": 13940,
+      "sha256": "a3664bdd2a2c6ef64cbfb0d5f7405199f5ca242e5dc8496881ca9692cd52d4c9",
       "selectable": true
     },
     {
@@ -1739,8 +1739,8 @@
       "path": "geoip/geoip/IT.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/IT.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 202424,
-      "sha256": "9977d01e8d1525729f411159f933d922feadc09d056d73817304db8a9baec37d",
+      "size": 204042,
+      "sha256": "c7d258fb10b8a29ad7b84b9e53608853c6b535dd5516d5b62b6db150a77dc26d",
       "selectable": true
     },
     {
@@ -1754,8 +1754,8 @@
       "path": "geoip/geoip/JE.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/JE.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2789,
-      "sha256": "7e2e0f0ad313eb072618b2feb3870a22545479d00a59e097c648ff9ee72ddb10",
+      "size": 2640,
+      "sha256": "fa43f5898ae5ec5d4f7a88c3698f7ff4888125c170e1537dfc64e38d382763f2",
       "selectable": true
     },
     {
@@ -1769,8 +1769,8 @@
       "path": "geoip/geoip/JM.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/JM.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 4799,
-      "sha256": "b46226d7a7ef3629c328699bce66eaabcb75a56ffa116bdff0acd4bf93b927b8",
+      "size": 4812,
+      "sha256": "526083d3749de9eab125de8014e28e54215366f9c5d4e0c1f23c008f1abb1e11",
       "selectable": true
     },
     {
@@ -1784,8 +1784,8 @@
       "path": "geoip/geoip/JO.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/JO.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 5894,
-      "sha256": "0b0b09f9fd995971d6fc73fd83a5dd236e643ad709e94315c5050ee93ec00dd3",
+      "size": 5856,
+      "sha256": "903eb2369a7c5de81ed5dca7b9caf50c0815e948aedd6aaff0f2ced3e5c2c798",
       "selectable": true
     },
     {
@@ -1799,8 +1799,8 @@
       "path": "geoip/geoip/JP.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/JP.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 248642,
-      "sha256": "a3b1ac4af785f9bd93bb72f0c29881d9ea849bdf179d764d72e3d935ba9281d5",
+      "size": 248787,
+      "sha256": "b2a5b4a5b7c292ea76820d7a96769eaddb015a2d342ac0329b64e2e7c2b9ad24",
       "selectable": true
     },
     {
@@ -1814,8 +1814,8 @@
       "path": "geoip/geoip/KE.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/KE.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 15121,
-      "sha256": "32c43e82cd92f00a7ac7b079f58bdc59d1c9326d38bc191c795e19477ddcc934",
+      "size": 15215,
+      "sha256": "36f1f2a7cbe106175dfafd80439a06cd1299a7873a4300bde08f8cfc46d96ee4",
       "selectable": true
     },
     {
@@ -1829,8 +1829,8 @@
       "path": "geoip/geoip/KG.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/KG.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 6469,
-      "sha256": "b8a73352692c222134b96b60ab6f3e1fb66fcf8dd49cfab749d282b1bce927fc",
+      "size": 6409,
+      "sha256": "7831777757870212f3803f347b38916d20e7d35f2794ed389b0f4b469a2cf4ef",
       "selectable": true
     },
     {
@@ -1844,8 +1844,8 @@
       "path": "geoip/geoip/KH.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/KH.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 10205,
-      "sha256": "a62f47763cbea476159571727d12f3c8f3dd39278122cdbe14b39402706a36e3",
+      "size": 10196,
+      "sha256": "b62858752dae09bb4941ff119fa279fd0739f76dafaa6262b2e0f2f8430bbfcf",
       "selectable": true
     },
     {
@@ -1859,8 +1859,8 @@
       "path": "geoip/geoip/KI.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/KI.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1776,
-      "sha256": "615182244f77617e6e9633585087b4ba34985d6ca95b92cc6db94d7cfec2bfe3",
+      "size": 1754,
+      "sha256": "9f8a1778ab553d30b9dd75b362c668081a6c5791f6e212c6dffb727c098c782f",
       "selectable": true
     },
     {
@@ -1874,8 +1874,8 @@
       "path": "geoip/geoip/KM.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/KM.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1093,
-      "sha256": "e6f08e10a163b05cd3a55111a82f565345a70aa3cc2b25677b8eb5d3b55b6db8",
+      "size": 1071,
+      "sha256": "dc4f20d38ca965276d07419550615df6dd2e1d8270e6841b29a2a4635694446d",
       "selectable": true
     },
     {
@@ -1889,8 +1889,8 @@
       "path": "geoip/geoip/KN.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/KN.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1905,
-      "sha256": "aceaf4e32de94ec0c1fbaaca35c606dd610077b1637463e379f773496b272b48",
+      "size": 1862,
+      "sha256": "a720963bd07a6a33e35c75da24372eb0583b8b73dba46c2244772a83f1d3a1fd",
       "selectable": true
     },
     {
@@ -1904,8 +1904,8 @@
       "path": "geoip/geoip/KP.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/KP.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 11014,
-      "sha256": "a2cea43d4f0d95766aa71ca165e8871a32a2b2305b78d7b987b8b595dbbb6c7b",
+      "size": 10992,
+      "sha256": "915fe6ee5af7ae788467538c0d26f262292d483822357f41ffcca4ff42118a0f",
       "selectable": true
     },
     {
@@ -1919,8 +1919,8 @@
       "path": "geoip/geoip/KR.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/KR.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 77253,
-      "sha256": "f1aef4d2c0432d8fbfde94132e861c304ff916384d0813f7535f29677653f93c",
+      "size": 77398,
+      "sha256": "ee1baed3ab266c31914be9716b107e00ea41c445043869f8a33a9cf455f43faf",
       "selectable": true
     },
     {
@@ -1934,8 +1934,8 @@
       "path": "geoip/geoip/KW.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/KW.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 5995,
-      "sha256": "17c8f2db8835daa1ff647218e76712f095d59bf453802745decf7d485f26f1d2",
+      "size": 6202,
+      "sha256": "ab7fa4578f4bab9aa93287dd74abbe7ceb2763190596a18455983146b8a2b006",
       "selectable": true
     },
     {
@@ -1949,8 +1949,8 @@
       "path": "geoip/geoip/KY.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/KY.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 3321,
-      "sha256": "1dbc99b52e09e990ac3bbd6490eb6f80745a5d6a5abc76513d227036171c3dd5",
+      "size": 3269,
+      "sha256": "78e412bfa9da0c730de87119fa583fb0c8255e3d2c6331e4a25a802855cde02c",
       "selectable": true
     },
     {
@@ -1964,8 +1964,8 @@
       "path": "geoip/geoip/KZ.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/KZ.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 37171,
-      "sha256": "0c63a882cd7e76c90e63b653c768a0b44a2121adf086cccff18cdf3d718dd5c4",
+      "size": 37415,
+      "sha256": "a3da03dce6f3ae076ee3fe86282050c8a583af6b54dd2899931924b949cf3fa4",
       "selectable": true
     },
     {
@@ -1979,8 +1979,8 @@
       "path": "geoip/geoip/LA.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/LA.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 3716,
-      "sha256": "a0558d7162e94d98bce77a97c1bc85287795ade6bf34a4bb3bc624322ada7df1",
+      "size": 3680,
+      "sha256": "c6de930b67b121a338f2cc2f111337679295fe989aced38f95c33b261255c5cf",
       "selectable": true
     },
     {
@@ -1994,8 +1994,8 @@
       "path": "geoip/geoip/LB.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/LB.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 8655,
-      "sha256": "d0efd85babef08d15089e516e61831b81c8c530c6afa3c9efe4ef21f26e422b3",
+      "size": 8683,
+      "sha256": "331958fdd696d530c8a578a6e7328492127f40dfb7b6fb840d36562f40c14f5a",
       "selectable": true
     },
     {
@@ -2009,8 +2009,8 @@
       "path": "geoip/geoip/LC.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/LC.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2133,
-      "sha256": "b7cc5a25df879fc4b42206ba060ea97dc6f1d7a996eeb04e24e0bb90126f38ed",
+      "size": 2081,
+      "sha256": "0283ace8f38d570420c0414f1f318d83e3038caffadd1ed42c4e0242e00f1e12",
       "selectable": true
     },
     {
@@ -2024,8 +2024,8 @@
       "path": "geoip/geoip/LI.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/LI.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 5264,
-      "sha256": "53d1fb80c960677ab7c923ef6b9dd80c97e318368eb3a7abedb67f2160a1b499",
+      "size": 5260,
+      "sha256": "221d0357b7731f6b0ea7b44c27d1e6c2fa044a22266ef11e62b0079a72aaf48d",
       "selectable": true
     },
     {
@@ -2039,8 +2039,8 @@
       "path": "geoip/geoip/LK.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/LK.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 5594,
-      "sha256": "da4ccb10972517a4a3c325f4c375f7f0478c9140e4aa41046b6458b887e4c6c8",
+      "size": 5591,
+      "sha256": "c337a175a1a009e2fc6b3c7dbd4e36beb75b5d0af7fd8ca1cc2649e87e4eae7c",
       "selectable": true
     },
     {
@@ -2054,8 +2054,8 @@
       "path": "geoip/geoip/LR.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/LR.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1706,
-      "sha256": "41f01ec403a0e31cffc3c7defa856d6b5ad96a98bca6794c1777b3824712a094",
+      "size": 1700,
+      "sha256": "5b27fcccb404ae2065beae21b6b089fb0214c8944b25f9a1722d90fcb34db787",
       "selectable": true
     },
     {
@@ -2069,8 +2069,8 @@
       "path": "geoip/geoip/LS.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/LS.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1526,
-      "sha256": "d5238474e947ef1164542f63eebe4c171a61987f482386ebf9c0ad89db2a7aa5",
+      "size": 1504,
+      "sha256": "106fe4ba520615e9a94a84784d126a469e62f6be34f8e12a032f41b2f4c5486d",
       "selectable": true
     },
     {
@@ -2084,8 +2084,8 @@
       "path": "geoip/geoip/LT.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/LT.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 36506,
-      "sha256": "5129e3b971c468dac067bdb74597a19ffdf9669700c1bf63782aeab5aa7b77e2",
+      "size": 35703,
+      "sha256": "39d0c5ece0cbbd3fc798e5a459906c321c2d9b22cb3d5bbd7f38412e46ecfe9d",
       "selectable": true
     },
     {
@@ -2099,8 +2099,8 @@
       "path": "geoip/geoip/LU.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/LU.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 34303,
-      "sha256": "603fdc8b844daccf1e0dca3445fb7cff0d6fe03dfcaebd803c520842d7d5a7d1",
+      "size": 29193,
+      "sha256": "718cfd1299bf4dd8288ed7e78dd23a983353e2939ee371a836db1d4ec0e6f1bf",
       "selectable": true
     },
     {
@@ -2114,8 +2114,8 @@
       "path": "geoip/geoip/LV.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/LV.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 27704,
-      "sha256": "a97dad51f270806278a91448a516786548133ac3c42acc69cf4e36d0669ab610",
+      "size": 27022,
+      "sha256": "dcbf46d0a2f9307365c978b3664f58363a12cfe9395721752a2f467d29ffbdf2",
       "selectable": true
     },
     {
@@ -2129,8 +2129,8 @@
       "path": "geoip/geoip/LY.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/LY.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2893,
-      "sha256": "1b88e3ea44288bae4e9865c596ad6384121af70f7a56220d2ef8667120d9229e",
+      "size": 2886,
+      "sha256": "60b62c82f67d09d53f5ccdb22bb77d78bf6013a918ec038c12f73e0f273c9926",
       "selectable": true
     },
     {
@@ -2144,8 +2144,8 @@
       "path": "geoip/geoip/MA.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/MA.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 8790,
-      "sha256": "55cc7c7d964fc60114ce951e5db5202d9d8e969689678d71746af5fbdccbf97c",
+      "size": 8996,
+      "sha256": "a66ea2cf48ea6097cd1b869c16dea5fb58fa1afd4edb6df06f9a96bc130f1d3a",
       "selectable": true
     },
     {
@@ -2159,8 +2159,8 @@
       "path": "geoip/geoip/MC.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/MC.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2229,
-      "sha256": "94cb42627d5e07de459920783179d4bd14a60b86ba3c3e56962b75f17d0b39fd",
+      "size": 2237,
+      "sha256": "4d62c248e7b444e87e1f3bffd46d3c43b02a457801f9fde097e4717e287ad28e",
       "selectable": true
     },
     {
@@ -2174,8 +2174,8 @@
       "path": "geoip/geoip/MD.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/MD.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 49334,
-      "sha256": "9e8577b3c23205101957f223b7d10a25062414d4a328a604dcb9f277b7497768",
+      "size": 48749,
+      "sha256": "feb7b20efa339985024fcd3acfab285ac9fe2b049fe70e623db1a9094379f77f",
       "selectable": true
     },
     {
@@ -2189,8 +2189,8 @@
       "path": "geoip/geoip/ME.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/ME.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 3091,
-      "sha256": "16322d7520bbb26cb0b07c693698e0b89e747005eb4fd90c713567ee04105675",
+      "size": 3069,
+      "sha256": "cdefdf91d5876b9f7c7f7b37b58e493a140c10babc22406c790ec390c8d5f342",
       "selectable": true
     },
     {
@@ -2204,8 +2204,8 @@
       "path": "geoip/geoip/MF.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/MF.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1602,
-      "sha256": "41beae7bb47bacba99cccfc15262f39c0b82ff20fcd644d73fc1a622691ad467",
+      "size": 1777,
+      "sha256": "0322710a1ae9e6cd7cdeb6624ba48e59353bffb2bbc30531fcf2516d98a6e253",
       "selectable": true
     },
     {
@@ -2219,8 +2219,8 @@
       "path": "geoip/geoip/MG.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/MG.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2217,
-      "sha256": "1773d3659d8f9a061277ee5271ccf0b8fa980d0f0dc678c1b468fcbf876907b0",
+      "size": 2195,
+      "sha256": "0c274b2e25adf9f2c7ce6be652b1f924fa03149ecbefb1f9a675e58705079d84",
       "selectable": true
     },
     {
@@ -2234,8 +2234,8 @@
       "path": "geoip/geoip/MH.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/MH.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1191,
-      "sha256": "3a97388872a6515cb60afbaf309ab1b394e039d65c81c44bd419a5a307d07c9c",
+      "size": 1184,
+      "sha256": "7d90d26d789629f32f644f5534f0704309122ab03e8810c6dfb15e2b60d6f089",
       "selectable": true
     },
     {
@@ -2249,8 +2249,8 @@
       "path": "geoip/geoip/MK.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/MK.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 5078,
-      "sha256": "beef7bbc2277d1bf129bb839d36bcb6f9cb818a1b8cfa0c02a5e1308d7f61a80",
+      "size": 5133,
+      "sha256": "4a78bbf2d029f34ad3707c2ef7666856610e15f87bd8e2d9dbec9deb2d0cad12",
       "selectable": true
     },
     {
@@ -2264,8 +2264,8 @@
       "path": "geoip/geoip/ML.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/ML.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1449,
-      "sha256": "5ea1fbdd6bc5246cdf27a170d6441fed1c78c61aea20c19105c9742a653e624f",
+      "size": 1427,
+      "sha256": "d5e05f3a1f4a5a644b8ce21d991598727d79454aa74912e4c03bba54c9903ff9",
       "selectable": true
     },
     {
@@ -2279,8 +2279,8 @@
       "path": "geoip/geoip/MM.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/MM.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 10694,
-      "sha256": "f96b5ae4f384c3579e004f641c3af0d4603431d6dc3cd267889d8db964b9bfc0",
+      "size": 10692,
+      "sha256": "22221c28676a5ad894b356d6cfee0862fc1c1effe17f0ce7afa2038f2137290b",
       "selectable": true
     },
     {
@@ -2294,8 +2294,8 @@
       "path": "geoip/geoip/MN.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/MN.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 7125,
-      "sha256": "b97a34ad456b1d80ea22a7a6912d8af6b656cb5be94c82211b58bf272ece18a0",
+      "size": 7083,
+      "sha256": "533c3e9228d18f9a77064fe7c510d989412b6185d42c4216e46f9b7774d437ec",
       "selectable": true
     },
     {
@@ -2309,8 +2309,8 @@
       "path": "geoip/geoip/MO.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/MO.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 13514,
-      "sha256": "ec6039e92f8ba9da827767c9f3e9738d6cd96ad6f2e554f7a884314af41b50b8",
+      "size": 13456,
+      "sha256": "75a3070669fc5b61729f04562c84242aec3abcaa9d3b48760f80daabc112314c",
       "selectable": true
     },
     {
@@ -2324,8 +2324,8 @@
       "path": "geoip/geoip/MP.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/MP.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1216,
-      "sha256": "fa79f7eccc6f1b0e98008c05604bda9620f3010aae1ea35398349e8e75ec221f",
+      "size": 1188,
+      "sha256": "19f6ab5973bef4fc2487a0a95fda73439549f6a32c2458a64a3ff38dfae94a13",
       "selectable": true
     },
     {
@@ -2339,8 +2339,8 @@
       "path": "geoip/geoip/MQ.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/MQ.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 3675,
-      "sha256": "d7997ebd4f3e5fa4d582e11b99f57cd3d2ac7d6ade2cf6909841a9289545f0a0",
+      "size": 3361,
+      "sha256": "475de26b1fd1f2d0085e6fde0abfa87320c866cec39f9c053d1da048b2aa33b5",
       "selectable": true
     },
     {
@@ -2354,8 +2354,8 @@
       "path": "geoip/geoip/MR.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/MR.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1563,
-      "sha256": "504d20c8e754f904a0d521e1a0554a1f2e7676dfce0e3fcf3805684991cb5cbc",
+      "size": 1574,
+      "sha256": "af3a70be3e5a27f2be62d248004b35df528b9e1313dfcbbddd4ce0878b10ab07",
       "selectable": true
     },
     {
@@ -2369,8 +2369,8 @@
       "path": "geoip/geoip/MS.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/MS.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 834,
-      "sha256": "08710508a65aced1fc04d8b44ae216ab830d9e4243bb1376e481abdf45bc44f5",
+      "size": 812,
+      "sha256": "bc8d52c4ab94de1467205fc682fc0f0c72def6715e7ae5d2124ffd65f75b5628",
       "selectable": true
     },
     {
@@ -2384,8 +2384,8 @@
       "path": "geoip/geoip/MT.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/MT.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 5883,
-      "sha256": "6f20a79c1138f50f6af3109cedd8d724689ff3dec695830cd49dc2d26509a11e",
+      "size": 5659,
+      "sha256": "426bc387be5cc80f544987fc70297f24dfcb025fbfb336c911bef49da8de2a88",
       "selectable": true
     },
     {
@@ -2399,8 +2399,8 @@
       "path": "geoip/geoip/MU.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/MU.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 9671,
-      "sha256": "9928dc4acb28ea54b9a888de7c3eac3d63edb031620867a6f3be0aecdeccbf9f",
+      "size": 9497,
+      "sha256": "7f69c263d27ad81e87d4f860dbbd520c9a9b7fb4aa64f3a9279190cf40b4b4c0",
       "selectable": true
     },
     {
@@ -2414,8 +2414,8 @@
       "path": "geoip/geoip/MV.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/MV.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2969,
-      "sha256": "e347ccc2db0b1bb80955410c7411942d3e068204c54723389a72f274f26e1002",
+      "size": 2947,
+      "sha256": "7a8d924c01ea026edc2cb0db06b04e846f1d242cb6ab2aa081fc22263e23f497",
       "selectable": true
     },
     {
@@ -2429,8 +2429,8 @@
       "path": "geoip/geoip/MW.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/MW.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2546,
-      "sha256": "1cbe7df8ae91301dceabfb45e9c52eed94f22a96d45cf66b3a58b4ca78a54b5c",
+      "size": 2524,
+      "sha256": "09527f190aefca54134ec76dd1ce02c32e9422e45d10510dee05aad9f8d5753b",
       "selectable": true
     },
     {
@@ -2444,8 +2444,8 @@
       "path": "geoip/geoip/MX.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/MX.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 79789,
-      "sha256": "4370db8c36ab197dd0a98d87daecf5cbd5c6f632e3e21468c40cfcc4cd347c8b",
+      "size": 82227,
+      "sha256": "e9f42b4bbe82a2a13b153116aa8c3ae0b43385331d9fd1ae480658481bbc2044",
       "selectable": true
     },
     {
@@ -2459,8 +2459,8 @@
       "path": "geoip/geoip/MY.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/MY.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 56968,
-      "sha256": "ad82a75e57b44c23213aac8ca6fe125c532d9b1f2d1e745d579cae333baf01f5",
+      "size": 56902,
+      "sha256": "19ed3228694953a2d69604be6cbd301251dbb520eabcc150a7afbc22af180b2a",
       "selectable": true
     },
     {
@@ -2474,8 +2474,8 @@
       "path": "geoip/geoip/MZ.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/MZ.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 3557,
-      "sha256": "7612577486252437985d845d74643dc8c0598656631829006004ebeb3a94eab3",
+      "size": 3517,
+      "sha256": "5b7da9ce36799012f06823508c636e861d8404e53060450a2597df797c9e8603",
       "selectable": true
     },
     {
@@ -2489,8 +2489,8 @@
       "path": "geoip/geoip/NA.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/NA.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2644,
-      "sha256": "3453e21737eee33ea85c66c448b5eaeda7f2e37f0e5df220695e6c371321a9fd",
+      "size": 2621,
+      "sha256": "a65c7fbcc3718acf10084c70ededd5c5eec82d7c9f28d0dd87489b374500e8db",
       "selectable": true
     },
     {
@@ -2504,8 +2504,8 @@
       "path": "geoip/geoip/NC.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/NC.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2138,
-      "sha256": "003e0a99d0d3f161d4af81802fcf306ee6cc1fe9241553b7da11cecc9e3a39e6",
+      "size": 2116,
+      "sha256": "7a286d298dc974b7faa5773c09bb4b75b1f2fec9ad99c94d93470ac6af5ee45c",
       "selectable": true
     },
     {
@@ -2519,8 +2519,8 @@
       "path": "geoip/geoip/NE.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/NE.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1530,
-      "sha256": "a8564defbb9fe66d1f745efc49a6221c176f1677bdb1fcb00a9b6e2dbb88dd0d",
+      "size": 1565,
+      "sha256": "85b9d7f1925ead1cd53bf594cf7c8b80dbc27a8b108b45638955250378ae7827",
       "selectable": true
     },
     {
@@ -2549,8 +2549,8 @@
       "path": "geoip/geoip/NF.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/NF.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 938,
-      "sha256": "b7d7e70353dd349e39623375011020f4e4bd3dcde4b1871850a06dce2c463c93",
+      "size": 916,
+      "sha256": "1a341744240f54ae497e414f83ff3f9ddc31f854c4ae6e167ad8a58bbf9f3da7",
       "selectable": true
     },
     {
@@ -2564,8 +2564,8 @@
       "path": "geoip/geoip/NG.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/NG.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 17969,
-      "sha256": "77162b7c20c865dc958fd5c678ebf58e37883b6ef9b94261520c8986ec98e525",
+      "size": 17902,
+      "sha256": "cabe9e7bcdd05a5c1c9b934579feea1eb2ad7eb0626d2db77f4376f258b73fdc",
       "selectable": true
     },
     {
@@ -2579,8 +2579,8 @@
       "path": "geoip/geoip/NI.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/NI.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 3889,
-      "sha256": "669953cc7b90e9e18653d4025ce534b4a12cab0d4b5c85f360d476431c164c3e",
+      "size": 3883,
+      "sha256": "689442ac851d47ffa6b1ae4933b13f364ffa751e848d1bf154097a4268923f5b",
       "selectable": true
     },
     {
@@ -2594,8 +2594,8 @@
       "path": "geoip/geoip/NL.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/NL.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1675356,
-      "sha256": "857dd350ad3338ff2c573facb431d22fb72a279be5247949773c2cf9c71fa229",
+      "size": 1664390,
+      "sha256": "29f4e42278e74a4a4e36b0d38ea8f577828f367100ecf7fe72bd854d033c85c0",
       "selectable": true
     },
     {
@@ -2609,8 +2609,8 @@
       "path": "geoip/geoip/NO.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/NO.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 68126,
-      "sha256": "4050824501f41aeb57601159a6f1e3a098f3c37cdd064067f0cc240f34122954",
+      "size": 68369,
+      "sha256": "80faa70ccad5432048629f06e16a7f64f0a861bb0daa93b75899ad94bd7d71f1",
       "selectable": true
     },
     {
@@ -2624,8 +2624,8 @@
       "path": "geoip/geoip/NP.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/NP.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 9962,
-      "sha256": "4020088d7d9ba787e1fe0da9b5d46c07697a36c683e38977186d8126d4725efb",
+      "size": 9991,
+      "sha256": "538df079eedbcd28debc4f1d5172a875019a72aeb305d5d32045a34f1f108ab6",
       "selectable": true
     },
     {
@@ -2639,8 +2639,8 @@
       "path": "geoip/geoip/NR.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/NR.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1184,
-      "sha256": "df06ff21cc4519e60e4a087bb72c5facde958b1dfd78f51c68e5edd66897e4f7",
+      "size": 1162,
+      "sha256": "c75a84163388308cd4c1e587a0870cc314e27943e25e46c620fcbbf02fc0cdd5",
       "selectable": true
     },
     {
@@ -2654,8 +2654,8 @@
       "path": "geoip/geoip/NU.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/NU.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 768,
-      "sha256": "598005bc2e9728e570159486b248be613ee29fd832f1f1dac0f55bc54d4d35ed",
+      "size": 746,
+      "sha256": "30a3efdbc5b7b5e77adf600b42361a3e501d3299908fdb6994181a839020b6be",
       "selectable": true
     },
     {
@@ -2669,8 +2669,8 @@
       "path": "geoip/geoip/NZ.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/NZ.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 52616,
-      "sha256": "1a09ab0184bb1302653b9dd65bd21dc3b0c0074b8a79e1678ef6136cb5bcf37a",
+      "size": 52758,
+      "sha256": "96b36c65afb5bb417cbcebff21045a98803139c6b7efd3c4a3c265120c8b28d5",
       "selectable": true
     },
     {
@@ -2684,8 +2684,8 @@
       "path": "geoip/geoip/OM.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/OM.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 6777,
-      "sha256": "7fd13b31ca870993cc12e025df3322326bf768c531a7ff9ed9927d245f68dc16",
+      "size": 6784,
+      "sha256": "10ec9797505f1108601de7e3ff54d170c4e76b8762b25d2e6324787ac1bfb809",
       "selectable": true
     },
     {
@@ -2699,8 +2699,8 @@
       "path": "geoip/geoip/PA.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/PA.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 14211,
-      "sha256": "fab9752c52ca0e194fbc9c7eb303f9a0382d19b1d9a9d9bd829702401d05cb61",
+      "size": 13325,
+      "sha256": "020723cbedaf7aa0e01a6e46fc04b3c2e8a82e985e16b83807798658e9530693",
       "selectable": true
     },
     {
@@ -2714,8 +2714,8 @@
       "path": "geoip/geoip/PE.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/PE.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 23951,
-      "sha256": "ad57a27984e0ae6ae01b1e8d0adf400aebfbb8092c312d4819f4b2eb2eddcc02",
+      "size": 24219,
+      "sha256": "04125142e2bc34cd315dd271118b189ef69fce6ddb2e508a95deba96c679835b",
       "selectable": true
     },
     {
@@ -2729,8 +2729,8 @@
       "path": "geoip/geoip/PF.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/PF.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2637,
-      "sha256": "fcd2ea43a428248fbfa436fa542decc20d2c2652d45845fa5186a6d67196961c",
+      "size": 2615,
+      "sha256": "ee30c79f518511f23beb770d85e91fe6980cc0136b6e0db68dc690d323a8639f",
       "selectable": true
     },
     {
@@ -2744,8 +2744,8 @@
       "path": "geoip/geoip/PG.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/PG.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 3916,
-      "sha256": "c9aee9e6a289be16fb9855d4d49b99940241cacca2bcf538d5d4db10c404dcff",
+      "size": 3878,
+      "sha256": "68ac9819f133da54a40ed45a47efb9dd61232d474bd8d4154e0007d7e32e6a54",
       "selectable": true
     },
     {
@@ -2759,8 +2759,8 @@
       "path": "geoip/geoip/PH.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/PH.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 46290,
-      "sha256": "f21735bd7ff055f19a43b6afc224bf0b9047dceb2b70c01a156ec816db10b820",
+      "size": 46061,
+      "sha256": "914705657aa62869921b7371165578f316bb4d9eab31c98fee5b7e068e7cea6f",
       "selectable": true
     },
     {
@@ -2774,8 +2774,8 @@
       "path": "geoip/geoip/PK.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/PK.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 26727,
-      "sha256": "fb78b2ff22c31818b15100e54b19945b292bab73661cb7c96fadaa5eaf1f28a6",
+      "size": 26808,
+      "sha256": "0e3d405050c86904e596663c766f0b376461239f6f91118c40ca5b0e30031793",
       "selectable": true
     },
     {
@@ -2789,8 +2789,8 @@
       "path": "geoip/geoip/PL.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/PL.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 179707,
-      "sha256": "be6f079da6d483014688ea91d9851a035026e6e66816bed7b7384b8f5cbb1018",
+      "size": 181227,
+      "sha256": "105f8e942464927a4272253f09f339e531cfa855656a6b4eb46651bf05c7ef31",
       "selectable": true
     },
     {
@@ -2804,8 +2804,8 @@
       "path": "geoip/geoip/PM.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/PM.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1142,
-      "sha256": "dbcfa3ddafc556f278548fe44ead9b088b3777e6baf482638a29f1343f7c87d4",
+      "size": 1120,
+      "sha256": "4248853971bef4a0df6812b7aa16350e200d877a432d84b18a2c53f65963d7b5",
       "selectable": true
     },
     {
@@ -2819,8 +2819,8 @@
       "path": "geoip/geoip/PN.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/PN.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 242,
-      "sha256": "16a4cdaf3af446e563aa47333fd86fa7852ba3b4aee9c8cfc3660a6c829e53fc",
+      "size": 220,
+      "sha256": "511317224cd1f5d0563a591b20843d856d80d014db974d51ef81d26797490f6e",
       "selectable": true
     },
     {
@@ -2834,8 +2834,8 @@
       "path": "geoip/geoip/PR.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/PR.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 15043,
-      "sha256": "4f12ea97d34c5492f34fd4e651b12423cfd6d4d4a1fc2b8e529a95ea5b8ab9cf",
+      "size": 15273,
+      "sha256": "d960504fe5090cd3e29c81769beba3c8aa76b5cd99bf213b269c4c52544d86b3",
       "selectable": true
     },
     {
@@ -2864,8 +2864,8 @@
       "path": "geoip/geoip/PS.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/PS.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 6146,
-      "sha256": "41aa21979dbf02acd4cb6545eade272b3397b8501008f13e5e51e7e941cc1d30",
+      "size": 6078,
+      "sha256": "c54e87cf6378013a9ea338290acb778261521e80336694bd39d4f92c983bdc13",
       "selectable": true
     },
     {
@@ -2879,8 +2879,8 @@
       "path": "geoip/geoip/PT.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/PT.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 37842,
-      "sha256": "af1710e49ce78e4e55fd6996ff73b9abf7f7022e06227999a7514d6c3cf1715b",
+      "size": 39398,
+      "sha256": "2e9415f8114944ec3830035f95664d41f728dc01825c58a022ce9601c1fa6548",
       "selectable": true
     },
     {
@@ -2894,8 +2894,8 @@
       "path": "geoip/geoip/PW.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/PW.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 919,
-      "sha256": "8d6d6d48bca79692de58b701a1495ca1af9ebf5ebf0ad8b092d411a61a7a2aa1",
+      "size": 897,
+      "sha256": "3026ebd36d77f4570542a8772f141332b1ef7d4d7a0cec97031d4677c9882f33",
       "selectable": true
     },
     {
@@ -2909,8 +2909,8 @@
       "path": "geoip/geoip/PY.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/PY.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 8631,
-      "sha256": "18bc01bb4a779b5b4de4a9c7c792c192d529d7e23d5dbc2a96733df7b59c2e35",
+      "size": 8608,
+      "sha256": "b641e925aa0794d07a33a9e2ac627ab224bd9c1e568bbd39817f83852dd6e102",
       "selectable": true
     },
     {
@@ -2924,8 +2924,8 @@
       "path": "geoip/geoip/QA.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/QA.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 9805,
-      "sha256": "05703f1a32457d5c3d1e75665c7b50eb17f7bfadecf062f3b34ee9b35e98d44b",
+      "size": 10022,
+      "sha256": "62e5ee8b46b5edbcd2b01ac4e6fdacaa5de915ac68de466759e12d60c39b27fe",
       "selectable": true
     },
     {
@@ -2939,8 +2939,8 @@
       "path": "geoip/geoip/RE.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/RE.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 4059,
-      "sha256": "b864e87bfdbb00e05157df1ede60d690500c21750d8b77c25b809e52ffff3606",
+      "size": 3894,
+      "sha256": "02cee0e4a318b39db5588503f31b56c8a02611cf2d465ea8eb3fbc523b8349ad",
       "selectable": true
     },
     {
@@ -2954,8 +2954,8 @@
       "path": "geoip/geoip/RO.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/RO.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 82011,
-      "sha256": "46fcbceb936e21bc403371d0a75f9a5f3144d8231c7de16b67379af30bbefd2d",
+      "size": 82385,
+      "sha256": "667d299420bca26b54fb64c87237cf33b1ea2bdee44e99ace6d00cb7a4189790",
       "selectable": true
     },
     {
@@ -2969,8 +2969,8 @@
       "path": "geoip/geoip/RS.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/RS.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 22200,
-      "sha256": "cde4b873aca24a7445c335f4859f34379a63ecb2534108cc66e3fe6b71e97532",
+      "size": 21586,
+      "sha256": "9da71f33b4c0acbf0eea031c28c5e012ed74f0f86233054f5921c67464ec1387",
       "selectable": true
     },
     {
@@ -2984,8 +2984,8 @@
       "path": "geoip/geoip/RU.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/RU.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 436173,
-      "sha256": "ce78213b7e4fa62e18800988bd1385c15c07ba3f10e0d6506a853c58e88b35a6",
+      "size": 436829,
+      "sha256": "aa03e4bf82c266a1474b48ecf3d209fa90a176b4b3e73ac89dc0124120f77f4a",
       "selectable": true
     },
     {
@@ -2999,8 +2999,8 @@
       "path": "geoip/geoip/RW.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/RW.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2450,
-      "sha256": "dce626a44ff91c0d93c4ab48f071f7c614faf98653d1412a391a7b89307cbcfd",
+      "size": 2428,
+      "sha256": "1caf08b49d157c261c0026debb1c37d4c11edf8cc9be145705c25907bfc89eb5",
       "selectable": true
     },
     {
@@ -3014,8 +3014,8 @@
       "path": "geoip/geoip/SA.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/SA.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 29687,
-      "sha256": "c976a1e265afafaa621e454b506b8a698dcf67d6fc362e773e0aeece365b0965",
+      "size": 29661,
+      "sha256": "b6d46f91cb22850375078d676b7195b485c8f1a4d004c8e0a0758bd4b5bf4631",
       "selectable": true
     },
     {
@@ -3029,8 +3029,8 @@
       "path": "geoip/geoip/SB.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/SB.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1172,
-      "sha256": "da70919216402e8baaa33d88da2a0512ed3223163f106ac4a2e067ac0ad295c0",
+      "size": 1165,
+      "sha256": "1e197c320550a7f997991aad870a5f766ec9713811fb4a77f53dee51f141f656",
       "selectable": true
     },
     {
@@ -3044,8 +3044,8 @@
       "path": "geoip/geoip/SC.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/SC.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 81553,
-      "sha256": "dbee2e5c0c123a6122ba5feed6a5150df809288152fb6506ac78a9520e1717ac",
+      "size": 80904,
+      "sha256": "8792b53757131009a2a9738c221bb273d7215b0fe9e3e24243a5c51d8b9f8e46",
       "selectable": true
     },
     {
@@ -3059,8 +3059,8 @@
       "path": "geoip/geoip/SD.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/SD.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2148,
-      "sha256": "c53592cf97e6fe92e3f49a2701f8083dc39b4a30068b0afb25f518244dcc20ca",
+      "size": 2126,
+      "sha256": "719c8f47f34e93de8f32eeea680bcc88c6e67219803518818457f2eac2e4f0a0",
       "selectable": true
     },
     {
@@ -3074,8 +3074,8 @@
       "path": "geoip/geoip/SE.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/SE.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 233431,
-      "sha256": "5d71ad7826aa349cb8796ba756516b41fe4906740b9ba3c89f74bd06637550f2",
+      "size": 233597,
+      "sha256": "0bff56fa45b32ea2ae145b909b8e2ce37c388f0eb5edf8d3b1789f8ef563a1c6",
       "selectable": true
     },
     {
@@ -3089,8 +3089,8 @@
       "path": "geoip/geoip/SG.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/SG.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 214910,
-      "sha256": "ae4ab35770e68bcdac62e01d5f440b273843b55f3ee1cd0d66fc2b222c6cd6d6",
+      "size": 218421,
+      "sha256": "795d424d61358ef1ca42ae7ae773eaa8ecf8337651823364691398cfb480c547",
       "selectable": true
     },
     {
@@ -3104,8 +3104,8 @@
       "path": "geoip/geoip/SH.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/SH.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 190,
-      "sha256": "8854a11ecfba634de0d7880550f212052b516f4d74dd46cb0b2573c814ab2b0b",
+      "size": 168,
+      "sha256": "477be97e8eb4dfb7048ddb42f2b228f8a57a4a19d0b6626d5ead9c6d6c0c7bed",
       "selectable": true
     },
     {
@@ -3119,8 +3119,8 @@
       "path": "geoip/geoip/SI.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/SI.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 21347,
-      "sha256": "c27b12b6e66ad99355ec2ff4e85c37b3f2954845a2fc3db9a59637d646bcabc7",
+      "size": 21509,
+      "sha256": "6d9495afd4be24b2cbe0eb640a7389828a29f789375885178c31a07c84514da9",
       "selectable": true
     },
     {
@@ -3134,8 +3134,8 @@
       "path": "geoip/geoip/SJ.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/SJ.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 381,
-      "sha256": "7b2802f8bb7676fed4f41238c28f2815095ac0a81da1f77e0e39111542f7648c",
+      "size": 359,
+      "sha256": "a17e9857ce8466ef9dbee6b380f5491d17f5138f3de35e75548dfb0579d19017",
       "selectable": true
     },
     {
@@ -3149,8 +3149,8 @@
       "path": "geoip/geoip/SK.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/SK.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 25362,
-      "sha256": "ea46a265b4387c0aee73ca9137e4f04adf42d0888bbf7ca85fcd317ece2851b2",
+      "size": 25406,
+      "sha256": "332171dc7e59d9fecebd2020db2a54aa9680eff80f9226114a02275157516518",
       "selectable": true
     },
     {
@@ -3164,8 +3164,8 @@
       "path": "geoip/geoip/SL.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/SL.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2047,
-      "sha256": "8bd7a315387908a8756c23936aad023170efffb27e48fcc8f36b3e112a38074f",
+      "size": 2025,
+      "sha256": "ceb7f1519bcace828e81aa5066ff2885f188e0d4569b69f59dd0e3df76b10f7a",
       "selectable": true
     },
     {
@@ -3179,8 +3179,8 @@
       "path": "geoip/geoip/SM.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/SM.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1889,
-      "sha256": "1be97d9cc62ce1d37f808c5d41b9c465a0b001b32baafff0535d454623f3d9a8",
+      "size": 1867,
+      "sha256": "7e86b5052e1308c96746149bec1decf91e2eafadd126ced46b102db406e08902",
       "selectable": true
     },
     {
@@ -3194,8 +3194,8 @@
       "path": "geoip/geoip/SN.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/SN.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2668,
-      "sha256": "e32f300f013e9850a9f66576163a893d1782ddbb09527fb7f2efd554f7892020",
+      "size": 2646,
+      "sha256": "b55aadfba4df26a233d77aa66c0531469d3b0655344c5fa53203da12c614c315",
       "selectable": true
     },
     {
@@ -3209,8 +3209,8 @@
       "path": "geoip/geoip/SO.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/SO.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2619,
-      "sha256": "e94a948fcb99b75186959e45e2be0161f21367ac616c10cd8d3d9338da244b32",
+      "size": 2616,
+      "sha256": "bad38b44326e75aefd4660dd4271f86763da79fea22df01838ceff65d9d938c5",
       "selectable": true
     },
     {
@@ -3224,8 +3224,8 @@
       "path": "geoip/geoip/SR.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/SR.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1427,
-      "sha256": "ae5a7ba02f9c2687d968a0abe50682eff4ab94554b937cd7128eb772955e3b8d",
+      "size": 1405,
+      "sha256": "a02f757b1fd55b132351f3c05e6c0ae989c71ab734544244607a6b9e07f71ec7",
       "selectable": true
     },
     {
@@ -3239,8 +3239,8 @@
       "path": "geoip/geoip/SS.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/SS.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2203,
-      "sha256": "1e2dbc63aef09cb58412f94d123f6905397d67583faf82d7aa6fd1dd663c878c",
+      "size": 2200,
+      "sha256": "a7c9a3742b91f6be972268b7ab2e0896f318c7140da45db3b4d5fb0711179868",
       "selectable": true
     },
     {
@@ -3254,8 +3254,8 @@
       "path": "geoip/geoip/ST.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/ST.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1090,
-      "sha256": "a344e5287c2abdf82f3ad7b820f05a457906b09178e0d19f3eb05edc82b77c75",
+      "size": 1068,
+      "sha256": "61de61f4426bd7cbe3b8907aa726b75919b9209417725cb54aaccc9f14dc7569",
       "selectable": true
     },
     {
@@ -3269,8 +3269,8 @@
       "path": "geoip/geoip/SV.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/SV.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 5803,
-      "sha256": "355bcef439d7839268df00f42504cabdd4c85d2cf7756dcd582a94365a779744",
+      "size": 5690,
+      "sha256": "f4350ab26fdc90243937b88dc99b9d9591bb4c52063dc0b188503ef9aacabb57",
       "selectable": true
     },
     {
@@ -3284,8 +3284,8 @@
       "path": "geoip/geoip/SX.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/SX.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 948,
-      "sha256": "d899fc75b90cddf75c29ea9606c5a7f820cb827ce1381961bd1eff6b5ecaf51d",
+      "size": 926,
+      "sha256": "c23e9c1aeae7f6ba074057d2db995bb73ecb51e1d7538dba6a5082f522bab0f5",
       "selectable": true
     },
     {
@@ -3299,8 +3299,8 @@
       "path": "geoip/geoip/SY.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/SY.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 5269,
-      "sha256": "48262c4d971fd3804ca3adcc5854f2c7718e904a2fc328a121a6a9adbd0fb07a",
+      "size": 4949,
+      "sha256": "a9c9e72c791e7b3b77d6b1292aa4b9697f44f736cfcd42910e385033ddafdc3f",
       "selectable": true
     },
     {
@@ -3314,8 +3314,8 @@
       "path": "geoip/geoip/SZ.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/SZ.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1709,
-      "sha256": "feeab7ae86db98ea018dee50531a4512f93c28d66e81d38f38783c4a1dd5fe13",
+      "size": 1687,
+      "sha256": "f8a8e756cb995bf723979cfed413dde81f66c2d979a5cc756afd871f3ea317e4",
       "selectable": true
     },
     {
@@ -3329,8 +3329,8 @@
       "path": "geoip/geoip/TC.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/TC.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1445,
-      "sha256": "2a2a2510d652253907828ed4550c940717471afe1cf6b76c48040895ed780587",
+      "size": 1399,
+      "sha256": "4ce8be6ea891f413f91ea7f29588bbb24408619a682949452348e362c2d376a7",
       "selectable": true
     },
     {
@@ -3344,8 +3344,8 @@
       "path": "geoip/geoip/TD.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/TD.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1875,
-      "sha256": "3031df2efa5a2c0068d1838880bd132540f3042308ea37e644e4cc93d9d980d2",
+      "size": 1853,
+      "sha256": "8627f5ad3f37384c1e51d86a18a877bb92fe8d512058df3970fd6aabc8858781",
       "selectable": true
     },
     {
@@ -3374,8 +3374,8 @@
       "path": "geoip/geoip/TF.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/TF.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 41,
-      "sha256": "ce670ed16919215f48b2c3c99cf909c581f0396460ff680a8b2e7db20703e568",
+      "size": 19,
+      "sha256": "3daf0c82132465ae21170284e579a9070fdd5ff45cbc7a5a4a95662367e5f628",
       "selectable": true
     },
     {
@@ -3389,8 +3389,8 @@
       "path": "geoip/geoip/TG.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/TG.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1523,
-      "sha256": "5a2230c13afe44a364100e5b354be3a07e3a7674a62b1dab8064586c27301dc2",
+      "size": 1501,
+      "sha256": "9012ce2c6fee91e06cd167ee3b0aa8eca4854a74bf7597d32ed19c207953b3cf",
       "selectable": true
     },
     {
@@ -3404,8 +3404,8 @@
       "path": "geoip/geoip/TH.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/TH.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 42346,
-      "sha256": "3f1cb4fe09f7decd8fc8547a6c43ea42ea9a96d924bb1434d85b1422867c894c",
+      "size": 41750,
+      "sha256": "7d17bd41af19bd767277f5a5e63fb3b59fb9a03d803d54f3ac4ff5eeaa121570",
       "selectable": true
     },
     {
@@ -3419,8 +3419,8 @@
       "path": "geoip/geoip/TJ.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/TJ.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 3455,
-      "sha256": "40b886ef0b6416dc21d8c492ed972ce1a9ab58b09d3a5fdba9fd7020159d3778",
+      "size": 3433,
+      "sha256": "57e8247f7f0416138ddbd2ad0a95752e06eb58839b485df2fde10ab5869a9b38",
       "selectable": true
     },
     {
@@ -3434,8 +3434,8 @@
       "path": "geoip/geoip/TK.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/TK.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1106,
-      "sha256": "fd8c57d256b11218640bab3460cc332d425f69a8b46a28a2c41c07ab2e993e61",
+      "size": 1133,
+      "sha256": "d0eff3ff4de1ea08165b66fa86171b23c752daf46f3ef0f5c8b6863627a888f0",
       "selectable": true
     },
     {
@@ -3449,8 +3449,8 @@
       "path": "geoip/geoip/TL.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/TL.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 2011,
-      "sha256": "7db3736b1e0cbb890a68409ddd7732418275ba844b311fa8742afc05c341f171",
+      "size": 1990,
+      "sha256": "17de49dcf0416e49e79403ec25b16eae65a6e749fcd92218a36fe34c2c4e2f94",
       "selectable": true
     },
     {
@@ -3464,8 +3464,8 @@
       "path": "geoip/geoip/TM.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/TM.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1814,
-      "sha256": "0b41b0afc759a9c61e05520560b2fef8bf64cede4800bb39f27aaf9664c54586",
+      "size": 1792,
+      "sha256": "af2ec590a19a742d41af2524d968ba78dfe0b380457ff9f27cf46081e9fba81e",
       "selectable": true
     },
     {
@@ -3479,8 +3479,8 @@
       "path": "geoip/geoip/TN.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/TN.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 3659,
-      "sha256": "cb39c9ec3744c591b6eb02edf8a8dfce6eb3fb9530e953034caf8fb165b8e680",
+      "size": 3789,
+      "sha256": "4a0053c1c1589f0b4a06e047f4d8dd23e48b6ad9bd67c8176839536b05b9bb5e",
       "selectable": true
     },
     {
@@ -3494,8 +3494,8 @@
       "path": "geoip/geoip/TO.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/TO.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1191,
-      "sha256": "c7f5480e12a5cf82b3bc412bc66ce4b53ae0085190a4b5de5d4bf7f2ebb38cc1",
+      "size": 1169,
+      "sha256": "ee524eed22d2605ba4dcc4b01cc296465d7a8abdeec10aef6f38824a7b4d7702",
       "selectable": true
     },
     {
@@ -3509,8 +3509,8 @@
       "path": "geoip/geoip/TOR.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/TOR.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 13821,
-      "sha256": "fd90bbbc385a2a3f11da1a41a9c848648abefce0ae0b2794d4b49c562eb4299d",
+      "size": 11086,
+      "sha256": "9449c56e01416733b370becdc7de0a535fc7a9b9e6018b24ddc859837df4fe9d",
       "selectable": true
     },
     {
@@ -3524,8 +3524,8 @@
       "path": "geoip/geoip/TR.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/TR.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 84453,
-      "sha256": "b6a15edab3c6832b6fb8c8c7e418915cf1cc324cba4d739b60ee65f6ae2c9615",
+      "size": 83864,
+      "sha256": "daf6724c7e16a3a28410efac1bcd36d8d6d4fc9dabc45d0731a96fdf9b326f15",
       "selectable": true
     },
     {
@@ -3539,8 +3539,8 @@
       "path": "geoip/geoip/TT.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/TT.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 3511,
-      "sha256": "d95e7df51fa73b9395ced4e96ad3c381d75cde63f22f81dfb2bba73b8a2b5f54",
+      "size": 3456,
+      "sha256": "91732ebc7a79d727a0eb6ac2aab6fab778c42020c9635d9530ee116bf3ffeb6f",
       "selectable": true
     },
     {
@@ -3554,8 +3554,8 @@
       "path": "geoip/geoip/TV.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/TV.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 903,
-      "sha256": "fbcfcea2ae0b20c3f528285ba137e1b3167bb8fc6cca82e1ca7882143175c444",
+      "size": 881,
+      "sha256": "ea1219aebb6d94e6db10eb54ccdb6cee687465f21c99918c4f3cbcd585689823",
       "selectable": true
     },
     {
@@ -3569,8 +3569,8 @@
       "path": "geoip/geoip/TW.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/TW.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 70329,
-      "sha256": "1ccc75511d7518e8b79d743791b30b3335c0cba7b119251350b9c2ceb682bd6b",
+      "size": 70124,
+      "sha256": "2d3736f7fc61f1156472209e47ed5f28441919bb1091cf854e427f85e48ebad0",
       "selectable": true
     },
     {
@@ -3599,8 +3599,8 @@
       "path": "geoip/geoip/TZ.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/TZ.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 7411,
-      "sha256": "22550a375b0f8a5b368ea8893f5edf2887b85adb3818f14394189a9315d48144",
+      "size": 7404,
+      "sha256": "363686692bb5cf95ca163c011eb5cdeda5666cd12d61be96c4f2c76c659525cf",
       "selectable": true
     },
     {
@@ -3614,8 +3614,8 @@
       "path": "geoip/geoip/UA.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/UA.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 125760,
-      "sha256": "e43b4710a2829928a3536cb384b85143189ae9f48b1e5de4c16faa4cd347cab8",
+      "size": 124196,
+      "sha256": "76d9ab156002029672900f8ab238c416c902c0a573851d6d006d5fea46b858c5",
       "selectable": true
     },
     {
@@ -3629,8 +3629,8 @@
       "path": "geoip/geoip/UG.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/UG.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 5190,
-      "sha256": "3d39081b641e637a5546689420d1f7c814fd8212042769b70bc48f296c949d10",
+      "size": 5151,
+      "sha256": "e3922e22a1eaef171c90383a49d325085f712b34f2bfe6d9f0de7269b23bf5e9",
       "selectable": true
     },
     {
@@ -3644,8 +3644,8 @@
       "path": "geoip/geoip/UM.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/UM.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1271,
-      "sha256": "a0858a4ac9cb43c270b4fddeb9f3fe65f275362778cff3c85e9c5a56c0e3ae32",
+      "size": 1249,
+      "sha256": "88cb7688d42325aa196bfaa6692e33adfd97c2669b7ad8dcd06b3412b0471d00",
       "selectable": true
     },
     {
@@ -3659,8 +3659,8 @@
       "path": "geoip/geoip/US.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/US.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 4235418,
-      "sha256": "4bf6e31ed987c7e7acf97978bbcc033db2cfabdeab28078f193e5607923c55fe",
+      "size": 4166131,
+      "sha256": "0e78688ecb341ff026a5ec5de3bf00aef8e13114769ad6736c9d6c232b7518b2",
       "selectable": true
     },
     {
@@ -3674,8 +3674,8 @@
       "path": "geoip/geoip/UY.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/UY.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 5545,
-      "sha256": "d8697f2cba5abfad8c75a2af56dbd48f3a3ea7716506e5acd51f8c2f8856ac81",
+      "size": 5505,
+      "sha256": "b180caf4c705870ef085df4f94fb1064ef46db099865e02ec478c271098bfee5",
       "selectable": true
     },
     {
@@ -3689,8 +3689,8 @@
       "path": "geoip/geoip/UZ.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/UZ.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 8957,
-      "sha256": "040541e9d5fa7cfd8ab776d428f769fee2943d9de8c9ce1edbaea22c1ed6a08b",
+      "size": 8989,
+      "sha256": "066c5b8f9bf1d0cc72d6117a20a6c6e54a95390706f1262cc70d5591da016505",
       "selectable": true
     },
     {
@@ -3704,8 +3704,8 @@
       "path": "geoip/geoip/VA.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/VA.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1170,
-      "sha256": "a3ef0ba22cf3b49dfd449f2a34b12f64eef285e339e47b4521fd0bad797a9d48",
+      "size": 1129,
+      "sha256": "ee33702083f2629a8793ae7cdb1497da9d1b1afaef1a08395dd0bf1bd0ffed0d",
       "selectable": true
     },
     {
@@ -3719,8 +3719,8 @@
       "path": "geoip/geoip/VC.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/VC.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1435,
-      "sha256": "129ab7e9f9d1edb48382d1371cc3c2702aaef74214b7429019991d06aaf8fb6f",
+      "size": 1413,
+      "sha256": "cabcba2ebe2312cdf6c3573ce61412b630fa4ada40954ef95fa6dd770d300312",
       "selectable": true
     },
     {
@@ -3734,8 +3734,8 @@
       "path": "geoip/geoip/VE.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/VE.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 19519,
-      "sha256": "94377325bad5627b903f668afc8ff3bf5b21a1969fe9a0bfbe690046eae23315",
+      "size": 19660,
+      "sha256": "96dbe84743fcb69123200962fd794c39e68f04ad04bc569d0bb5056a7dc82e3a",
       "selectable": true
     },
     {
@@ -3749,8 +3749,8 @@
       "path": "geoip/geoip/VG.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/VG.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 8930,
-      "sha256": "e66c15174929f5fce114621260751c71b71756e9182416b1ae5254a2c614d288",
+      "size": 8663,
+      "sha256": "0deb162ac1336d14be5e98ec715ce18196ef59961271181ada31f86759a498d2",
       "selectable": true
     },
     {
@@ -3764,8 +3764,8 @@
       "path": "geoip/geoip/VI.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/VI.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 3812,
-      "sha256": "d1613d3c6d475129145d2c80cd414f607a2a32111cd3f5149513fa45f6d08fe2",
+      "size": 3692,
+      "sha256": "bb0045b75bb1874b8cece8c0bf13db37b6149ecd50f87a4c5177b0facb35d35e",
       "selectable": true
     },
     {
@@ -3779,8 +3779,8 @@
       "path": "geoip/geoip/VN.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/VN.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 58393,
-      "sha256": "dc3e6bb23f11836d2563ca0f151c78389abbbca440bc0950a0481fa0757afbaf",
+      "size": 58119,
+      "sha256": "e46c63a7d2654434d6a12b03e9b705328ccd7592d84221d30331dbe384459569",
       "selectable": true
     },
     {
@@ -3794,8 +3794,8 @@
       "path": "geoip/geoip/VU.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/VU.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 4393,
-      "sha256": "a7ede2605d9dd38a220c7f74571ec939349b7df3bdf3847cfa217e1d5a3b85b0",
+      "size": 4371,
+      "sha256": "097e514f464580af17e7e2494d5591f75a78293495b2142641aff2ca17e3de11",
       "selectable": true
     },
     {
@@ -3809,8 +3809,8 @@
       "path": "geoip/geoip/WF.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/WF.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 888,
-      "sha256": "9af93839689bcba6349f0c03d3835875d78ff41a28acad6e28b787438e56e770",
+      "size": 866,
+      "sha256": "fa9c4daf0f45255a4617d695bdeccfb9b859dbc7ab8d0612ab8ffc4063f9d71a",
       "selectable": true
     },
     {
@@ -3824,8 +3824,8 @@
       "path": "geoip/geoip/WS.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/WS.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1551,
-      "sha256": "5ee83e2e44717e96316982bcde1ba7669f653075d5629f9f6392693d93d335c6",
+      "size": 1529,
+      "sha256": "38372ceb73488381c25688fa2af66421255b6d14500530a47efff05e0c285a70",
       "selectable": true
     },
     {
@@ -3854,8 +3854,8 @@
       "path": "geoip/geoip/YE.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/YE.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1853,
-      "sha256": "610242fb1195a58512e1f242e8c21c2d6e1c7021cb649c1571c7515759bb4821",
+      "size": 1831,
+      "sha256": "55c97d9e3acf50e7e3af422159486cebbc3bcf50777e17d82f7f2b55a932ecc5",
       "selectable": true
     },
     {
@@ -3869,8 +3869,8 @@
       "path": "geoip/geoip/YT.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/YT.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 1158,
-      "sha256": "51d577fd38f085bee1c81d43e2d8065459a774013b6e8baa02af0ac09f355de8",
+      "size": 1276,
+      "sha256": "88b4ace7d00e2659c3e2f6b39937fda0d412ae7eddf869e8cde0b4217c84afe9",
       "selectable": true
     },
     {
@@ -3884,8 +3884,8 @@
       "path": "geoip/geoip/ZA.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/ZA.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 84502,
-      "sha256": "c664492b6afc9190905dbec63f6e73c9e652867db065ec909f8772d08526a187",
+      "size": 84253,
+      "sha256": "eec0159cee1a8f97cdbd9a2440fcc37f5e31e3cf3062fca6e211bc6a92041b96",
       "selectable": true
     },
     {
@@ -3899,8 +3899,8 @@
       "path": "geoip/geoip/ZM.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/ZM.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 3618,
-      "sha256": "f2ec780cc09492681c40a11b4c51f2b00263c673a96ca49e0200e1090140e7a4",
+      "size": 3581,
+      "sha256": "aae3fe21a58210c613c658ad9495570d262fa3cf3edebff5db03e8d6d9c680b6",
       "selectable": true
     },
     {
@@ -3914,8 +3914,8 @@
       "path": "geoip/geoip/ZW.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geoip/geoip/ZW.conf",
       "sourceUrl": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-      "size": 4562,
-      "sha256": "ec6a558cbf1ce5a83ecb38b9a1d43e3067bfc943f848c247cb56fae90f614e64",
+      "size": 4555,
+      "sha256": "33958b868ddeaa1cf92234053eff546301e4d116c13b39ba5daa30efd013536a",
       "selectable": true
     },
     {
@@ -3928,8 +3928,8 @@
       "path": "geosite/geosite.dat",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite.dat",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 11007091,
-      "sha256": "59b6ed33176b6f03debcfa3105d42de268475ffa8a1e010f481985256e375262",
+      "size": 11205406,
+      "sha256": "8474140bc89940897ee2b629be8fc92f34a496bd32e45829605d17715f4340d6",
       "selectable": false
     },
     {
@@ -4424,7 +4424,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/activision-blizzard.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 1091,
-      "sha256": "f432a0f0dbe1d4f86f033655638f2de8255f45d01533f56cb9d36834ab530f01",
+      "sha256": "b2643b0779e314fb326d411c26672177d499fc2e95c7be2cae5f72d07c11cdec",
       "selectable": true
     },
     {
@@ -4769,7 +4769,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/alibaba.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 7963,
-      "sha256": "a5a3fe997eee5870b12de924116e853c81a9f4273c351c5fb3a9ae47fe89b938",
+      "sha256": "1d2a8aafa4e663f7a3bae617570d37156d46371e141eba989854feb25a96f3d4",
       "selectable": true
     },
     {
@@ -4859,7 +4859,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/alphabet.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 18500,
-      "sha256": "d1d66bf646f34abfe10badec32347404ae877e195a9520ea5581d3ecee89db1a",
+      "sha256": "86915670227737652a1081834abfe76089320d18748f41dfe1b319580d61bb92",
       "selectable": true
     },
     {
@@ -5234,7 +5234,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/apple.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 36809,
-      "sha256": "c12561887aad349fee5e8379aca26557df453b811c2821cbdd4c0a44ff697f39",
+      "sha256": "e18f1384b9611e93f64eaab4a38214cac3e3f6b0d9d1443a48d4737b7c27e191",
       "selectable": true
     },
     {
@@ -5414,7 +5414,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/archive.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 265,
-      "sha256": "ec82aefc6b7c177715ee78379b89778a217fdfa3e83600785147a5b9f99ed12a",
+      "sha256": "2a95332ac69677c23a71bbd1a25cdac14b1c337684895856c30659ed98daa07c",
       "selectable": true
     },
     {
@@ -6824,7 +6824,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/bytedance.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 16307,
-      "sha256": "91692e80fefac5942280c4b81073bdaa49c504507a68a522f301344998cb0eda",
+      "sha256": "f02de75d07cc57226aca037e4ebca2fe8eb47896fcbe0d8f350f24864e244c5f",
       "selectable": true
     },
     {
@@ -6959,7 +6959,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/canonical.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 223,
-      "sha256": "abd0ce03d25ca27714d5cce17c66556decdf7883519c9c0b4284c6375e89a4b2",
+      "sha256": "f2ca76d3748c6622b8673efa59344d55c136d1d69d20a95aa67f097ce1411379",
       "selectable": true
     },
     {
@@ -7078,8 +7078,8 @@
       "path": "geosite/geosite/category-ads.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-ads.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 16694,
-      "sha256": "aefd484b0c819a99e08d681c27aca2726a14bb9758de80f29d7872f690c06146",
+      "size": 16458,
+      "sha256": "951c9c789657294ad112889d1234e6e189a4dc51a7b8261369845ddfecbdcb23",
       "selectable": true
     },
     {
@@ -7093,8 +7093,23 @@
       "path": "geosite/geosite/category-ads-all.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-ads-all.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 4264513,
-      "sha256": "1383110ab5d33c9675f4d6e4e07df24d0b634ab1ac7d9d8f6597ef14ba57544b",
+      "size": 4439178,
+      "sha256": "076871b12c7073288822ba4c00648aa68954a012d50215df037d4071ce72c627",
+      "selectable": true
+    },
+    {
+      "id": "geosite/geosite/category-ads-and-telemetry",
+      "name": "category-ads-and-telemetry",
+      "category": "geosite",
+      "kind": "domain",
+      "usage": "route-list",
+      "listType": "host",
+      "format": "text",
+      "path": "geosite/geosite/category-ads-and-telemetry.conf",
+      "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-ads-and-telemetry.conf",
+      "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
+      "size": 16653,
+      "sha256": "d687fa0baefed113e508eadc205c09b163590d3cbdc6e35691e0020c88fc3352",
       "selectable": true
     },
     {
@@ -7123,8 +7138,8 @@
       "path": "geosite/geosite/category-ai-!cn.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-ai-!cn.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 3618,
-      "sha256": "f75f1955658aa4bb399c4a593737c1f229cc97111efb5fbf8e6b19c7f1d552bc",
+      "size": 3629,
+      "sha256": "3595451fc77dd031927aed1ce4e4e0a7fd806a20cb02ef34386de88c2637254d",
       "selectable": true
     },
     {
@@ -7138,8 +7153,8 @@
       "path": "geosite/geosite/category-ai-chat-!cn.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-ai-chat-!cn.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 3618,
-      "sha256": "f75f1955658aa4bb399c4a593737c1f229cc97111efb5fbf8e6b19c7f1d552bc",
+      "size": 3629,
+      "sha256": "3595451fc77dd031927aed1ce4e4e0a7fd806a20cb02ef34386de88c2637254d",
       "selectable": true
     },
     {
@@ -7154,7 +7169,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-ai-cn.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 1716,
-      "sha256": "b85404a3a506ef732e4f7f243bb85c3591da4ca41ea1713c4e2264fd87f0b841",
+      "sha256": "63b6d616feb5125b3bc60651c3609e7a6a34f8a3376520f97288e67889c82c1a",
       "selectable": true
     },
     {
@@ -7198,8 +7213,8 @@
       "path": "geosite/geosite/category-anticensorship.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-anticensorship.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 1963,
-      "sha256": "4f681937d50dc74a500e8ac6d888cd710abe8ef7e511c2dc62636085bad6dd50",
+      "size": 1990,
+      "sha256": "d70506c9d9f67100760b70ea40d42723c3fb4831b5481d2ae587769127667451",
       "selectable": true
     },
     {
@@ -7214,7 +7229,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-antivirus.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 3692,
-      "sha256": "220a532c43b83fd34c480bc79bad27f92e3e1f71b4889006132959c07bb07a4f",
+      "sha256": "bfd29e17fa3c6ae7dab3eb68796ab39f4fb415cab816395f1bf3ed3a747e7750",
       "selectable": true
     },
     {
@@ -7303,8 +7318,8 @@
       "path": "geosite/geosite/category-bank-ru.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-bank-ru.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 4788,
-      "sha256": "cf4c6926365bf740c4ae7b813ba7bde86117df2318735d924d18835a9f173a17",
+      "size": 5297,
+      "sha256": "db6ea79aa5fd4767a9dff8145272b5da901eaa5494a62eab2204a586ef3c0aa7",
       "selectable": true
     },
     {
@@ -7364,7 +7379,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-browser-!cn.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 627,
-      "sha256": "6a81dc4019e80a9384ae2ef86ce77e8673e9ebe8970e84b0e0eb675d9c68e57c",
+      "sha256": "70d1ea89098cb59ad74db4dbea29608686427807f5fd7ea4d5b193c4f0d6df39",
       "selectable": true
     },
     {
@@ -7379,7 +7394,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-cas.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 4888,
-      "sha256": "24b943cd8f3b3a6379e751f82fb358eff5e0728e2391995dc9bf93a99483202d",
+      "sha256": "5b736dac9c51ab56ee300f4840ba782e27a11e851ece9483f0ebb482f3cfd18c",
       "selectable": true
     },
     {
@@ -7394,7 +7409,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-cdn-!cn.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 3440,
-      "sha256": "47044bc8941867f2adea2bbc3dccc9c7d16bebbdbf4c4302002845fd80f11615",
+      "sha256": "5b4af51de7b691e0c5896bc5f81b3ab0e4011e134447166b70c8cc81fb734a02",
       "selectable": true
     },
     {
@@ -7438,8 +7453,8 @@
       "path": "geosite/geosite/category-communication.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-communication.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 2414,
-      "sha256": "502b5177318024ed813abc2d6e242e86a484362e642474968874392ccea33a80",
+      "size": 2372,
+      "sha256": "4bc1967e6d21f40aa1122e4e4898ad7b2342e9f6949d38eb31dca5328bcf7d09",
       "selectable": true
     },
     {
@@ -7453,8 +7468,8 @@
       "path": "geosite/geosite/category-companies.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-companies.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 155413,
-      "sha256": "e3d652030c26ddab9b53b91de2cbc33b2782803ffc8f75cb119102bbc498f39c",
+      "size": 155789,
+      "sha256": "c02092aabc6e6cb96a80980381bbf7e554af483068a2dd624d2e112d38d01b04",
       "selectable": true
     },
     {
@@ -7499,7 +7514,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-cryptocurrency.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 3639,
-      "sha256": "ffec8c9297a8ddbfbf915dd339e5348363f081f65034431a2fe92b97f1abf11a",
+      "sha256": "2d26ec2c2decbe0e780692cfd48c5bdd1c891693e5c0ddf1a3f2de1a907faa95",
       "selectable": true
     },
     {
@@ -7514,7 +7529,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-ddns.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 1769,
-      "sha256": "e85fd0ad5e2af050a043262364f4de5f27c015c79ae8c91e6a53cfddc8126483",
+      "sha256": "6fa12542de6c77ae7554a4a7c8f882e1efec34e7458dc8f97d4c74b73ee0afbd",
       "selectable": true
     },
     {
@@ -7528,8 +7543,8 @@
       "path": "geosite/geosite/category-dev.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-dev.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 12473,
-      "sha256": "f59332642383f252436940e0aba904fbba32c9a8c44985724c17a21c0d87cb3e",
+      "size": 12491,
+      "sha256": "174f603d6948ac36b7446ab62e46b1424c6874cd8ad158f48af8889f2a89bd1f",
       "selectable": true
     },
     {
@@ -7544,7 +7559,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-dev-cn.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 2057,
-      "sha256": "6b3e4ecd7af2c026f8ecf0aba20e7e5d970c354d671e50feeeb2b93c944621a2",
+      "sha256": "72e533c0f9e5c38fa0524e2539fa3676ea28626b4c8a0b8ad968cadb0e100445",
       "selectable": true
     },
     {
@@ -7589,7 +7604,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-ecommerce.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 21214,
-      "sha256": "c0d073dbab268ed9fd0d5c84c1c08b5ad970d0df3f3d4ce73848dffe79e15679",
+      "sha256": "f200cc934ce5fe809c9faf211a38c38d5cd7969c46e37dc62000888273f4edba",
       "selectable": true
     },
     {
@@ -7604,7 +7619,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-ecommerce-ru.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 3199,
-      "sha256": "1ae58a93df324e5c967f7d00502f75e2568f0a35128622b3ba7137d5e03ca1f5",
+      "sha256": "053d6861401e5420937c555f00153728e7c2dc933fb39df4de11d18bc2c3a5ff",
       "selectable": true
     },
     {
@@ -7619,7 +7634,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-education-cn.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 2817,
-      "sha256": "e2621baf09e8d6c28ae97bcda90a23016f944ad7c8b2b6d94fd64979a22415d5",
+      "sha256": "f99638c184951f0d0e6002d04ddf44966f5a4142560e9067f2717c106cbaa111",
       "selectable": true
     },
     {
@@ -7694,7 +7709,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-enhance-gaming.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 271,
-      "sha256": "b1fa1edd655b1cfc744d6e4c4e45822d23841c8d7112fee653af39deae42a59d",
+      "sha256": "2b46f7e5d477a25c42e6cc137c31ec3a8651996f40235e8284dd0b3b5aae5c14",
       "selectable": true
     },
     {
@@ -7709,7 +7724,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-enterprise-query-platform-cn.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 179,
-      "sha256": "9b4f0607d5b21fee87eb886fff900e73e7d76c83cd9dcbaeeae078b59f571750",
+      "sha256": "e51d4e4baf2fb06da1c7943b129642d991059fbebe56575eddd6c623f009b86d",
       "selectable": true
     },
     {
@@ -7723,8 +7738,8 @@
       "path": "geosite/geosite/category-entertainment.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-entertainment.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 39101,
-      "sha256": "05ffcf658f5552fb6e0b36bf415806f70d8c9716d05ecc7e875c018ff26a9042",
+      "size": 39126,
+      "sha256": "4c20f0f3ba7afded6d609713ceaaaebd5d277c43efa00adf7986faa6e44e6cf3",
       "selectable": true
     },
     {
@@ -7739,7 +7754,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-entertainment-cn.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 11977,
-      "sha256": "a0b21f93221db9d4bb657daa3c363db3393ca08bf6a125f4955473310d298e3a",
+      "sha256": "a14e0b9b91e73b9c4c5a548e6f7ce1d33703030387347dd12249f54e19f20b50",
       "selectable": true
     },
     {
@@ -7768,8 +7783,8 @@
       "path": "geosite/geosite/category-finance.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-finance.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 9737,
-      "sha256": "1f757be777beed55c9726a452ec46aabf6c49a571fece52ef19aeeb9540e825a",
+      "size": 10246,
+      "sha256": "5080ab1351e92ea95e92df2ee8ec2b48bea3edb6ebd25c3f5b6784ec197b4c69",
       "selectable": true
     },
     {
@@ -7799,7 +7814,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-forums.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 1542,
-      "sha256": "1079e4ae66e28f853fcc672421da176fdf25d33961c1262c08affecb69599935",
+      "sha256": "462b6e1f305b2a824d3bf9dcc829efb8d60294e68ce417806867f317497da6e4",
       "selectable": true
     },
     {
@@ -7873,8 +7888,8 @@
       "path": "geosite/geosite/category-games.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-games.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 20138,
-      "sha256": "7155b7d356bfb414bb516d92ee9641f464273e7ca79c7fe24e40218ac915bd7c",
+      "size": 20163,
+      "sha256": "70813f6218963d3910aeafa9e26b16628bdc7bae7c9e94fa774120fb1d9806b6",
       "selectable": true
     },
     {
@@ -7888,8 +7903,8 @@
       "path": "geosite/geosite/category-games-!cn.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-games-!cn.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 16202,
-      "sha256": "258d3f6b9995ab7a2432682a1d897a2984335c12f8577b6803c5b587541a8484",
+      "size": 16227,
+      "sha256": "7ba21c9bfcabffabf07ff1f8f3f82d6541060e559376eed86720303284c6337e",
       "selectable": true
     },
     {
@@ -7904,7 +7919,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-games-cn.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 3936,
-      "sha256": "2a9737e109edd30eb0ebe75b5ae131c1a4f9525b3893013556c8194192821c42",
+      "sha256": "3dcc40da9b2fbcc4eff35324eb8d95c413936facfa8158c7a15849bb6aa28d48",
       "selectable": true
     },
     {
@@ -7993,8 +8008,8 @@
       "path": "geosite/geosite/category-ip-geo-detect.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-ip-geo-detect.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 3524,
-      "sha256": "1b00f63f04746b26bce08713ec2786945a4ba3e1e497daa046be37138f53c923",
+      "size": 3540,
+      "sha256": "a4e7ebc33c483beb53e7945da21be5e6d7ad53d006fb73791962cc2b3ced406f",
       "selectable": true
     },
     {
@@ -8024,7 +8039,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-ir.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 2991,
-      "sha256": "edef146e266401bd32b44a72cf9f38f47ca1562a6b4e0487cf5ca1d864182909",
+      "sha256": "6e7ed2870ea22cdbf7291d89baae60a2ae907720898557b79a9ac9b2c46d3dd4",
       "selectable": true
     },
     {
@@ -8039,7 +8054,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-logistics-cn.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 2356,
-      "sha256": "f7689ac97517ee4241d3e06426a6f9337e53c12b78eb5609c3318198a33721f6",
+      "sha256": "7aa17d257351dd8ba8794ac8ab1d7dd12ef18bf50e454a4ccfac3f80e7dcc8f5",
       "selectable": true
     },
     {
@@ -8054,7 +8069,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-media.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 27251,
-      "sha256": "987c5c5a9880f52f6f7a8f5a15c05fa617feb500ae1707490c757a589d918ff1",
+      "sha256": "bb1b402fde12a8ae840f339b948736d710d8ed25fad951fc43873c6f8fd44bcb",
       "selectable": true
     },
     {
@@ -8069,7 +8084,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-media-cn.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 6271,
-      "sha256": "b9a5815ea13e983bace32136ad4ba0b3c8c2e734b181d5e64689e1860c92b337",
+      "sha256": "2c5d84a1c2bf482e90d7005b99741baa0b02d4ef73acf9bd94f6208e872bfad7",
       "selectable": true
     },
     {
@@ -8099,7 +8114,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-media-ru.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 2115,
-      "sha256": "9983389117b7860b771f669cd82598380929f815ba505885ab95076bff1c8e2a",
+      "sha256": "b8d6945fe3980edd10d861c77ab08413ffbebee55d7d2c839fee3673c678916e",
       "selectable": true
     },
     {
@@ -8144,7 +8159,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-mobile-repair.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 156,
-      "sha256": "7fa16285a6376aee4f2e3828cee9743afd109dc7a603d65fb512fa13364bb613",
+      "sha256": "6c1bd68c08ea344dbb124954ca7b084250eb5dcf7f4e6b56e44abbac255bd8af",
       "selectable": true
     },
     {
@@ -8173,8 +8188,8 @@
       "path": "geosite/geosite/category-netdisk-!cn.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-netdisk-!cn.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 795,
-      "sha256": "b79f73409f91b6b794027a23d8e483abd64d45399af835d14aea07426f8e1749",
+      "size": 847,
+      "sha256": "c97221773228dc90ef31e86dd3d2b60209c4e79151c79280d8792f62f5afc11c",
       "selectable": true
     },
     {
@@ -8324,7 +8339,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-orgs.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 2120,
-      "sha256": "7e345d63fddf39675feccc25e32a6f4088a034f257b2b26faeffdec3a7266242",
+      "sha256": "3ee20fb0fa6180b167b368b983260d2be2719e6668eee2345b443cb7acb6d7f5",
       "selectable": true
     },
     {
@@ -8384,7 +8399,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-porn.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 107243,
-      "sha256": "5a57a531df9faa1376fc730e4640114ad2ec106a8b586dddb7c7fa0f9e85c6c9",
+      "sha256": "9654cd1cb84bde0cd51125fef51f2aeff188c439f43ed8f2c2b7829da4770714",
       "selectable": true
     },
     {
@@ -8399,7 +8414,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-proxy-tunnels.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 223,
-      "sha256": "b23f293cc20282b43a321f519bdd375ebd27c19fcad99e6577500f9d34088f46",
+      "sha256": "5b8c0670284bddb9e0ad5fd55f1da80f40cff52528b1585a2f372ecae9b2f753",
       "selectable": true
     },
     {
@@ -8459,7 +8474,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-retail-ru.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 1058,
-      "sha256": "8b14e343fd0a1413aee6713ab7e0495cb2b684ea371c5daca7e0e48d9fb9e619",
+      "sha256": "8c7009aca4ca97c568495b18782aecbb42157b33d08cee10bfcc424b510ab9be",
       "selectable": true
     },
     {
@@ -8473,8 +8488,8 @@
       "path": "geosite/geosite/category-ru.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-ru.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 17922,
-      "sha256": "67e3292d33c64dee4c3a66fa4c942b74f651f2f2f9a7bd411c0677780972b7cd",
+      "size": 18148,
+      "sha256": "995e4ac23f559f4d868c009fd299ebe2674e3db5985fe433e14a49d7e6c539cf",
       "selectable": true
     },
     {
@@ -8489,7 +8504,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-scholar-!cn.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 8311,
-      "sha256": "05f4f4972c508df4b4b7d815982823733e8c37f10b9ec7939953f1ee875d50d8",
+      "sha256": "76efee8ba2af6dbe201c29c2aadc3573a967aa982fe50ab4d4810475cc367f1a",
       "selectable": true
     },
     {
@@ -8504,7 +8519,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-scholar-cn.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 1348,
-      "sha256": "0d430fc966bd1dd65e66bb22598de636105dd5a2695d76e2a7be5c99976c15ce",
+      "sha256": "3dfdbad12390d774bd1ab6439ab849f4e953233696b5c146e49cb1d73015019e",
       "selectable": true
     },
     {
@@ -8519,7 +8534,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-scholar-hk.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 756,
-      "sha256": "28759939a443df9d0541a4ac00c828d3900adf854f3fd50ebabcd228b4ed6b25",
+      "sha256": "b2a96269d48e4be16c2cd3df21a063d52835123624fdf7343f30744007be749c",
       "selectable": true
     },
     {
@@ -8549,7 +8564,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-scholar-uk.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 783,
-      "sha256": "cb4097829b54778ff52d40a9b86004befd15d77ceeb25db8e85e69946f5c4fcc",
+      "sha256": "cac3fea0400fba6d3a5b34f3cfc6121cbb1fad2a24da4c600fdbe8673792e0cc",
       "selectable": true
     },
     {
@@ -8594,7 +8609,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-social-media-!cn.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 11001,
-      "sha256": "b42ecf33609bf95c500b1f907fb5c4e7fd33b30ab88671565084c5c732336b04",
+      "sha256": "ecb01520a216c4622938fd51ba470216fbf8d1133372ad18b4425269268ae483",
       "selectable": true
     },
     {
@@ -8609,7 +8624,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-social-media-cn.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 767,
-      "sha256": "dcf867bac89d20de296d0d8aa78a3c0ea2610c177dadf9cec46c08169d00c78b",
+      "sha256": "3067ce7cbeaf96aaf8d656ec15e47b1d8b9aa627923e0176b256606319bf9d29",
       "selectable": true
     },
     {
@@ -8638,8 +8653,8 @@
       "path": "geosite/geosite/category-speedtest.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-speedtest.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 1429,
-      "sha256": "a2daad1fc54c2cca9577a57f8931a21d8bcce979b4a291b01d0b42e23627bb7b",
+      "size": 1442,
+      "sha256": "85b595da21411e8e19f59b803b41f729937f7b0440b5b29fb309a8ef4f4f7352",
       "selectable": true
     },
     {
@@ -8699,7 +8714,22 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-tech-media-ru.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 523,
-      "sha256": "3a1d78942a4bf63d0607b20dc17f4966dc263f3b48316ed6b801090a65ee5eda",
+      "sha256": "345f2f44a9b8a002eb6d50d0d6a43b33c49423efbd0e67a7a08ab7f51ede7ec2",
+      "selectable": true
+    },
+    {
+      "id": "geosite/geosite/category-telemetry",
+      "name": "category-telemetry",
+      "category": "geosite",
+      "kind": "domain",
+      "usage": "route-list",
+      "listType": "host",
+      "format": "text",
+      "path": "geosite/geosite/category-telemetry.conf",
+      "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-telemetry.conf",
+      "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
+      "size": 195,
+      "sha256": "6c6bd8cfc4aed808fb24d585db9338ecf4d18d8d4b0a5d40e7582bbc51c29842",
       "selectable": true
     },
     {
@@ -8759,7 +8789,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-urlshortner.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 60,
-      "sha256": "232cd3695ffc741ae16c47b9535024b75331d4a3446bf24c1dff8d5b4deab203",
+      "sha256": "f1fb4a050e98102d84dcde989b2ba6e8882c6db25fdfca6bf046b46bc2bb7565",
       "selectable": true
     },
     {
@@ -8789,7 +8819,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-vpnservices.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 1034,
-      "sha256": "9eeab058938dba742d2c985ea4b488987ff59bf5a8cf7cff4a1d5144dc0c8d5d",
+      "sha256": "9f72e2811b47230d12c57d8e0a2f8ecca9eb1c0765d48e663293c331c6fa2c7c",
       "selectable": true
     },
     {
@@ -8804,7 +8834,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-web-archive.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 265,
-      "sha256": "ec82aefc6b7c177715ee78379b89778a217fdfa3e83600785147a5b9f99ed12a",
+      "sha256": "2a95332ac69677c23a71bbd1a25cdac14b1c337684895856c30659ed98daa07c",
       "selectable": true
     },
     {
@@ -9103,8 +9133,8 @@
       "path": "geosite/geosite/china-list.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/china-list.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 1622650,
-      "sha256": "f03a40c32729442298c5ea240c5cabe8a3181ba68280bb1cd1a5add33ab905ba",
+      "size": 1609322,
+      "sha256": "2dc58f342ce8050696c53643b6dab7df646bff0ff008fcf833f170d4192e6629",
       "selectable": true
     },
     {
@@ -9568,8 +9598,8 @@
       "path": "geosite/geosite/cn.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/cn.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 1635483,
-      "sha256": "6bb2fb2cff9c7c18bbf70a68c98c5c1619eb975caad0578c15264bc35c29ee1f",
+      "size": 1622261,
+      "sha256": "dae9e25644d290c2222d2a1bd6dc1a2ed64302e137a0ca7fe127cbe3e8494aeb",
       "selectable": true
     },
     {
@@ -10739,7 +10769,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/disney.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 4123,
-      "sha256": "56f7df57ec03a287b82fb03ac326217fe1a58cbe7cef5570374b3e8797ca4347",
+      "sha256": "174e4a0f75986dc0c0e64a4ed3014391398d5eb18147c85aa77794dccca5d486",
       "selectable": true
     },
     {
@@ -12793,8 +12823,8 @@
       "path": "geosite/geosite/geolocation-!cn.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/geolocation-!cn.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 455480,
-      "sha256": "1adbdbed02d840c4be3a61c201a12a2a1c67fd0a03e0e97c5e57a90cf0bd8a9b",
+      "size": 457337,
+      "sha256": "7397806f55dfcc21845fec9aac83da149071d196a9db8e4460825f652d26a50d",
       "selectable": true
     },
     {
@@ -12809,7 +12839,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/geolocation-cn.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 77037,
-      "sha256": "5c942fcd90e2385a3a4ce2118b981818b6db75c66c524711795cad5ffcce539c",
+      "sha256": "23c2dd51193b5ca4eb8fd4651f8a797e289f36f5afd3a41a651f48fcd9d2a8a1",
       "selectable": true
     },
     {
@@ -12853,8 +12883,8 @@
       "path": "geosite/geosite/gfw.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/gfw.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 67343,
-      "sha256": "a16b46269d4817598aa03da0a32d7ad7b2f0f5fa4c8d2fd8cdf407eea5fe9b75",
+      "size": 67892,
+      "sha256": "46739c5b9e97bcd13048e0f691db6651838ea65c16b609da6c8eba2023893d70",
       "selectable": true
     },
     {
@@ -12988,8 +13018,8 @@
       "path": "geosite/geosite/github.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/github.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 1925,
-      "sha256": "6403bd356540e60b256c6cd2779788f2aa94177bc28658701731bcbd53646864",
+      "size": 1943,
+      "sha256": "a409a430236a66379421cdf84b47154f5c89b80bb569391049439197e63d93e5",
       "selectable": true
     },
     {
@@ -13214,7 +13244,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/google.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 18365,
-      "sha256": "9cc875d55ce4cc5da70df905aacc9b50d84cee6cb16ea7e9d57991e8ea60fc5c",
+      "sha256": "131d9d6a14194a1dab35757350ef12a5b30d242b6ecf4799cf2723d3d27838ec",
       "selectable": true
     },
     {
@@ -13423,8 +13453,8 @@
       "path": "geosite/geosite/greatfire.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/greatfire.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 181,
-      "sha256": "162822c952545d51ef036fe69bdd2e525cea3352967de7ac7c1e9a55bf33f680",
+      "size": 208,
+      "sha256": "66d587b61d274128f5e13e10f9fa48a37a7c3a1647f21f071566e42d9ac68195",
       "selectable": true
     },
     {
@@ -15869,7 +15899,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/kingsoft.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 619,
-      "sha256": "e9579301597b15d961975673555ddbbf365ad6b68e7428b2b58ecb8117ca9806",
+      "sha256": "5a037ca2fe31f2553bf5b01683fd09e25f3bb43d966b02caf4b40c1ecd23b85f",
       "selectable": true
     },
     {
@@ -17338,8 +17368,8 @@
       "path": "geosite/geosite/mega.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/mega.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 33,
-      "sha256": "7c13e42719af5d4ab103fae7fb95c9927661b467da0a3142b9fb00f5f2d785c3",
+      "size": 85,
+      "sha256": "89f78bc1558c9c8fd104d7c2539a4c18c55ebe2e592e5070930d91f399944174",
       "selectable": true
     },
     {
@@ -17443,8 +17473,8 @@
       "path": "geosite/geosite/meta.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/meta.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 9968,
-      "sha256": "5b6dafcfedd098fe7c473eb654f6b6d739a5ec277d3107427a39cf1cc77660c3",
+      "size": 9926,
+      "sha256": "319500c78b931fe66620cf95593366bab2f0049242f84a135d2a61ba03885b47",
       "selectable": true
     },
     {
@@ -17518,8 +17548,8 @@
       "path": "geosite/geosite/microsoft.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/microsoft.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 15473,
-      "sha256": "8b8a5df91305f2950a4d69e73a6cdcd0b40402240fe861069b26cf5812f426f1",
+      "size": 15491,
+      "sha256": "33970b08338a42a617af0f6835f27f216096b4c8e493dd2981a333bbaa486e3c",
       "selectable": true
     },
     {
@@ -17639,7 +17669,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/mindgeek.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 741,
-      "sha256": "c462e0ac25443d66d41f0d3cd6e3a32632bfa631fa141dcb9cf2717b6641882a",
+      "sha256": "45097e9758b8921b3605c67d70b2ff0fea09fbc00a3b415eb19f7dd29bfbcf60",
       "selectable": true
     },
     {
@@ -17654,7 +17684,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/mindgeek-porn.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 726,
-      "sha256": "472dae9cfbf09b4089effd305fd02cd07ab56a5e088bc2053eaebbd1a3db5667",
+      "sha256": "9c7d721e01a59a43ce2b69cd7923276cdd0a275c53c6ae059bd84af53467ca66",
       "selectable": true
     },
     {
@@ -17909,7 +17939,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/monotype.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 252,
-      "sha256": "1ac244809d4a9263129fe296bf7a2292f808e1b774ad0c60a84a060fd9bfcdc1",
+      "sha256": "a41ace5b4a892754b0cdb28e2a9f48ce32c4b1b94b1e58a095b4d81fea7099e2",
       "selectable": true
     },
     {
@@ -18524,7 +18554,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/newscorp.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 2830,
-      "sha256": "8d6bd3359dd5b34ec24c5d7ca11366b66ac2a47283ab3401b2e958a9f926a920",
+      "sha256": "5751a94031c87842dd70940b9a7bb8e68e736f1d81dc3282d616fe392ea4a278",
       "selectable": true
     },
     {
@@ -20143,8 +20173,8 @@
       "path": "geosite/geosite/playstation.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/playstation.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 81,
-      "sha256": "b1e70e31e8f6ad7ad91a0ff1fe170382eb8786c25089f4e710b2c9a08dd5afa5",
+      "size": 106,
+      "sha256": "1c6e8540edc4183edd043b8cf17a80871e2b1648bf3a57fe9237e6964f3df416",
       "selectable": true
     },
     {
@@ -20579,7 +20609,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/qcloud.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 6079,
-      "sha256": "b33976ac0df20170dde898b7f52d020f3b0916a8bc9ba4371b80df0546ff51b0",
+      "sha256": "872fcca29d2617a02bf45435caec340c169141580c02eccfbdaaa707ef59c6f8",
       "selectable": true
     },
     {
@@ -20894,7 +20924,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/rb.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 6908,
-      "sha256": "deafd268811730cb4dc6c9da871c82d214f2c1462435db812913133256b867be",
+      "sha256": "85a3ff392ce605872ddc03652235eb07638826440d52822aad75e9ac67a48b48",
       "selectable": true
     },
     {
@@ -21553,8 +21583,23 @@
       "path": "geosite/geosite/sber.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/sber.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 1481,
-      "sha256": "28332b5e40a13b95c57166c2e61873958061cd825af68a8d8de80fdd35ad264b",
+      "size": 1509,
+      "sha256": "c571bd380e8ab53dac150e6d130675b19c88ceb293ecef76e5c94c8976644f5f",
+      "selectable": true
+    },
+    {
+      "id": "geosite/geosite/sberbank",
+      "name": "sberbank",
+      "category": "geosite",
+      "kind": "domain",
+      "usage": "route-list",
+      "listType": "host",
+      "format": "text",
+      "path": "geosite/geosite/sberbank.conf",
+      "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/sberbank.conf",
+      "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
+      "size": 285,
+      "sha256": "ff1843c8b557ea4ec3e56949192633d1b8d76c9b9064d92d7da36a410f9334cd",
       "selectable": true
     },
     {
@@ -22438,8 +22483,8 @@
       "path": "geosite/geosite/sony.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/sony.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 1687,
-      "sha256": "41723d65088db17d5465b56762d08e7910438250ecd87ede3223bbab66524d3c",
+      "size": 1778,
+      "sha256": "709f21a0e1ec8955a8f1a22dee39de4db5ee4bfb49f8aee4cac085b0f87a80b7",
       "selectable": true
     },
     {
@@ -23354,7 +23399,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/take-two.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 336,
-      "sha256": "f7a3e4b800dcdee52e1cf55a33922c40ddbe49e3a2b80dba5ace544027f8a275",
+      "sha256": "f845b24ef1e2c168cc45832cccc224a62cde939b7ab900de15c3e47360b968d6",
       "selectable": true
     },
     {
@@ -23624,7 +23669,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/tencent.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 11407,
-      "sha256": "d9fd72b4d2a3d33e3ff44e290e14763b82a5e2d1077a29071af6ae36da83026b",
+      "sha256": "c70838f1c86aa4a5bd4faef47738789a920575088a1e2d3fff8d81632d1e06db",
       "selectable": true
     },
     {
@@ -23669,7 +23714,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/tencent-tme.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 763,
-      "sha256": "695ccf40aeffc8917c07bcdccdf44d35cb27bc2e2742ab28df3de26bad3fc7b9",
+      "sha256": "1a7dea30c7fe1d500067342b0dc40d95e0f8a4caaa1c87dc20286276af349629",
       "selectable": true
     },
     {
@@ -25693,8 +25738,8 @@
       "path": "geosite/geosite/whatsapp.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/whatsapp.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 219,
-      "sha256": "b89caaffb32d0c0932a74b278486132138b86a1c3c37874031cedd5c7a2f1e2d",
+      "size": 177,
+      "sha256": "e135eda378bf9a83cb34e0b409aa919f8a0b3f461364f4de8ad3cc82ec1387c3",
       "selectable": true
     },
     {
@@ -26159,7 +26204,7 @@
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/xbox.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
       "size": 767,
-      "sha256": "a96521759dcfc937525b68974d6f4dd02024f30442201c2e55245c709a6636ba",
+      "sha256": "3f4ba6080c021e4cc5f3c0c22b896d9f3cdf5d330da04074fd510ee6e168c93f",
       "selectable": true
     },
     {
@@ -26488,8 +26533,8 @@
       "path": "geosite/geosite/yandex.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/yandex.conf",
       "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-      "size": 2024,
-      "sha256": "58dbfb3c2310edc26ce973a811924872b3166adf451819732fa0f96011abebae",
+      "size": 2333,
+      "sha256": "a9120579137256c0f35d5e306e9e68491cb5209ae91b289a2302ed1458584b2d",
       "selectable": true
     },
     {
@@ -27277,8 +27322,8 @@
       "path": "yuhaiin/accelerated-domains.china.conf",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/yuhaiin/accelerated-domains.china.conf",
       "sourceUrl": "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf",
-      "size": 1623695,
-      "sha256": "70328baf321ddfd6165555c8299777920bd3bb03c15ffc3e8b2ced20014d0797",
+      "size": 1610344,
+      "sha256": "fd291bdec747d652ba663ba600d82618184d0d33ea4e9fe3cc08d575e6f615f9",
       "selectable": true
     },
     {
@@ -27307,8 +27352,8 @@
       "path": "yuhaiin/anti-ad-domains.txt",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/yuhaiin/anti-ad-domains.txt",
       "sourceUrl": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt",
-      "size": 2291275,
-      "sha256": "67c51bfd2cc800523ad55a0e3babe6d6a243b804e7f565d0217203970f963f42",
+      "size": 2352025,
+      "sha256": "55fae212827d3bd0df5b74d18505f9bb13babf16cb596cece5f3cff9f4d4a666",
       "selectable": true
     },
     {
@@ -27409,8 +27454,8 @@
       "path": "yuhaiin/pglyoyo.txt",
       "url": "https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/yuhaiin/pglyoyo.txt",
       "sourceUrl": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblock\u0026showintro=0\u0026mimetype=plaintext",
-      "size": 124728,
-      "sha256": "2e53c8a034fb53de8419b481a75b355567245d38a15336db30cc55a901ee8940",
+      "size": 125360,
+      "sha256": "5654ec1901aace57abd3d4308fda2facd1d8208246db9eb38cd506a91b9876ba",
       "selectable": true
     },
     {
