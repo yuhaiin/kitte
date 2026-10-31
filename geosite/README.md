@@ -158,6 +158,7 @@ Generated from `geosite.dat` by `go run ./cmd/kitte update`.
 | `bitauto.conf` | [bitauto.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/bitauto.conf) |
 | `bitflyer.conf` | [bitflyer.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/bitflyer.conf) |
 | `bitly.conf` | [bitly.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/bitly.conf) |
+| `bitrix.conf` | [bitrix.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/bitrix.conf) |
 | `bitsquare.conf` | [bitsquare.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/bitsquare.conf) |
 | `bitwarden.conf` | [bitwarden.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/bitwarden.conf) |
 | `bjyouth.conf` | [bjyouth.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/bjyouth.conf) |
@@ -214,6 +215,7 @@ Generated from `geosite.dat` by `go run ./cmd/kitte update`.
 | `catchplay.conf` | [catchplay.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/catchplay.conf) |
 | `category-acg.conf` | [category-acg.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-acg.conf) |
 | `category-ads-all.conf` | [category-ads-all.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-ads-all.conf) |
+| `category-ads-and-telemetry.conf` | [category-ads-and-telemetry.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-ads-and-telemetry.conf) |
 | `category-ads-ir.conf` | [category-ads-ir.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-ads-ir.conf) |
 | `category-ads.conf` | [category-ads.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-ads.conf) |
 | `category-ai-!cn.conf` | [category-ai-!cn.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-ai-!cn.conf) |
@@ -260,6 +262,7 @@ Generated from `geosite.dat` by `go run ./cmd/kitte update`.
 | `category-entertainment-ru.conf` | [category-entertainment-ru.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-entertainment-ru.conf) |
 | `category-entertainment.conf` | [category-entertainment.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-entertainment.conf) |
 | `category-finance.conf` | [category-finance.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-finance.conf) |
+| `category-flight-simulator.conf` | [category-flight-simulator.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-flight-simulator.conf) |
 | `category-food-cn.conf` | [category-food-cn.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-food-cn.conf) |
 | `category-forums-ir.conf` | [category-forums-ir.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-forums-ir.conf) |
 | `category-forums-ru.conf` | [category-forums-ru.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-forums-ru.conf) |
@@ -322,6 +325,7 @@ Generated from `geosite.dat` by `go run ./cmd/kitte update`.
 | `category-tech-ir.conf` | [category-tech-ir.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-tech-ir.conf) |
 | `category-tech-media-ru.conf` | [category-tech-media-ru.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-tech-media-ru.conf) |
 | `category-tech-media.conf` | [category-tech-media.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-tech-media.conf) |
+| `category-telemetry.conf` | [category-telemetry.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-telemetry.conf) |
 | `category-tm.conf` | [category-tm.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-tm.conf) |
 | `category-travel-ir.conf` | [category-travel-ir.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-travel-ir.conf) |
 | `category-travel-ru.conf` | [category-travel-ru.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/category-travel-ru.conf) |
@@ -336,6 +340,7 @@ Generated from `geosite.dat` by `go run ./cmd/kitte update`.
 | `cctv.conf` | [cctv.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/cctv.conf) |
 | `cdek.conf` | [cdek.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/cdek.conf) |
 | `cdn77.conf` | [cdn77.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/cdn77.conf) |
+| `cdprojekt.conf` | [cdprojekt.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/cdprojekt.conf) |
 | `ceno.conf` | [ceno.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/ceno.conf) |
 | `cerebras.conf` | [cerebras.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/cerebras.conf) |
 | `cern.conf` | [cern.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/cern.conf) |
@@ -481,6 +486,7 @@ Generated from `geosite.dat` by `go run ./cmd/kitte update`.
 | `dropbox.conf` | [dropbox.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/dropbox.conf) |
 | `drweb.conf` | [drweb.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/drweb.conf) |
 | `dslreports.conf` | [dslreports.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/dslreports.conf) |
+| `dsn-host.conf` | [dsn-host.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/dsn-host.conf) |
 | `duckduckgo.conf` | [duckduckgo.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/duckduckgo.conf) |
 | `duitang.conf` | [duitang.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/duitang.conf) |
 | `duolingo.conf` | [duolingo.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/duolingo.conf) |
@@ -535,6 +541,7 @@ Generated from `geosite.dat` by `go run ./cmd/kitte update`.
 | `falungong.conf` | [falungong.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/falungong.conf) |
 | `familymart.conf` | [familymart.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/familymart.conf) |
 | `fandom.conf` | [fandom.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/fandom.conf) |
+| `fanfiction.conf` | [fanfiction.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/fanfiction.conf) |
 | `fans66.conf` | [fans66.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/fans66.conf) |
 | `fansta.conf` | [fansta.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/fansta.conf) |
 | `farfetch.conf` | [farfetch.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/farfetch.conf) |
@@ -561,6 +568,7 @@ Generated from `geosite.dat` by `go run ./cmd/kitte update`.
 | `flowus.conf` | [flowus.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/flowus.conf) |
 | `flowwow.conf` | [flowwow.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/flowwow.conf) |
 | `flutter.conf` | [flutter.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/flutter.conf) |
+| `fluxer.conf` | [fluxer.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/fluxer.conf) |
 | `flyio.conf` | [flyio.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/flyio.conf) |
 | `focuschina.conf` | [focuschina.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/focuschina.conf) |
 | `fonbet.conf` | [fonbet.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/fonbet.conf) |
@@ -842,6 +850,7 @@ Generated from `geosite.dat` by `go run ./cmd/kitte update`.
 | `lianjia.conf` | [lianjia.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/lianjia.conf) |
 | `liberapay.conf` | [liberapay.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/liberapay.conf) |
 | `libgen.conf` | [libgen.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/libgen.conf) |
+| `librewolf.conf` | [librewolf.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/librewolf.conf) |
 | `liepin.conf` | [liepin.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/liepin.conf) |
 | `lifewire.conf` | [lifewire.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/lifewire.conf) |
 | `ligastavok.conf` | [ligastavok.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/ligastavok.conf) |
@@ -1179,6 +1188,7 @@ Generated from `geosite.dat` by `go run ./cmd/kitte update`.
 | `sankei.conf` | [sankei.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/sankei.conf) |
 | `sb.conf` | [sb.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/sb.conf) |
 | `sber.conf` | [sber.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/sber.conf) |
+| `sberbank.conf` | [sberbank.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/sberbank.conf) |
 | `scala.conf` | [scala.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/scala.conf) |
 | `scaleflex.conf` | [scaleflex.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/scaleflex.conf) |
 | `scenesource.conf` | [scenesource.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/scenesource.conf) |
@@ -1408,6 +1418,7 @@ Generated from `geosite.dat` by `go run ./cmd/kitte update`.
 | `vancl.conf` | [vancl.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/vancl.conf) |
 | `vanish.conf` | [vanish.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/vanish.conf) |
 | `vaptcha.conf` | [vaptcha.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/vaptcha.conf) |
+| `vatsim.conf` | [vatsim.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/vatsim.conf) |
 | `veet.conf` | [veet.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/veet.conf) |
 | `vercel.conf` | [vercel.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/vercel.conf) |
 | `verisign-pki.conf` | [verisign-pki.conf](https://raw.githubusercontent.com/yuhaiin/kitte/auto-update/geosite/geosite/verisign-pki.conf) |
